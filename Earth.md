@@ -1,361 +1,361 @@
-# Earth Form — Draft 4.1
+# EARTH — Draft 8
 
-> **Control the Earth. Do not be controlled by it.**
+**Root • Weight • Balance • Ground Force**
 
-**Theme:** Root • Weight • Hip Strength • Balance • Core • Control of Ground
+> **The phrase is the exercise. The stance is where its force becomes visible.**
 
-Earth is about controlling the practitioner's relationship with the ground: rooting against it, driving through it, redirecting force through it, descending toward it under control, bracing against it, and rising from it.
+Motion carries most of the training load. Every descent, rise, rotation, weight transfer, chamber, and recovery remains muscularly controlled.
 
-The form may approach or contact the floor, but it never settles onto it.
+Holds capture important structures rather than dividing the form into exercise stations.
 
-## Movement Grammar
-
-- **HOLD 7** — Establish an actively loaded position and hold for seven slow breaths.
-- **HOLD 3 / HOLD 5** — Short loaded punctuation used within the core passage.
-- **FLOW** — Continuous controlled movement. Do not stop to count breaths.
-- **SNAP** — A crisp martial endpoint. Control resumes immediately afterward.
-
-Difficulty comes from leverage, depth, active tension, balance, and control rather than repetitions or speed.
-
-The form alternates slow, deliberate weight transfer with sudden martial definition.
+- **FLOW** — continuous, actively loaded movement.
+- **SNAP** — force resolves into a definite structure.
+- **HOLD 3** — establish and own the structure.
+- **HOLD 5** — deliberate isometric emphasis.
+- **HOLD 7** — reserved for positions where extended isometric loading specifically warrants it.
 
 ---
 
-## I. Salutation — Bow to Earth
+## 1. Root
 
-Begin in **Natural Stance**.
+**Natural → Bow → Deep Forward Fold [3]**
 
-Bring the hands into opening guard.
+Unfold under control. Gather the hands as the legs open.
 
-Perform a controlled martial bow, hinging from the hips. Rather than returning upright, continue the bow naturally into a deep **Standing Forward Fold**.
+**Double Palm Press SNAP → Horse [3]**
 
-**FORWARD FOLD — HOLD 7**
-
-Maintain active control of the position rather than hanging passively.
-
-After the seventh breath:
-
-1. Lengthen through a half-lift.
-2. Rise slowly.
-3. Sweep the arms outward and overhead.
-4. Let the arms descend as the feet step wide.
+Do not relax during the rise or sink. The entire movement remains loaded.
 
 ---
 
-## II. The Root
+## 2. Four Corners
 
-Sink smoothly into **Horse Stance**.
+From Horse, establish the first line.
 
-**HORSE — HOLD 7**
+### Corner A
 
-Keep the torso tall and pelvis controlled. Press deliberately into the floor through the feet.
+Present → redirect → control →
 
-During the hold, perform one slow arm cycle:
+**Right Punch SNAP → Left Punch SNAP**
 
-**Open → Gather → Draw inward → Press outward → Guard**
+The final left punch loads its own withdrawal.
 
-After the seventh breath, **do not rise**.
+### A → B
 
-The kata begins from underneath the load.
+Sidestep + hip rotation →
 
----
+**Left Horizontal Elbow SNAP**
 
-## III. Turning Guard
+The elbow creates the new facing.
 
-**FLOW / SNAP**
+### Corner B
 
-Shift the center toward the right leg and turn the hips and feet into a right **Bow/Front Stance**.
+Present → redirect → control →
 
-**Sweeping block — SNAP**
+**Punch SNAP → Punch SNAP**
 
-**Palm strike — SNAP**
+The final strike loads the hips rather than initiating another hand transition.
 
-Withdraw through Horse without stopping and transfer across center.
+### B → C
 
-Enter left **Bow/Front Stance**.
+Gather → rotate →
 
-**Sweeping block — SNAP**
+**Taekwondo-style Sweeping/Turning Kick SNAP**
 
-**Palm strike — SNAP**
+Let the kick carry the 180° reversal.
 
-The arms follow the hips and trunk. Rotation begins at the ground and travels through the body.
+Its landing establishes Corner C.
 
-Return through center.
+### Corner C
 
-> Bow/Front Stances are martial **FLOW** positions, not sustained yoga-lunge holds.
+Present → redirect → control →
 
----
+**Left Punch SNAP → Right Punch SNAP**
 
-## IV. Four Corners
+The reversed order leaves the right side prepared.
 
-**FLOW / SNAP**
+### C → D
 
-Earth revolves around its center rather than advancing across the room.
+Sidestep + hip rotation →
 
-Move toward the first corner:
+**Right Horizontal Elbow SNAP**
 
-**Bow Stance → Block → Strike**
+### Corner D
 
-Draw inward and pivot.
+Present → redirect → control →
 
-Second corner:
+**Punch SNAP → Punch SNAP**
 
-**Bow Stance → Opposing Block → Strike**
+Withdraw the final strike into a circular receiving action.
 
-Continue through the remaining corners, alternating sides.
+Turn toward center as the arms open.
 
-Stay relatively low. Let the center of mass travel smoothly while the feet continually establish and relinquish support.
+**Outward Ward SNAP → Horse [3]**
 
-Finish facing forward.
+### Four Corners Pattern
 
----
+**A → LEFT ELBOW → B → SWEEPING KICK → C → RIGHT ELBOW → D → ROOT**
 
-## V. Stone Gate
-
-Open directly into **Horse Stance** and sink.
-
-**HORSE — HOLD 7**
-
-During the hold, perform one slow upper-body phrase:
-
-**Sweeping block → Chamber → Double palm press → Draw inward → Opposing sweep → Guard**
-
-Keep the lower body rooted throughout.
-
-On the seventh breath, transfer laterally without first standing.
+This is one journey through four vectors, not the same combination repeated four times.
 
 ---
 
-## VI. Falling Water
+## 3. Lateral Earth
 
-**FLOW → HOLD**
+Immediately soften Horse into **Cloud Hands**.
 
-Sink into a deep **Right Side Lunge**.
+**Right → Center → Left → Center**
 
-Sweep the hands downward across the body and upward with the weight transfer.
+Keep the legs loaded throughout the lateral transfer.
 
-Without standing, move slowly through center into the opposite side.
+Allow the circle to broaden as the body sinks.
 
-**LEFT SIDE LUNGE — HOLD 7**
+**Lateral Ward SNAP → Panther-inflected Side Lunge [3]**
 
-After seven breaths, transfer continuously across center.
+Do not rise.
 
-**RIGHT SIDE LUNGE — HOLD 7**
+Rotate and transfer through the low stance while Cloud Hands carries the upper body across.
 
-After seven breaths, gather the weight beneath the body and rise under control.
+**Opposite Lateral Ward SNAP → Opposite Side Lunge [3]**
 
----
+Drive laterally out of the stance.
 
-## VII. Crane
+Gather the free leg as the hands contract into guard.
 
-Gather onto the right leg and rise into **Crane Stance**, left knee elevated and hands in martial guard.
+**Side Kick SNAP**
 
-**CRANE — HOLD 7**
+Retract sharply.
 
-Keep the standing leg and hip active, pelvis controlled, and trunk stable.
-
-After the seventh breath, slowly extend the raised leg into a front kick.
-
-**FRONT KICK — SNAP**
-
-Do not drop the leg.
-
-Retract under control into Crane, then open the hip.
+Land through a rooted stance without stopping.
 
 ---
 
-## VIII. The Tree
+## 4. Balance
 
-From Crane, enter the familiar **Tree Pose**.
+Transfer onto one leg while the hands gather.
 
-Let the martial guard gradually open into the yogic arm position.
+The free knee rises with the center.
 
-**TREE — HOLD 7**
+**Crane SNAP → HOLD 3**
 
-Keep the standing leg and hip active while the trunk maintains quiet balance.
+Extend:
 
-After seven breaths:
+**Front Kick SNAP**
 
-**Tree → Guard → Crane**
+Retract completely through Crane without putting the foot down.
 
-Close the hip and descend under control.
+Open the hip while the hands open with it.
 
----
+**Tree → HOLD 5**
 
-## IX. The Falling Stone
+Close the hip and arms together, passing through Crane as FLOW.
 
-**FLOW — NO HOLD**
+Tip forward under control while the free leg extends behind.
 
-Step backward into a deep **Low Lunge** while the arms sweep downward.
+The arms chamber and then extend with the developing hinge.
 
-Do **not** hold the lunge.
+**Double Palm Thrust SNAP → Warrior III [5]**
 
-Shift backward briefly through the hamstring position, then flow forward again.
+Gather inward without collapsing the standing leg.
 
-Plant the hands and carry the body forward into **Plank**.
+Transfer through center and establish the opposite support leg.
 
-The entire passage is a controlled descent rather than another sustained lunge.
+Extend again:
 
----
+**Double Palm Thrust SNAP → Opposite Warrior III [5]**
 
-## X. The Earth Core
+Gather the extended leg underneath.
 
-### Right-Side Phrase
+Rise into Crane as FLOW.
 
-Begin in **Plank**.
+**Front Kick SNAP**
 
-1. **Center Plank — HOLD 3**
-2. Draw right knee toward right elbow — **HOLD 3**
-3. Return to center Plank — **HOLD 3**
-4. Draw right knee cross-body toward left elbow — **HOLD 3**
-5. Return to center Plank — **HOLD 5**
-6. Step right foot forward into deep **Revolved Lunge**
-7. Rotate the torso open — **HOLD 7**
+Retract and plant forward.
 
-Use a deliberate martial line with the free arm rather than treating the position as a generic upward reach.
-
-Close the rotation and return through Plank.
-
-### Left-Side Phrase
-
-1. Draw left knee toward left elbow — **HOLD 3**
-2. Return to center Plank — **HOLD 3**
-3. Draw left knee cross-body toward right elbow — **HOLD 3**
-4. Return to center Plank — **HOLD 5**
-5. Step left foot forward into deep **Revolved Lunge**
-6. Rotate the torso open — **HOLD 7**
-
-Close the rotation and move directly into **Rising Earth**.
-
-The core passage should feel like:
-
-**Descent → Brace → Cross-body control → Rotation → Recovery**
-
-It is one continuous encounter with the ground, not a collection of floor exercises.
-
-**Never sit. Every floor contact remains loaded.**
+The landing immediately begins the descent.
 
 ---
 
-## XI. Rising Earth
+## 5. Panther Descent
 
-From the final Revolved Lunge, begin shifting the weight forward and rise without momentum.
+The forward landing receives the body's weight while the torso coils.
 
-### First Side
+Sink through the leg as the arm chambers high.
 
-Extend the rear leg as the torso inclines forward.
+**Downward Chop SNAP**
 
-Enter **Warrior III**.
+The chop and descent terminate together in a:
 
-**WARRIOR III — HOLD 7**
+**Panther-inflected Low Forward Stance [3]**
 
-Use the standing hip as the pivot while the torso and extended leg create opposing leverage.
+Shift the weight backward under control, allowing the forward leg to lengthen.
 
-Gather inward without dropping the rear foot.
+The hands receive rather than go idle.
 
-Rise into **Crane**.
+Reverse the transfer.
 
-**CRANE — HOLD 7**
+Drive forward again and let the hands descend toward Earth.
 
-Slowly extend into a front kick.
+There is no separate transition to the floor.
 
-**FRONT KICK — SNAP**
+The forward action continues until the hands accept load.
 
-Retract into Crane.
+Extend into:
 
-Open the hip and enter **Tree**.
+**Plank [5]**
 
-**TREE — HOLD 7**
+---
+
+## 6. Ground Control
+
+Remain continuously active.
+
+**Right Knee → Right Elbow [3]**
+
+**Center Plank [3]**
+
+**Right Knee → Left Elbow [3]**
+
+**Center Plank [3]**
+
+**Left Knee → Left Elbow [3]**
+
+**Center Plank [3]**
+
+**Left Knee → Right Elbow [3]**
 
 Return:
 
-**Tree → Crane**
+**Plank [5]**
 
-### Mirrored Warrior III
+This is one exercise phrase rather than a collection of separate plank poses.
 
-Transfer through center without turning the sequence into a reset.
-
-Enter **Warrior III on the opposite standing leg**.
-
-**WARRIOR III — HOLD 7**
-
-Both sides receive the same loaded unilateral hip-hinge work.
-
-Gather back into **Crane**, then descend under control into Bow Stance.
-
-The Rising Earth passage should feel continuous: the practitioner has approached the ground, braced against it, and now levers the body completely away from it.
+The center holds restore structure between loaded knee actions.
 
 ---
 
-## XII. Return
+## 7. Panther Rotation — Falling and Rising
 
-**FLOW / SNAP**
+From Plank, drive one foot forward underneath the body.
 
-**Palm block — SNAP**
+As weight transfers into the foot, begin rotating through the hips and torso.
 
-**Strike — SNAP**
+The upper body chambers high.
 
-Pivot through center.
+**Downward Chop SNAP**
 
-**Opposing block — SNAP**
+The chop, rotation, and advancing leg create:
 
-**Strike — SNAP**
+**Revolved Panther/Lunge Stance [3]**
 
-Turn toward the original orientation.
+Rotate **into** the stance. Do not arrive in a lunge and then add rotation.
 
-Open the feet and sink into Horse.
+Uncoil.
 
-### Final Horse
+Drive through the planted foot.
 
-**HORSE — HOLD 7**
+The upward ground force travels through the hips and trunk.
 
-During the seven breaths, allow the martial character gradually to quiet.
+**Muay Thai Rising Elbow SNAP**
 
-Let the guard open into slow circular movement:
+Continue the recovery rather than stopping upright.
 
-**Circle → Gather → Settle**
+Hands descend as the body folds forward into support.
 
-On the seventh breath:
+Pass through Plank as **FLOW**.
 
-1. Straighten the legs slowly.
-2. Sweep the arms outward.
-3. Rise.
-4. Reach overhead.
+Bring the opposite foot through.
 
-Do not close the form yet.
+Rotate into the other side:
+
+**Downward Chop SNAP → Opposite Revolved Panther/Lunge [3]**
+
+Uncoil and drive upward:
+
+**Rising Elbow SNAP**
+
+Continue fully to standing.
+
+### Falling and Rising Pattern
+
+**CHOP ↓ → ROTATED LOW STANCE [3] → ELBOW ↑**
+
+**FLOW THROUGH GROUND**
+
+**CHOP ↓ → ROTATED LOW STANCE [3] → ELBOW ↑**
+
+The two rotated lunges are not repetitions of the earlier Panther descent.
+
+Their defining load is:
+
+**Ground recovery → rotation → stabilization → uncoiling ascent**
 
 ---
 
-## XIII. Salute the Sun
+## 8. Return to Root
 
-Let the overhead reach become the opening of your **established Sun Salutation**.
+Let the final rising elbow recoil naturally.
 
-Complete your usual sequence rather than inserting a newly prescribed one.
+Continue its rotation through the torso.
 
-Finish with the customary overhead/arm stretch.
+Gather the leg.
 
-Return to **Natural Stance**.
+**Low Crescent Kick SNAP**
+
+The kick carries the remaining turn rather than decorating it.
+
+Retract and plant wide.
+
+The landing powers:
+
+**Double Outward Ward SNAP → Horse [5]**
+
+This Horse receives the longer hold as the final rooted strength statement of the form.
+
+Over five breaths, gradually release the aggressive structure without releasing postural control.
+
+The hands circle:
+
+**Ward → Receive → Gather → Sink**
+
+Rise.
+
+Continue into the established **Sun Salutation and arm stretch**.
+
+Return to Natural Stance.
 
 Stillness.
 
-**Earth ends where Earth began.**
+---
+
+# Memory Skeleton
+
+**Bow → Fold [3] → Horse [3]**
+
+**A → Left Elbow → B → Sweeping Kick → C → Right Elbow → D → Horse [3]**
+
+**Cloud Hands → Lateral Panther [3] → Lateral Panther [3] → Side Kick**
+
+**Crane [3] → Kick → Tree [5] → Warrior III [5] → Warrior III [5] → Kick**
+
+**Chop ↓ → Panther [3] → Plank [5]**
+
+**Same → Center → Cross → Center → Same → Center → Cross → Plank [5]**
+
+**Chop ↓ → Rotate [3] → Elbow ↑ → Ground FLOW → Chop ↓ → Rotate [3] → Elbow ↑**
+
+**Crescent → Horse [5] → Sun → Close**
 
 ---
 
-## Memory Chain
+## Governing Principle
 
-**Bow → Fold [7] → Horse [7] → Turning Guard → Four Corners → Horse [7] → Side Lunges [7/7] → Crane [7] → Kick → Tree [7] → Low Lunge [FLOW] → Plank/Core → Revolved Lunges [7/7] → Warrior III [7] → Crane [7] → Kick → Tree [7] → Crane → Warrior III opposite side [7] → Crane → Bow Stance → Return → Final Horse [7] → Sun Salutation → Arm Stretch**
+**The phrase is the exercise.**
 
----
+A stance is not an isolated pose. It is the structure created by the technique that enters it, the muscular engagement maintained while occupying it, and the force that initiates the technique leaving it.
 
-## Design Principles
+Repeated geometry does not necessarily mean repeated training.
 
-- **Kata as workout, not workout as kata.**
-- Earth is about **controlling Earth, not being guided by Earth**.
-- Descend with control. Brace before the ground can take the body's weight.
-- Never settle onto the floor. Every floor contact is loaded or transitional.
-- Build force from the ground upward.
-- Martial stances used during FLOW are not additional yoga holds.
-- Repeated positions are motifs and returns, not exercise repetitions.
-- Difficulty should progress through stronger positions, cleaner transitions, greater active control, leverage, and balance rather than simply adding reps.
-- At a random freeze-frame, the practitioner should look like they are performing a martial/yogic form rather than a conventional exercise circuit.
+Audit the complete phrase by:
+
+**Entry → Loading → Force Direction → Active Musculature → Capture → Exit**

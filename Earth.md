@@ -1,4 +1,4 @@
-# EARTH — Draft 8
+# EARTH — Draft 9
 
 **Root • Weight • Balance • Ground Force**
 
@@ -206,45 +206,27 @@ Extend into:
 
 ---
 
-## 6. Ground Control
+## 6. Right Ground and Panther
 
 Remain continuously active.
 
+From Plank:
+
 **Right Knee → Right Elbow [3]**
 
-**Center Plank [3]**
+Return under control:
 
-**Right Knee → Left Elbow [3]**
+**Plank [3]**
 
-**Center Plank [3]**
+Draw the right knee forward again and drive the right foot through into the advancing lunge.
 
-**Left Knee → Left Elbow [3]**
-
-**Center Plank [3]**
-
-**Left Knee → Right Elbow [3]**
-
-Return:
-
-**Plank [5]**
-
-This is one exercise phrase rather than a collection of separate plank poses.
-
-The center holds restore structure between loaded knee actions.
-
----
-
-## 7. Panther Rotation — Falling and Rising
-
-From Plank, drive one foot forward underneath the body.
-
-As weight transfers into the foot, begin rotating through the hips and torso.
+As weight transfers into the foot, rotate through the hips and torso.
 
 The upper body chambers high.
 
 **Downward Chop SNAP**
 
-The chop, rotation, and advancing leg create:
+The chop, rotation, and advancing right leg create:
 
 **Revolved Panther/Lunge Stance [3]**
 
@@ -262,27 +244,57 @@ Continue the recovery rather than stopping upright.
 
 Hands descend as the body folds forward into support.
 
-Pass through Plank as **FLOW**.
+Flow back toward Earth until the hands accept load again.
 
-Bring the opposite foot through.
+**Plank [3]**
 
-Rotate into the other side:
+---
 
-**Downward Chop SNAP → Opposite Revolved Panther/Lunge [3]**
+## 7. Left Ground and Panther
 
-Uncoil and drive upward:
+From Plank:
 
-**Rising Elbow SNAP**
+**Left Knee → Left Elbow [3]**
+
+Return under control:
+
+**Plank [3]**
+
+Draw the left knee forward again and drive the left foot through into the advancing lunge.
+
+As weight transfers into the foot, rotate through the hips and torso.
+
+The upper body chambers high.
+
+**Downward Chop SNAP**
+
+The chop, rotation, and advancing left leg create:
+
+**Opposite Revolved Panther/Lunge Stance [3]**
+
+Rotate **into** the stance. Do not arrive in a lunge and then add rotation.
+
+Uncoil.
+
+Drive through the planted foot.
+
+The upward ground force travels through the hips and trunk.
+
+**Muay Thai Rising Elbow SNAP**
 
 Continue fully to standing.
 
 ### Falling and Rising Pattern
 
-**CHOP ↓ → ROTATED LOW STANCE [3] → ELBOW ↑**
+**PLANK → RIGHT KNEE → PLANK → RIGHT LUNGE → CHOP ↓ → ROTATE [3] → ELBOW ↑**
 
 **FLOW THROUGH GROUND**
 
-**CHOP ↓ → ROTATED LOW STANCE [3] → ELBOW ↑**
+**PLANK → LEFT KNEE → PLANK → LEFT LUNGE → CHOP ↓ → ROTATE [3] → ELBOW ↑**
+
+Each side remains one continuous mechanical thought:
+
+**Knee → recover → advance → rotate → descend → stabilize → rise**
 
 The two rotated lunges are not repetitions of the earlier Panther descent.
 
@@ -340,9 +352,11 @@ Stillness.
 
 **Chop ↓ → Panther [3] → Plank [5]**
 
-**Same → Center → Cross → Center → Same → Center → Cross → Plank [5]**
+**Right Knee [3] → Plank [3] → Right Lunge → Chop ↓ → Rotate [3] → Elbow ↑**
 
-**Chop ↓ → Rotate [3] → Elbow ↑ → Ground FLOW → Chop ↓ → Rotate [3] → Elbow ↑**
+**Ground FLOW**
+
+**Left Knee [3] → Plank [3] → Left Lunge → Chop ↓ → Rotate [3] → Elbow ↑**
 
 **Crescent → Horse [5] → Sun → Close**
 

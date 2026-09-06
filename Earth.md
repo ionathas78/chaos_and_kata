@@ -1,12 +1,12 @@
-# EARTH — Draft 9
+# EARTH
 
 **Root • Weight • Balance • Ground Force**
 
 > **The phrase is the exercise. The stance is where its force becomes visible.**
 
-Motion carries most of the training load. Every descent, rise, rotation, weight transfer, chamber, and recovery remains muscularly controlled.
+Earth is rooted, decisive, structural, heavy, and ground-driven. Motion carries most of the training load. Every descent, rise, rotation, weight transfer, chamber, and recovery remains muscularly controlled.
 
-Holds capture important structures rather than dividing the form into exercise stations.
+Earth moves when it chooses to move, and where it arrives becomes structure.
 
 - **FLOW** — continuous, actively loaded movement.
 - **SNAP** — force resolves into a definite structure.
@@ -54,7 +54,7 @@ Present → redirect → control →
 
 **Punch SNAP → Punch SNAP**
 
-The final strike loads the hips rather than initiating another hand transition.
+The final strike loads the hips.
 
 ### B → C
 
@@ -62,9 +62,7 @@ Gather → rotate →
 
 **Taekwondo-style Sweeping/Turning Kick SNAP**
 
-Let the kick carry the 180° reversal.
-
-Its landing establishes Corner C.
+Let the kick carry the 180° reversal. Its landing establishes Corner C.
 
 ### Corner C
 
@@ -124,17 +122,13 @@ Gather the free leg as the hands contract into guard.
 
 **Side Kick SNAP**
 
-Retract sharply.
-
-Land through a rooted stance without stopping.
+Retract sharply and land rooted without stopping.
 
 ---
 
-## 4. Balance
+## 4. First Journey
 
-Transfer onto one leg while the hands gather.
-
-The free knee rises with the center.
+Transfer onto one leg while the hands gather. The free knee rises with the center.
 
 **Crane SNAP → HOLD 3**
 
@@ -144,197 +138,159 @@ Extend:
 
 Retract completely through Crane without putting the foot down.
 
-Open the hip while the hands open with it.
+Open the hip and hands together.
 
 **Tree → HOLD 5**
 
-Close the hip and arms together, passing through Crane as FLOW.
+Close through Crane as FLOW.
 
-Tip forward under control while the free leg extends behind.
-
-The arms chamber and then extend with the developing hinge.
+Tip forward under control while the free leg extends behind. The arms chamber and extend with the developing hinge.
 
 **Double Palm Thrust SNAP → Warrior III [5]**
 
-Gather inward without collapsing the standing leg.
-
-Transfer through center and establish the opposite support leg.
-
-Extend again:
-
-**Double Palm Thrust SNAP → Opposite Warrior III [5]**
-
-Gather the extended leg underneath.
-
-Rise into Crane as FLOW.
+Gather the extended leg underneath. Rise through Crane FLOW.
 
 **Front Kick SNAP**
 
-Retract and plant forward.
-
-The landing immediately begins the descent.
-
----
-
-## 5. Panther Descent
-
-The forward landing receives the body's weight while the torso coils.
-
-Sink through the leg as the arm chambers high.
+Retract and plant forward. The landing immediately becomes the descent as the torso coils and the arm chambers high.
 
 **Downward Chop SNAP**
 
-The chop and descent terminate together in a:
+The chop and descent terminate together in:
 
 **Panther-inflected Low Forward Stance [3]**
 
-Shift the weight backward under control, allowing the forward leg to lengthen.
+Shift backward under control, lengthening the forward leg as the hands receive.
 
-The hands receive rather than go idle.
-
-Reverse the transfer.
-
-Drive forward again and let the hands descend toward Earth.
-
-There is no separate transition to the floor.
-
-The forward action continues until the hands accept load.
-
-Extend into:
+Reverse the transfer. Drive forward again and let the hands descend toward Earth. Continue until the hands accept load.
 
 **Plank [5]**
 
----
+Bring the knee of the working side forward:
 
-## 6. Right Ground and Panther
-
-Remain continuously active.
-
-From Plank:
-
-**Right Knee → Right Elbow [3]**
+**Knee → Same-Side Elbow [3]**
 
 Return under control:
 
 **Plank [3]**
 
-Draw the right knee forward again and drive the right foot through into the advancing lunge.
-
-As weight transfers into the foot, rotate through the hips and torso.
-
-The upper body chambers high.
+Draw that knee forward again and drive the foot through into an advancing lunge. Rotate through the hips and torso as the weight transfers. Chamber high.
 
 **Downward Chop SNAP**
 
-The chop, rotation, and advancing right leg create:
+The chop, rotation, and advancing leg create:
 
-**Revolved Panther/Lunge Stance [3]**
+**Revolved Panther/Lunge [3]**
 
-Rotate **into** the stance. Do not arrive in a lunge and then add rotation.
+Rotate into the stance. Do not arrive in a lunge and then add rotation.
 
-Uncoil.
-
-Drive through the planted foot.
-
-The upward ground force travels through the hips and trunk.
+Uncoil. Drive through the planted foot.
 
 **Muay Thai Rising Elbow SNAP**
 
-Continue the recovery rather than stopping upright.
-
-Hands descend as the body folds forward into support.
-
-Flow back toward Earth until the hands accept load again.
-
-**Plank [3]**
+Continue the recovery. The first journey flows directly into the second.
 
 ---
 
-## 7. Left Ground and Panther
+## 5. Second Journey
 
-From Plank:
+Let the recovery from the rising elbow redirect the body rather than stopping upright. Gather the opposite leg beneath the center and rise into the opposite balance line.
 
-**Left Knee → Left Elbow [3]**
+**Opposite Crane SNAP → HOLD 3**
 
-Return under control:
+**Front Kick SNAP**
+
+Retract completely through Crane without putting the foot down.
+
+Open the hip and hands together.
+
+**Opposite Tree → HOLD 5**
+
+Close through Crane as FLOW.
+
+Tip forward under control.
+
+**Double Palm Thrust SNAP → Opposite Warrior III [5]**
+
+Gather beneath the body. Rise through Crane FLOW.
+
+**Front Kick SNAP**
+
+Retract and plant forward. Again, the landing becomes the descent.
+
+**Downward Chop SNAP → Opposite Panther-inflected Low Forward Stance [3]**
+
+Shift backward under control as the hands receive.
+
+Reverse the transfer and drive toward Earth until the hands accept load.
+
+**Plank [5]**
+
+Bring the working knee forward:
+
+**Knee → Same-Side Elbow [3]**
+
+Return:
 
 **Plank [3]**
 
-Draw the left knee forward again and drive the left foot through into the advancing lunge.
-
-As weight transfers into the foot, rotate through the hips and torso.
-
-The upper body chambers high.
+Draw that knee forward again and drive the foot through. Rotate as the weight transfers and chamber high.
 
 **Downward Chop SNAP**
 
-The chop, rotation, and advancing left leg create:
+Resolve into:
 
-**Opposite Revolved Panther/Lunge Stance [3]**
+**Opposite Revolved Panther/Lunge [3]**
 
-Rotate **into** the stance. Do not arrive in a lunge and then add rotation.
-
-Uncoil.
-
-Drive through the planted foot.
-
-The upward ground force travels through the hips and trunk.
+Uncoil from the ground upward.
 
 **Muay Thai Rising Elbow SNAP**
 
 Continue fully to standing.
 
-### Falling and Rising Pattern
+### Mirrored Journey Pattern
 
-**PLANK → RIGHT KNEE → PLANK → RIGHT LUNGE → CHOP ↓ → ROTATE [3] → ELBOW ↑**
+**CRANE → KICK → TREE → WARRIOR III → KICK → PANTHER ↓ → PLANK → KNEE → PLANK → REVOLVED PANTHER → ELBOW ↑**
 
-**FLOW THROUGH GROUND**
+**OPPOSITE CRANE → KICK → TREE → WARRIOR III → KICK → PANTHER ↓ → PLANK → KNEE → PLANK → REVOLVED PANTHER → ELBOW ↑**
 
-**PLANK → LEFT KNEE → PLANK → LEFT LUNGE → CHOP ↓ → ROTATE [3] → ELBOW ↑**
+> **Mirror journeys, not exercises.**
 
-Each side remains one continuous mechanical thought:
-
-**Knee → recover → advance → rotate → descend → stabilize → rise**
-
-The two rotated lunges are not repetitions of the earlier Panther descent.
-
-Their defining load is:
-
-**Ground recovery → rotation → stabilization → uncoiling ascent**
+Symmetry belongs to the complete phrase. Each side travels through balance, extension, descent, ground contact, rotation, and recovery before the other side answers it.
 
 ---
 
-## 8. Return to Root
+## 6. Return to Root
 
-Let the final rising elbow recoil naturally.
-
-Continue its rotation through the torso.
-
-Gather the leg.
+Let the final rising elbow recoil naturally. Continue its rotation through the torso and gather the leg.
 
 **Low Crescent Kick SNAP**
 
-The kick carries the remaining turn rather than decorating it.
+Let the kick carry the remaining turn.
 
-Retract and plant wide.
-
-The landing powers:
+Retract and plant wide. The landing powers:
 
 **Double Outward Ward SNAP → Horse [5]**
 
-This Horse receives the longer hold as the final rooted strength statement of the form.
+This is Earth's final strength statement.
 
-Over five breaths, gradually release the aggressive structure without releasing postural control.
+During the Horse, use active downward presses. Let the final press initiate the release from Horse.
 
-The hands circle:
+Gather toward center.
 
-**Ward → Receive → Gather → Sink**
+**Bow → Deep Forward Fold [3]**
 
-Rise.
+The opening fold leads into Earth. The closing fold leads out of Earth.
 
-Continue into the established **Sun Salutation and arm stretch**.
+Unfold slowly under muscular control. Pass deliberately through upright Natural Stance as FLOW rather than stopping there.
 
-Return to Natural Stance.
+The hands travel:
+
+**Down → Gather → Rise**
+
+Let both arms float forward into a **Tai Chi Commencement FLOW**. At the natural height of the movement, allow the arms to sink smoothly back to the sides.
+
+**Natural**
 
 Stillness.
 
@@ -348,25 +304,35 @@ Stillness.
 
 **Cloud Hands → Lateral Panther [3] → Lateral Panther [3] → Side Kick**
 
-**Crane [3] → Kick → Tree [5] → Warrior III [5] → Warrior III [5] → Kick**
+**Crane [3] → Kick → Tree [5] → Warrior III [5] → Kick → Panther [3] → Plank [5] → Knee [3] → Plank [3] → Revolved Panther [3] → Elbow ↑**
 
-**Chop ↓ → Panther [3] → Plank [5]**
+**Opposite Crane [3] → Kick → Tree [5] → Warrior III [5] → Kick → Panther [3] → Plank [5] → Knee [3] → Plank [3] → Revolved Panther [3] → Elbow ↑**
 
-**Right Knee [3] → Plank [3] → Right Lunge → Chop ↓ → Rotate [3] → Elbow ↑**
-
-**Ground FLOW**
-
-**Left Knee [3] → Plank [3] → Left Lunge → Chop ↓ → Rotate [3] → Elbow ↑**
-
-**Crescent → Horse [5] → Sun → Close**
+**Crescent → Horse [5] → Down Presses → Bow/Fold [3] → Natural FLOW → Commencement FLOW → Natural**
 
 ---
 
-## Governing Principle
+## Governing Principles
 
 **The phrase is the exercise.**
 
 A stance is not an isolated pose. It is the structure created by the technique that enters it, the muscular engagement maintained while occupying it, and the force that initiates the technique leaving it.
+
+**Motion is the default training state. Stillness must justify itself.**
+
+A HOLD captures a loaded structure. It does not create the load.
+
+**Technique creates stance.**
+
+Do not move into a stance and then perform a technique. The technique should create the structure it needs.
+
+**End of A contains beginning of B.**
+
+Transitions are part of the resistance work. Do not rubber-band between positions.
+
+**Mirror journeys, not exercises.**
+
+Bilateral work belongs inside coherent choreography rather than as a checklist of isolated left/right repetitions.
 
 Repeated geometry does not necessarily mean repeated training.
 

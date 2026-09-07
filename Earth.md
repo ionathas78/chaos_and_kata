@@ -108,13 +108,13 @@ Keep the legs loaded throughout the lateral transfer.
 
 Allow the circle to broaden as the body sinks.
 
-**Lateral Ward SNAP → Panther-inflected Side Lunge [3]**
+**Lateral Ward SNAP → Panther-inflected Side Lunge FLOW**
 
-Do not rise.
+Do not settle into the stance. Keep the low structure actively loaded as the phrase continues.
 
 Rotate and transfer through the low stance while Cloud Hands carries the upper body across.
 
-**Opposite Lateral Ward SNAP → Opposite Side Lunge [3]**
+**Opposite Lateral Ward SNAP → Opposite Side Lunge FLOW**
 
 Drive laterally out of the stance.
 
@@ -156,9 +156,9 @@ Retract and plant forward. The landing immediately becomes the descent as the to
 
 **Downward Chop SNAP**
 
-The chop and descent terminate together in:
+The chop and descent flow through a:
 
-**Panther-inflected Low Forward Stance [3]**
+**Panther-inflected Low Forward Stance FLOW**
 
 Shift backward under control, lengthening the forward leg as the hands receive.
 
@@ -178,11 +178,11 @@ Draw that knee forward again and drive the foot through into an advancing lunge.
 
 **Downward Chop SNAP**
 
-The chop, rotation, and advancing leg create:
+The chop, rotation, and advancing leg flow through:
 
-**Revolved Panther/Lunge [3]**
+**Revolved Panther/Lunge FLOW**
 
-Rotate into the stance. Do not arrive in a lunge and then add rotation.
+Rotate into the structure. Do not arrive in a lunge and then add rotation, and do not settle once the structure is established.
 
 Uncoil. Drive through the planted foot.
 
@@ -218,7 +218,7 @@ Gather beneath the body. Rise through Crane FLOW.
 
 Retract and plant forward. Again, the landing becomes the descent.
 
-**Downward Chop SNAP → Opposite Panther-inflected Low Forward Stance [3]**
+**Downward Chop SNAP → Opposite Panther-inflected Low Forward Stance FLOW**
 
 Shift backward under control as the hands receive.
 
@@ -238,9 +238,9 @@ Draw that knee forward again and drive the foot through. Rotate as the weight tr
 
 **Downward Chop SNAP**
 
-Resolve into:
+Flow through:
 
-**Opposite Revolved Panther/Lunge [3]**
+**Opposite Revolved Panther/Lunge FLOW**
 
 Uncoil from the ground upward.
 
@@ -250,9 +250,9 @@ Continue fully to standing.
 
 ### Mirrored Journey Pattern
 
-**CRANE → KICK → TREE → WARRIOR III → KICK → PANTHER ↓ → PLANK → KNEE → PLANK → REVOLVED PANTHER → ELBOW ↑**
+**CRANE → KICK → TREE → WARRIOR III → KICK → PANTHER FLOW ↓ → PLANK → KNEE → PLANK → REVOLVED PANTHER FLOW → ELBOW ↑**
 
-**OPPOSITE CRANE → KICK → TREE → WARRIOR III → KICK → PANTHER ↓ → PLANK → KNEE → PLANK → REVOLVED PANTHER → ELBOW ↑**
+**OPPOSITE CRANE → KICK → TREE → WARRIOR III → KICK → PANTHER FLOW ↓ → PLANK → KNEE → PLANK → REVOLVED PANTHER FLOW → ELBOW ↑**
 
 > **Mirror journeys, not exercises.**
 
@@ -302,11 +302,11 @@ Stillness.
 
 **A → Left Elbow → B → Sweeping Kick → C → Right Elbow → D → Horse [3]**
 
-**Cloud Hands → Lateral Panther [3] → Lateral Panther [3] → Side Kick**
+**Cloud Hands → Lateral Panther FLOW → Lateral Panther FLOW → Side Kick**
 
-**Crane [3] → Kick → Tree [5] → Warrior III [5] → Kick → Panther [3] → Plank [5] → Knee [3] → Plank [3] → Revolved Panther [3] → Elbow ↑**
+**Crane [3] → Kick → Tree [5] → Warrior III [5] → Kick → Panther FLOW → Plank [5] → Knee [3] → Plank [3] → Revolved Panther FLOW → Elbow ↑**
 
-**Opposite Crane [3] → Kick → Tree [5] → Warrior III [5] → Kick → Panther [3] → Plank [5] → Knee [3] → Plank [3] → Revolved Panther [3] → Elbow ↑**
+**Opposite Crane [3] → Kick → Tree [5] → Warrior III [5] → Kick → Panther FLOW → Plank [5] → Knee [3] → Plank [3] → Revolved Panther FLOW → Elbow ↑**
 
 **Crescent → Horse [5] → Down Presses → Bow/Fold [3] → Natural FLOW → Commencement FLOW → Natural**
 
@@ -320,7 +320,7 @@ A stance is not an isolated pose. It is the structure created by the technique t
 
 **Motion is the default training state. Stillness must justify itself.**
 
-A HOLD captures a loaded structure. It does not create the load.
+A HOLD captures a loaded structure. It does not create the load. Panther structures are normally FLOW landmarks: low, committed loading geometries that redirect or launch the next technique rather than places to settle.
 
 **Technique creates stance.**
 

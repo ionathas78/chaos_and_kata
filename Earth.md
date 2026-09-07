@@ -34,7 +34,7 @@ From Horse, establish the first line.
 
 ### Corner A
 
-Present → redirect → control →
+Pak Sau / advancing control and entry →
 
 **Right Punch SNAP → Left Punch SNAP**
 
@@ -50,7 +50,7 @@ The elbow creates the new facing.
 
 ### Corner B
 
-Present → redirect → control →
+Pak Sau / advancing control and entry →
 
 **Punch SNAP → Punch SNAP**
 
@@ -66,7 +66,7 @@ Let the kick carry the 180° reversal. Its landing establishes Corner C.
 
 ### Corner C
 
-Present → redirect → control →
+Pak Sau / advancing control and entry →
 
 **Left Punch SNAP → Right Punch SNAP**
 
@@ -80,7 +80,7 @@ Sidestep + hip rotation →
 
 ### Corner D
 
-Present → redirect → control →
+Pak Sau / advancing control and entry →
 
 **Punch SNAP → Punch SNAP**
 
@@ -98,41 +98,31 @@ This is one journey through four vectors, not the same combination repeated four
 
 ---
 
-## 3. Lateral Earth
+## 3. Cloud Hands → First Panther
 
 Immediately soften Horse into **Cloud Hands**.
 
 **Right → Center → Left → Center**
 
-Keep the legs loaded throughout the lateral transfer.
+Keep the legs loaded throughout the transfer.
 
-Allow the circle to broaden as the body sinks.
+Allow the circle to broaden while sinking.
 
-**Lateral Ward SNAP → Panther-inflected Side Lunge FLOW**
+**Lateral Ward SNAP → Panther FLOW**
 
-Do not settle into the stance. Keep the low structure actively loaded as the phrase continues.
+Do not settle. Panther is a low, actively loaded structure in motion.
 
-Rotate and transfer through the low stance while Cloud Hands carries the upper body across.
+Drive through the loaded leg. Gather the free leg underneath as the hands gather with the body.
 
-**Opposite Lateral Ward SNAP → Opposite Side Lunge FLOW**
+**Crane SNAP → HOLD 3**
 
-Drive laterally out of the stance.
-
-Gather the free leg as the hands contract into guard.
-
-**Side Kick SNAP**
-
-Retract sharply and land rooted without stopping.
+This begins the first mirrored journey.
 
 ---
 
 ## 4. First Journey
 
-Transfer onto one leg while the hands gather. The free knee rises with the center.
-
-**Crane SNAP → HOLD 3**
-
-Extend:
+From Crane:
 
 **Front Kick SNAP**
 
@@ -154,15 +144,13 @@ Gather the extended leg underneath. Rise through Crane FLOW.
 
 Retract and plant forward. The landing immediately becomes the descent as the torso coils and the arm chambers high.
 
-**Downward Chop SNAP**
+**Downward Chop SNAP → Panther FLOW**
 
-The chop and descent flow through a:
-
-**Panther-inflected Low Forward Stance FLOW**
+The chop and low structure are one action.
 
 Shift backward under control, lengthening the forward leg as the hands receive.
 
-Reverse the transfer. Drive forward again and let the hands descend toward Earth. As the Panther structure carries the body down, close the hands into vertical fists and let the knuckles progressively accept the load with the wrists straight.
+Reverse the transfer. Drive forward again and let the hands descend toward Earth. As Panther carries the body down, close the hands into vertical fists and let the knuckles progressively accept the load with the wrists straight.
 
 **Knuckle Plank [5]**
 
@@ -174,29 +162,39 @@ Return under control:
 
 **Knuckle Plank [3]**
 
-Draw that knee forward again and drive the foot through into an advancing lunge. Rotate through the hips and torso as the weight transfers. Chamber high.
+Draw that knee forward again and drive the foot through. Rotate through the hips and torso as the weight transfers. Chamber high.
 
-**Downward Chop SNAP**
+**Downward Chop SNAP → Revolved Panther FLOW**
 
-The chop, rotation, and advancing leg flow through:
+Rotate into the structure. Do not arrive in a lunge and then add rotation.
 
-**Revolved Panther/Lunge FLOW**
+Unwind the rotation under control into neutral Panther geometry:
 
-Rotate into the structure. Do not arrive in a lunge and then add rotation, and do not settle once the structure is established.
+**Revolved Panther FLOW → Panther FLOW**
 
-Uncoil. Drive through the planted foot.
+The neutral Panther restores the aligned low structure and gathers force for the strike.
 
-**Muay Thai Rising Elbow SNAP**
+Drive from the loaded leg:
 
-Continue the recovery. The first journey flows directly into the second.
+**Knee Strike SNAP**
+
+Plant the striking leg so the landing creates:
+
+**Opposite Panther FLOW**
+
+Do not settle. The opposite Panther receives the knee's landing and immediately loads the rise.
+
+Drive through the loaded leg and gather the free leg beneath the center:
+
+**Opposite Crane SNAP → HOLD 3**
+
+The first journey has now created the beginning of the second.
 
 ---
 
 ## 5. Second Journey
 
-Let the recovery from the rising elbow redirect the body rather than stopping upright. Gather the opposite leg beneath the center and rise into the opposite balance line.
-
-**Opposite Crane SNAP → HOLD 3**
+From Opposite Crane:
 
 **Front Kick SNAP**
 
@@ -218,7 +216,7 @@ Gather beneath the body. Rise through Crane FLOW.
 
 Retract and plant forward. Again, the landing becomes the descent.
 
-**Downward Chop SNAP → Opposite Panther-inflected Low Forward Stance FLOW**
+**Downward Chop SNAP → Opposite Panther FLOW**
 
 Shift backward under control as the hands receive.
 
@@ -236,45 +234,39 @@ Return:
 
 Draw that knee forward again and drive the foot through. Rotate as the weight transfers and chamber high.
 
-**Downward Chop SNAP**
+**Downward Chop SNAP → Opposite Revolved Panther FLOW**
 
-Flow through:
+Unwind the rotation under control into neutral Panther geometry:
 
-**Opposite Revolved Panther/Lunge FLOW**
+**Revolved Panther FLOW → Panther FLOW**
 
-Uncoil from the ground upward.
+Again, the neutral Panther gathers force for the strike.
 
-**Muay Thai Rising Elbow SNAP**
+Drive from the loaded leg:
 
-Continue fully to standing.
+**Opposite Knee Strike SNAP**
+
+This time the knee closes the mirrored journey. Plant the striking leg wide and let the landing establish:
+
+**Horse [5]**
 
 ### Mirrored Journey Pattern
 
-**CRANE → KICK → TREE → WARRIOR III → KICK → PANTHER FLOW ↓ → KNUCKLE PLANK → KNEE → KNUCKLE PLANK → REVOLVED PANTHER FLOW → ELBOW ↑**
+**PANTHER FLOW → CRANE [3] → KICK → TREE [5] → WARRIOR III [5] → KICK → PANTHER FLOW ↓ → KNUCKLE PLANK [5] → KNEE [3] → KNUCKLE PLANK [3] → REVOLVED PANTHER FLOW → PANTHER FLOW → KNEE SNAP → OPPOSITE PANTHER FLOW → CRANE [3]**
 
-**OPPOSITE CRANE → KICK → TREE → WARRIOR III → KICK → PANTHER FLOW ↓ → KNUCKLE PLANK → KNEE → KNUCKLE PLANK → REVOLVED PANTHER FLOW → ELBOW ↑**
+**KICK → TREE [5] → WARRIOR III [5] → KICK → PANTHER FLOW ↓ → KNUCKLE PLANK [5] → KNEE [3] → KNUCKLE PLANK [3] → REVOLVED PANTHER FLOW → PANTHER FLOW → KNEE SNAP → HORSE [5]**
 
 > **Mirror journeys, not exercises.**
 
-Symmetry belongs to the complete phrase. Each side travels through balance, extension, descent, ground contact, rotation, and recovery before the other side answers it.
+Symmetry belongs to the complete phrase. Each side travels through balance, extension, descent, ground contact, rotation, recovery, Panther loading, and knee release before the other side answers it or Earth returns to root.
 
 ---
 
 ## 6. Return to Root
 
-Let the final rising elbow recoil naturally. Continue its rotation through the torso and gather the leg.
+**Horse [5]** is Earth's final strength statement.
 
-**Low Crescent Kick SNAP**
-
-Let the kick carry the remaining turn.
-
-Retract and plant wide. The landing powers:
-
-**Double Outward Ward SNAP → Horse [5]**
-
-This is Earth's final strength statement.
-
-During the Horse, use active downward presses. Let the final press initiate the release from Horse.
+During Horse, use active downward presses. Let the final press initiate the release from Horse.
 
 Gather toward center.
 
@@ -302,13 +294,13 @@ Stillness.
 
 **A → Left Elbow → B → Sweeping Kick → C → Right Elbow → D → Horse [3]**
 
-**Cloud Hands → Lateral Panther FLOW → Lateral Panther FLOW → Side Kick**
+**Cloud Hands → Panther FLOW → Crane [3]**
 
-**Crane [3] → Kick → Tree [5] → Warrior III [5] → Kick → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Revolved Panther FLOW → Elbow ↑**
+**Kick → Tree [5] → Warrior III [5] → Kick → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Revolved Panther FLOW → Panther FLOW → Knee SNAP → Opposite Panther FLOW → Crane [3]**
 
-**Opposite Crane [3] → Kick → Tree [5] → Warrior III [5] → Kick → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Revolved Panther FLOW → Elbow ↑**
+**Kick → Tree [5] → Warrior III [5] → Kick → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Revolved Panther FLOW → Panther FLOW → Knee SNAP → Horse [5]**
 
-**Crescent → Horse [5] → Down Presses → Bow/Fold [3] → Natural FLOW → Commencement FLOW → Natural**
+**Down Presses → Bow/Fold [3] → Natural FLOW → Commencement FLOW → Natural**
 
 ---
 

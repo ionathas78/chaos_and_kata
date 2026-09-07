@@ -162,9 +162,9 @@ The chop and descent flow through a:
 
 Shift backward under control, lengthening the forward leg as the hands receive.
 
-Reverse the transfer. Drive forward again and let the hands descend toward Earth. Continue until the hands accept load.
+Reverse the transfer. Drive forward again and let the hands descend toward Earth. As the Panther structure carries the body down, close the hands into vertical fists and let the knuckles progressively accept the load with the wrists straight.
 
-**Plank [5]**
+**Knuckle Plank [5]**
 
 Bring the knee of the working side forward:
 
@@ -172,7 +172,7 @@ Bring the knee of the working side forward:
 
 Return under control:
 
-**Plank [3]**
+**Knuckle Plank [3]**
 
 Draw that knee forward again and drive the foot through into an advancing lunge. Rotate through the hips and torso as the weight transfers. Chamber high.
 
@@ -222,9 +222,9 @@ Retract and plant forward. Again, the landing becomes the descent.
 
 Shift backward under control as the hands receive.
 
-Reverse the transfer and drive toward Earth until the hands accept load.
+Reverse the transfer and drive toward Earth. As Panther carries the body down, close the hands into vertical fists and let the knuckles progressively accept the load with the wrists straight.
 
-**Plank [5]**
+**Knuckle Plank [5]**
 
 Bring the working knee forward:
 
@@ -232,7 +232,7 @@ Bring the working knee forward:
 
 Return:
 
-**Plank [3]**
+**Knuckle Plank [3]**
 
 Draw that knee forward again and drive the foot through. Rotate as the weight transfers and chamber high.
 
@@ -250,9 +250,9 @@ Continue fully to standing.
 
 ### Mirrored Journey Pattern
 
-**CRANE → KICK → TREE → WARRIOR III → KICK → PANTHER FLOW ↓ → PLANK → KNEE → PLANK → REVOLVED PANTHER FLOW → ELBOW ↑**
+**CRANE → KICK → TREE → WARRIOR III → KICK → PANTHER FLOW ↓ → KNUCKLE PLANK → KNEE → KNUCKLE PLANK → REVOLVED PANTHER FLOW → ELBOW ↑**
 
-**OPPOSITE CRANE → KICK → TREE → WARRIOR III → KICK → PANTHER FLOW ↓ → PLANK → KNEE → PLANK → REVOLVED PANTHER FLOW → ELBOW ↑**
+**OPPOSITE CRANE → KICK → TREE → WARRIOR III → KICK → PANTHER FLOW ↓ → KNUCKLE PLANK → KNEE → KNUCKLE PLANK → REVOLVED PANTHER FLOW → ELBOW ↑**
 
 > **Mirror journeys, not exercises.**
 
@@ -304,9 +304,9 @@ Stillness.
 
 **Cloud Hands → Lateral Panther FLOW → Lateral Panther FLOW → Side Kick**
 
-**Crane [3] → Kick → Tree [5] → Warrior III [5] → Kick → Panther FLOW → Plank [5] → Knee [3] → Plank [3] → Revolved Panther FLOW → Elbow ↑**
+**Crane [3] → Kick → Tree [5] → Warrior III [5] → Kick → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Revolved Panther FLOW → Elbow ↑**
 
-**Opposite Crane [3] → Kick → Tree [5] → Warrior III [5] → Kick → Panther FLOW → Plank [5] → Knee [3] → Plank [3] → Revolved Panther FLOW → Elbow ↑**
+**Opposite Crane [3] → Kick → Tree [5] → Warrior III [5] → Kick → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Revolved Panther FLOW → Elbow ↑**
 
 **Crescent → Horse [5] → Down Presses → Bow/Fold [3] → Natural FLOW → Commencement FLOW → Natural**
 

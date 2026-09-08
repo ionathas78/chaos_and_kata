@@ -58,11 +58,17 @@ The final strike loads the hips.
 
 ### B → C
 
-Gather → rotate →
+Look back toward the new threat. Let the eyes lead the preliminary rotation through the shoulders and hips.
 
-**Taekwondo-style Sweeping/Turning Kick SNAP**
+Shift the weight forward and descend under control. Let the hands receive the ground as the free leg extends.
 
-Let the kick carry the 180° reversal. Its landing establishes Corner C.
+**180° Hou Sao Tui / Back Sweep FLOW**
+
+Drag the extended foot low through the rear semicircle while the hands control the descent and rotation. Keep the sweep deliberate rather than explosive.
+
+At 180°, plant the sweeping foot. The new base resets the form's geometry and establishes the facing for Corner C.
+
+Rise under control directly into the next engagement.
 
 ### Corner C
 
@@ -92,7 +98,7 @@ Turn toward center as the arms open.
 
 ### Four Corners Pattern
 
-**A → LEFT ELBOW → B → SWEEPING KICK → C → RIGHT ELBOW → D → ROOT**
+**A → LEFT ELBOW → B → 180° BACK SWEEP → C → RIGHT ELBOW → D → ROOT**
 
 This is one journey through four vectors, not the same combination repeated four times.
 
@@ -292,7 +298,7 @@ Stillness.
 
 **Bow → Fold [3] → Horse [3]**
 
-**A → Left Elbow → B → Sweeping Kick → C → Right Elbow → D → Horse [3]**
+**A → Left Elbow → B → 180° Back Sweep → C → Right Elbow → D → Horse [3]**
 
 **Cloud Hands → Panther FLOW → Crane [3]**
 

@@ -272,7 +272,55 @@ Symmetry belongs to the complete phrase. Each side travels through balance, exte
 
 ---
 
-## 6. Return to Root
+## 6. Shotokan Root
+
+The Horse created by the final knee is not an endpoint. It is the loaded doorway into Earth's final striking phrase.
+
+From **Horse [5]**, transfer the center onto one leg without rising out of the root. Chamber the free leg and maintain a compact Shotokan guard.
+
+**Mae Geri / Front Kick SNAP**
+
+Retract the kick under control. Let the landing drive forward and create a strong front stance at the same instant the whole body issues:
+
+**Oi Zuki / Lunge Punch SNAP**
+
+Do not stop between landing and strike. The landing is the punch's base.
+
+Load the hips through the recoil and rotate through the rooted stance:
+
+**Gyaku Zuki / Reverse Punch SNAP**
+
+Let the recoil from the reverse punch initiate a loaded lateral transfer. Stay low as the feet and hips reorganize into:
+
+**Kiba-dachi / Horse FLOW**
+
+Use the lateral transfer and hip rotation to drive a close-range:
+
+**Horizontal Elbow SNAP**
+
+Reclaim the centered Horse structure. Without rising, shift the root fully onto the support leg and perform:
+
+**Nami-gaeshi / Returning Wave FLOW**
+
+Lift and return the free foot under control. The support leg owns the low structure while the root is temporarily narrowed.
+
+Let the returning foot rebuild Kiba-dachi. Coordinate that reconstruction with:
+
+**Hammerfist SNAP**
+
+Continue the final lateral transfer under control and let the technique resolve back into:
+
+**Horse [5]**
+
+The phrase leaves the root, delivers force through changing structures, briefly challenges the root, and deliberately rebuilds it.
+
+### Shotokan Pattern
+
+**HORSE [5] → MAE GERI → OI ZUKI → GYAKU ZUKI → KIBA-DACHI FLOW → ELBOW → NAMI-GAESHI → HAMMERFIST → HORSE [5]**
+
+---
+
+## 7. Return to Root
 
 **Horse [5]** is Earth's final strength statement.
 
@@ -309,6 +357,8 @@ Stillness.
 **Kick → Tree [5] → Warrior III [5] → Kick → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Revolved Panther FLOW → Panther FLOW → Knee SNAP → Opposite Panther FLOW → Crane [3]**
 
 **Kick → Tree [5] → Warrior III [5] → Kick → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Revolved Panther FLOW → Panther FLOW → Knee SNAP → Horse [5]**
+
+**Horse [5] → Mae Geri → Oi Zuki → Gyaku Zuki → Kiba-dachi FLOW → Elbow → Nami-gaeshi → Hammerfist → Horse [5]**
 
 **Down Presses → Bow/Fold [3] → Natural FLOW → Commencement FLOW → Natural**
 

@@ -148,25 +148,21 @@ Drive the floating leg straight forward:
 
 Retract completely through Crane without putting the foot down.
 
-Open the hip and hands together.
+Open the hip and hands together:
 
 **Tree → HOLD 5**
 
-Close through Crane as FLOW.
+Without touching the free foot to the ground, smoothly close through Crane and tip the entire one-leg structure forward. The standing leg remains the root while the free leg extends behind and the arms lengthen with the developing hinge:
 
-Tip forward under control while the free leg extends behind. The arms chamber and extend with the developing hinge.
+**Tree → Warrior III FLOW → HOLD 5**
 
-**Double Palm Thrust SNAP → Warrior III [5]**
+There is no SNAP between Tree and Warrior III. It is one continuous balance transition.
 
-Gather the extended leg underneath. Rise through Crane FLOW.
+From Warrior III, gather the extended leg underneath the body and continue the same controlled one-leg pathway down into:
 
-**Front Kick SNAP**
+**Panther FLOW**
 
-Retract and plant forward. The landing immediately becomes the descent as the torso coils and the arm chambers high.
-
-**Downward Chop SNAP → Panther FLOW**
-
-The chop and low structure are one action.
+No intermediate kick or chop. Warrior III flows directly into Panther.
 
 Shift backward under control, lengthening the forward leg as the hands receive.
 
@@ -182,29 +178,19 @@ Return under control:
 
 **Knuckle Plank [3]**
 
-Draw that knee forward again and drive the foot through. Rotate through the hips and torso as the weight transfers. Chamber high.
+Draw that knee forward again and drive the foot through into a lunge. Rotate through the hips and torso as the lunge creates:
 
-**Downward Chop SNAP → Revolved Panther FLOW**
-
-Rotate into the structure. Do not arrive in a lunge and then add rotation.
+**Revolved Panther FLOW**
 
 Unwind the rotation under control into neutral Panther geometry:
 
 **Revolved Panther FLOW → Panther FLOW**
 
-The neutral Panther restores the aligned low structure and gathers force for the strike.
+The reset Panther restores the aligned low structure. Gather the hands beside the ribs, drive forward, and open into:
 
-Drive from the loaded leg:
+**Double Butterfly Palm SNAP**
 
-**Knee Strike SNAP**
-
-Plant the striking leg so the landing creates:
-
-**Opposite Panther FLOW**
-
-Do not settle. The opposite Panther receives the knee's landing and immediately loads the rise.
-
-Drive through the loaded leg and gather the free leg beneath the center:
+The palm strike transfers the weight onto the forward leg. Rise on that leg while the free knee gathers:
 
 **Opposite Crane / Thai Check SNAP → HOLD 3**
 
@@ -228,23 +214,19 @@ Without stopping:
 
 Retract completely through Crane without putting the foot down.
 
-Open the hip and hands together.
+Open the hip and hands together:
 
 **Opposite Tree → HOLD 5**
 
-Close through Crane as FLOW.
+Without touching down, smoothly close through Crane and tip forward on the same standing leg:
 
-Tip forward under control.
+**Opposite Tree → Opposite Warrior III FLOW → HOLD 5**
 
-**Double Palm Thrust SNAP → Opposite Warrior III [5]**
+From Warrior III, gather the extended leg underneath the body and continue directly into:
 
-Gather beneath the body. Rise through Crane FLOW.
+**Opposite Panther FLOW**
 
-**Front Kick SNAP**
-
-Retract and plant forward. Again, the landing becomes the descent.
-
-**Downward Chop SNAP → Opposite Panther FLOW**
+No intermediate kick or chop.
 
 Shift backward under control as the hands receive.
 
@@ -260,41 +242,43 @@ Return:
 
 **Knuckle Plank [3]**
 
-Draw that knee forward again and drive the foot through. Rotate as the weight transfers and chamber high.
+Draw that knee forward again and drive the foot through into the lunge. Rotate through the hips and torso so the lunge becomes:
 
-**Downward Chop SNAP → Opposite Revolved Panther FLOW**
+**Opposite Revolved Panther FLOW**
 
-Unwind the rotation under control into neutral Panther geometry:
+Unwind:
 
 **Revolved Panther FLOW → Panther FLOW**
 
-Again, the neutral Panther gathers force for the strike.
+From the reset Panther, gather and drive forward:
 
-Drive from the loaded leg:
+**Double Butterfly Palm SNAP**
 
-**Opposite Knee Strike SNAP**
+Let the palm strike transfer the weight onto the forward leg and gather the free knee:
 
-This time the knee closes the mirrored journey. Plant the striking leg wide and let the landing establish:
+**Crane / Thai Check FLOW**
+
+This final Crane is a transition rather than another hold. Plant the gathered leg wide and let the landing establish:
 
 **Horse [5]**
 
 ### Mirrored Journey Pattern
 
-**PANTHER FLOW → BUTTERFLY PALM → CRANE [3] → DROP ELBOW → CHECK/CRANE FLOW → TEEP → TREE [5] → WARRIOR III [5] → KICK → PANTHER FLOW ↓ → KNUCKLE PLANK [5] → KNEE [3] → KNUCKLE PLANK [3] → REVOLVED PANTHER FLOW → PANTHER FLOW → KNEE SNAP → OPPOSITE PANTHER FLOW → CRANE [3]**
+**PANTHER FLOW → BUTTERFLY PALM → CRANE [3] → DROP ELBOW → CHECK/CRANE FLOW → TEEP → TREE [5] → WARRIOR III [5] → PANTHER FLOW → KNUCKLE PLANK [5] → KNEE [3] → KNUCKLE PLANK [3] → LUNGE → REVOLVED PANTHER FLOW → PANTHER FLOW → BUTTERFLY PALM → OPPOSITE CRANE [3]**
 
-**DROP ELBOW → CHECK/CRANE FLOW → TEEP → TREE [5] → WARRIOR III [5] → KICK → PANTHER FLOW ↓ → KNUCKLE PLANK [5] → KNEE [3] → KNUCKLE PLANK [3] → REVOLVED PANTHER FLOW → PANTHER FLOW → KNEE SNAP → HORSE [5]**
+**DROP ELBOW → CHECK/CRANE FLOW → TEEP → TREE [5] → WARRIOR III [5] → PANTHER FLOW → KNUCKLE PLANK [5] → KNEE [3] → KNUCKLE PLANK [3] → LUNGE → REVOLVED PANTHER FLOW → PANTHER FLOW → BUTTERFLY PALM → CRANE FLOW → HORSE [5]**
 
 > **Mirror journeys, not exercises.**
 
-The Crane phrase is movement rather than portraiture: rise, dip to strike, withdraw and rise again, then release the gathered leg into the thrust kick. The complete phrase trains balance by repeatedly leaving and reclaiming the one-leg structure under control.
+The Crane phrase is movement rather than portraiture: rise, dip to strike, withdraw and rise again, then release the gathered leg into the thrust kick. Tree and Warrior III remain a continuous one-leg balance journey with no touchdown between them.
 
-Symmetry belongs to the complete journey. Each side travels through balance, extension, descent, ground contact, rotation, recovery, Panther loading, and knee release before the other side answers it or Earth returns to root.
+Symmetry belongs to the complete journey. Each side travels through balance, extension, descent, ground contact, rotation, recovery, Panther loading, and the Butterfly Palm rise before the other side answers it or Earth returns to root.
 
 ---
 
 ## 6. Shotokan Root
 
-The Horse created by the final knee is not an endpoint. It is the loaded doorway into Earth's final striking phrase.
+The Horse created at the end of the mirrored journey is the loaded doorway into Earth's final striking phrase.
 
 Transfer the center from that existing **Horse [5]** onto one leg without rising out of the root. Chamber the free leg and maintain a compact Shotokan guard.
 
@@ -372,11 +356,11 @@ Stillness.
 
 **A → Left Elbow → B → 180° Back Sweep → C → Right Elbow → D → Horse [3]**
 
-**Cloud Hands → Panther FLOW → Gather → Double Butterfly Palm SNAP → Crane [3]**
+**Cloud Hands → Panther FLOW → Butterfly Palm → Crane [3]**
 
-**Drop Elbow → Check/Crane FLOW → Teep → Tree [5] → Warrior III [5] → Kick → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Revolved Panther FLOW → Panther FLOW → Knee SNAP → Opposite Panther FLOW → Crane [3]**
+**Drop Elbow → Check/Crane FLOW → Teep → Tree [5] → Warrior III [5] → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Lunge → Revolved Panther FLOW → Panther FLOW → Butterfly Palm → Opposite Crane [3]**
 
-**Drop Elbow → Check/Crane FLOW → Teep → Tree [5] → Warrior III [5] → Kick → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Revolved Panther FLOW → Panther FLOW → Knee SNAP → Horse [5]**
+**Drop Elbow → Check/Crane FLOW → Teep → Tree [5] → Warrior III [5] → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Lunge → Revolved Panther FLOW → Panther FLOW → Butterfly Palm → Crane FLOW → Horse [5]**
 
 **Mae Geri → Oi Zuki → Gyaku Zuki → Kiba-dachi FLOW → Elbow → Nami-gaeshi → Hammerfist → Horse [5] + Down Presses**
 

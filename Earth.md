@@ -118,7 +118,11 @@ Allow the circle to broaden while sinking.
 
 Do not settle. Panther is a low, actively loaded structure in motion.
 
-Drive through the loaded leg. Gather the free leg underneath as the hands gather with the body.
+Close the Panther claws into fists and gather them tightly beside the ribs.
+
+Slide forward from the loaded leg. Open the hands into an over/under **Double Butterfly Palm SNAP**, committing the center of mass over the forward foot.
+
+Retract both palms into fists at a normal fighting guard while rising onto the forward leg. Let the free knee fold upward with the gathering hands.
 
 **Crane SNAP → HOLD 3**
 
@@ -300,7 +304,7 @@ Stillness.
 
 **A → Left Elbow → B → 180° Back Sweep → C → Right Elbow → D → Horse [3]**
 
-**Cloud Hands → Panther FLOW → Crane [3]**
+**Cloud Hands → Panther FLOW → Gather → Double Butterfly Palm SNAP → Crane [3]**
 
 **Kick → Tree [5] → Warrior III [5] → Kick → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Revolved Panther FLOW → Panther FLOW → Knee SNAP → Opposite Panther FLOW → Crane [3]**
 

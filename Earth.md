@@ -10,17 +10,17 @@ Earth moves when it chooses to move, and where it arrives becomes structure.
 
 - **FLOW** — continuous, actively loaded movement.
 - **SNAP** — force resolves into a definite structure.
-- **HOLD 3** — establish and own the structure.
-- **HOLD 5** — deliberate isometric emphasis.
-- **HOLD 7** — reserved for positions where extended isometric loading specifically warrants it.
+- **HOLD 3** — hold for 3 complete controlled breaths; establish and own the structure.
+- **HOLD 5** — hold for 5 complete controlled breaths; deliberate isometric emphasis.
+- **HOLD 7** — hold for 7 complete controlled breaths; reserved for positions where extended isometric loading specifically warrants it.
 
-Breath follows the phrase rather than becoming another count. In general, inhale while gathering, opening, rising, or receiving; exhale through committed strikes, presses, descents, and force resolution. During long or complex passages, maintain even breathing rather than holding the breath to force a prescribed pattern.
+Breath notes govern transitions, FLOW sequences, and force issuance. HOLD counts already measure time in complete controlled breaths and need no separate breathing instruction. In general, inhale while gathering, opening, rising, or receiving; exhale through committed strikes, presses, descents, and force resolution. Never suspend the breath to create strength or complete a transition.
 
 ---
 
 ## 1. Root
 
-**Breath:** Exhale into the fold. Breathe evenly during the hold. Inhale through the controlled unfolding and gathering action; exhale through the Double Palm Press and settling into Horse. Maintain easy breathing in Horse.
+**Breath:** Exhale into the fold. After the hold, inhale through the controlled unfolding and gathering action; exhale through the Double Palm Press and settling into Horse.
 
 **Natural → Bow → Deep Forward Fold [3]**
 
@@ -112,7 +112,7 @@ This is one journey through four vectors, not the same combination repeated four
 
 ## 3. Cloud Hands → First Panther
 
-**Breath:** Let Cloud Hands restore a smooth, even breath. Inhale through the broad receiving circle and gathering of the hands. Exhale while sinking through the lateral ward into Panther and through the forward Butterfly Palm. Inhale naturally during the rise into Crane, then breathe evenly during HOLD 3.
+**Breath:** Let Cloud Hands restore a smooth, even rhythm. Inhale through the broad receiving circle and gathering of the hands. Exhale while sinking through the lateral ward into Panther and through the forward Butterfly Palm. Inhale during the rise into Crane.
 
 Immediately soften Horse into **Cloud Hands**.
 
@@ -140,7 +140,7 @@ This begins the first mirrored journey.
 
 ## 4. First Journey
 
-**Breath:** Exhale through the Dropping Elbow. Inhale during the withdrawing check and rise back into Crane; exhale through the Teep. Reestablish even breathing in Tree. Inhale as Tree closes and the body lengthens into Warrior III; breathe evenly during the hold. Exhale gradually through the long controlled descent from Warrior III through Panther toward Plank. During Plank and the ground sequence, keep breathing continuously, using a stronger exhale for the knee-to-elbow effort. Inhale through the lunge and rotational recovery as space permits, exhale through the Butterfly Palm, then inhale into the rising Crane.
+**Breath:** Exhale through the Dropping Elbow. Inhale during the withdrawing check and rise back into Crane; exhale through the Teep. After Tree [5], inhale as Tree closes and the body lengthens into Warrior III. After Warrior III [5], exhale gradually through the long controlled descent into Panther. Maintain continuous breathing through Panther → Plank and the ground sequence, with a stronger exhale for Knee-to-Elbow. Inhale through the lunge and rotational recovery as space permits; exhale through the Butterfly Palm, then inhale into the rising Crane.
 
 From Crane, let the raised foot plant forward as the body dips into the landing. Coordinate the weight acceptance with a descending close-range strike:
 
@@ -210,7 +210,7 @@ The first journey has now created the beginning of the second.
 
 ## 5. Second Journey
 
-**Breath:** Mirror the first journey. Exhale through the Dropping Elbow, inhale through the withdrawing check and rising Crane, exhale through the Teep. Restore even breathing in Tree; inhale into the long Tree-to-Warrior III extension and breathe evenly in the hold. Exhale gradually through Warrior III → Panther → Plank. Keep the breath moving through the ground work, with a stronger exhale on knee-to-elbow. Inhale through the lunge and recovery where comfortable; exhale through Butterfly Palm. Maintain an easy breath through the final Crane FLOW and landing into Horse.
+**Breath:** Mirror the first journey. Exhale through the Dropping Elbow, inhale through the withdrawing check and rising Crane, exhale through the Teep. After Tree [5], inhale into the Tree-to-Warrior III extension. After Warrior III [5], exhale gradually through Warrior III → Panther. Keep the breath moving through Panther → Plank and the ground work, with a stronger exhale on Knee-to-Elbow. Inhale through the lunge and recovery where comfortable; exhale through Butterfly Palm. Inhale through the final Crane FLOW and let the breath continue naturally as the landing establishes Horse.
 
 From Opposite Crane, plant the raised foot forward while dipping into the landing:
 
@@ -290,7 +290,7 @@ Symmetry belongs to the complete journey. Each side travels through balance, ext
 
 ## 6. Shotokan Root
 
-**Breath:** Keep the rhythm martial and continuous. Inhale during chambering and loaded recoil; use compact exhales through Mae Geri, Oi Zuki, Gyaku Zuki, the elbow, and Hammerfist. Breathe naturally during the lateral Kiba-dachi transfer and Nami-gaeshi rather than holding the breath through the balance challenge. Reestablish even breathing in the final Horse.
+**Breath:** Keep the rhythm martial and continuous. Inhale during chambering and loaded recoil; use compact exhales through Mae Geri, Oi Zuki, Gyaku Zuki, the elbow, and Hammerfist. Maintain continuous breathing through the lateral Kiba-dachi transfer and Nami-gaeshi.
 
 The Horse created at the end of the mirrored journey is the loaded doorway into Earth's final striking phrase.
 
@@ -340,7 +340,7 @@ The phrase leaves the root, delivers force through changing structures, briefly 
 
 ## 7. Return to Root
 
-**Breath:** Let the final Horse settle into even breathing. Exhale through each active downward press without forcing the rhythm. Exhale into the closing fold and breathe easily during HOLD 3. Inhale through the slow unfolding and the gathering/rising hands. During Tai Chi Commencement, allow the breath to turn naturally and exhale as the arms sink. Finish in Natural with unforced breathing.
+**Breath:** Exhale through each active downward press without forcing the rhythm. Exhale into the closing fold. After the fold hold, inhale through the slow unfolding and the gathering/rising hands. During Tai Chi Commencement, allow the breath to turn naturally and exhale as the arms sink. Finish in Natural with unforced breathing.
 
 The **Horse [5]** created by the Shotokan phrase is Earth's final strength statement. Do not add a second Horse hold.
 
@@ -405,6 +405,10 @@ Transitions are part of the resistance work. Do not rubber-band between position
 **Mirror journeys, not exercises.**
 
 Bilateral work belongs inside coherent choreography rather than as a checklist of isolated left/right repetitions.
+
+**HOLDs count breaths. FLOW coordinates breath. SNAP issues breath.**
+
+HOLD durations are measured in complete controlled breaths. Breathing notes therefore focus on movement between held structures and on force issuance. Never suspend the breath to manufacture stability or power.
 
 Repeated geometry does not necessarily mean repeated training.
 

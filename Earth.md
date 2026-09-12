@@ -290,51 +290,81 @@ Symmetry belongs to the complete journey. Each side travels through balance, ext
 
 ## 6. Shotokan Root
 
-**Breath:** Keep the rhythm martial and continuous. Inhale during chambering and loaded recoil; use compact exhales through Mae Geri, Oi Zuki, Gyaku Zuki, the elbow, and Hammerfist. Maintain continuous breathing through the lateral Kiba-dachi transfer and Nami-gaeshi.
+**Breath:** Keep the rhythm martial and continuous. Inhale during chambering, stance reversals, and loaded recoil; use compact exhales through each kick and strike. Let the breath continue through Nami-gaeshi rather than bracing through the one-legged defense.
 
-The Horse created at the end of the mirrored journey is the loaded doorway into Earth's final striking phrase.
+The Horse created at the end of the mirrored journey is the loaded doorway into Earth's final striking phrase. This phrase is also mirrored, but its character is very different from the long Crane journey: compact, percussive, and rooted.
 
-Transfer the center from that existing **Horse [5]** onto one leg without rising out of the root. Chamber the free leg and maintain a compact Shotokan guard.
+From the existing **Horse [5]**, transfer the center onto one leg without rising out of the root. Chamber the free leg and maintain a compact Shotokan guard.
 
 **Mae Geri / Front Kick SNAP**
 
-Retract the kick under control. Let the landing drive forward and create a strong front stance at the same instant the whole body issues:
+Retract under control. Let the kicking foot land forward and create the front stance at the same instant the same-side hand issues:
 
 **Oi Zuki / Lunge Punch SNAP**
 
-Do not stop between landing and strike. The landing is the punch's base.
+The landing and punch are one action.
 
-Load the hips through the recoil and rotate through the rooted stance:
+Recoil that hand while the hips rotate through the rooted stance and the opposite hand fires:
 
 **Gyaku Zuki / Reverse Punch SNAP**
 
-Let the recoil from the reverse punch initiate a loaded lateral transfer. Stay low as the feet and hips reorganize into:
+Use the recoil to reorganize into a low lateral base without standing up:
 
 **Kiba-dachi / Horse FLOW**
 
-Use the lateral transfer and hip rotation to drive a close-range:
-
-**Horizontal Elbow SNAP**
-
-Reclaim the centered Horse structure. Without rising, shift the root fully onto the support leg and perform:
+Shift the root fully onto one leg and fold the other foot inward and upward to remove it from a low attack:
 
 **Nami-gaeshi / Returning Wave FLOW**
 
-Lift and return the free foot under control. The support leg owns the low structure while the root is temporarily narrowed.
+As the lifted foot returns and rebuilds the Horse structure, let the body rotation carry the elbow through a hooking path:
 
-Let the returning foot rebuild Kiba-dachi. Coordinate that reconstruction with:
+**Hooking Elbow SNAP**
 
-**Hammerfist SNAP**
+Continue the descending action into the low counter:
 
-Continue the final lateral transfer under control and let the technique resolve back into:
+**Ground Punch SNAP → Horse FLOW**
+
+Do not settle. Reverse the stance and facing under control so the opposite leg is prepared to answer:
+
+**Reverse Stance FLOW**
+
+Now mirror the attack on the opposite side:
+
+**Opposite Mae Geri / Front Kick SNAP**
+
+Land forward with the same-side hand:
+
+**Opposite Oi Zuki / Lunge Punch SNAP**
+
+Rotate through the hips and answer with the opposite hand:
+
+**Opposite Gyaku Zuki / Reverse Punch SNAP**
+
+Reorganize into the opposite lateral root:
+
+**Opposite Kiba-dachi / Horse FLOW**
+
+Remove the opposite leg from the low attack:
+
+**Opposite Nami-gaeshi / Returning Wave FLOW**
+
+Let the returning foot rebuild the root while the body carries the opposite elbow through its hook:
+
+**Opposite Hooking Elbow SNAP**
+
+Continue down into the counter:
+
+**Opposite Ground Punch SNAP**
+
+Let the counter resolve completely back into:
 
 **Horse [5]**
 
-The phrase leaves the root, delivers force through changing structures, briefly challenges the root, and deliberately rebuilds it.
+The phrase leaves Horse through a direct kick-and-punch attack, answers a low counterattack with Nami-gaeshi, hooks through the opening, strikes down, rebuilds the root, reverses, and answers the entire exchange on the other side.
 
 ### Shotokan Pattern
 
-**HORSE [5] → MAE GERI → OI ZUKI → GYAKU ZUKI → KIBA-DACHI FLOW → ELBOW → NAMI-GAESHI → HAMMERFIST → HORSE [5]**
+**HORSE [5] → KICK → PUNCH → REVERSE PUNCH → NAMI-GAESHI → ELBOW HOOK → GROUND PUNCH → HORSE FLOW → REVERSE STANCE → KICK → PUNCH → REVERSE PUNCH → NAMI-GAESHI → ELBOW HOOK → GROUND PUNCH → HORSE [5]**
 
 ---
 
@@ -378,7 +408,7 @@ Stillness.
 
 **Drop Elbow → Check/Crane FLOW → Teep → Tree [5] → Warrior III [5] → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Lunge → Revolved Panther FLOW → Panther FLOW → Butterfly Palm → Crane FLOW → Horse [5]**
 
-**Mae Geri → Oi Zuki → Gyaku Zuki → Kiba-dachi FLOW → Elbow → Nami-gaeshi → Hammerfist → Horse [5] + Down Presses**
+**Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse FLOW → Reverse Stance → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse [5] + Down Presses**
 
 **Bow/Fold [3] → Natural FLOW → Commencement FLOW → Natural**
 

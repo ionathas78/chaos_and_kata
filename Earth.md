@@ -288,11 +288,11 @@ Symmetry belongs to the complete journey. Each side travels through balance, ext
 
 ---
 
-## 6. Shotokan Root
+## 6. Third Journey
 
 **Breath:** Keep the rhythm martial and continuous. Inhale during chambering, stance reversals, and loaded recoil; use compact exhales through each kick and strike. Let the breath continue through Nami-gaeshi rather than bracing through the one-legged defense.
 
-The Horse created at the end of the mirrored journey is the loaded doorway into Earth's final striking phrase. This phrase is also mirrored, but its character is very different from the long Crane journey: compact, percussive, and rooted.
+The Horse created at the end of the second journey is the loaded doorway into Earth's final striking journey. This journey is mirrored, but its character is very different from the long Crane journeys: compact, percussive, and rooted. Performed crisply, the reversal should read as a continuation of one attack sequence rather than a pause between paired halves.
 
 From the existing **Horse [5]**, transfer the center onto one leg without rising out of the root. Chamber the free leg and maintain a compact Shotokan guard.
 
@@ -328,7 +328,7 @@ Do not settle. Reverse the stance and facing under control so the opposite leg i
 
 **Reverse Stance FLOW**
 
-Now mirror the attack on the opposite side:
+Continue directly into the opposite-side attack:
 
 **Opposite Mae Geri / Front Kick SNAP**
 
@@ -360,9 +360,9 @@ Let the counter resolve completely back into:
 
 **Horse [5]**
 
-The phrase leaves Horse through a direct kick-and-punch attack, answers a low counterattack with Nami-gaeshi, hooks through the opening, strikes down, rebuilds the root, reverses, and answers the entire exchange on the other side.
+The journey leaves Horse through a direct kick-and-punch attack, answers a low counterattack with Nami-gaeshi, hooks through the opening, strikes down, rebuilds the root, reverses without settling, and carries the exchange through the opposite side before returning to Horse.
 
-### Shotokan Pattern
+### Third Journey Pattern
 
 **HORSE [5] → KICK → PUNCH → REVERSE PUNCH → NAMI-GAESHI → ELBOW HOOK → GROUND PUNCH → HORSE FLOW → REVERSE STANCE → KICK → PUNCH → REVERSE PUNCH → NAMI-GAESHI → ELBOW HOOK → GROUND PUNCH → HORSE [5]**
 
@@ -372,7 +372,7 @@ The phrase leaves Horse through a direct kick-and-punch attack, answers a low co
 
 **Breath:** Exhale through each active downward press without forcing the rhythm. Exhale into the closing fold. After the fold hold, inhale through the slow unfolding and the gathering/rising hands. During Tai Chi Commencement, allow the breath to turn naturally and exhale as the arms sink. Finish in Natural with unforced breathing.
 
-The **Horse [5]** created by the Shotokan phrase is Earth's final strength statement. Do not add a second Horse hold.
+The **Horse [5]** created by the Third Journey is Earth's final strength statement. Do not add a second Horse hold.
 
 During that same final Horse, use active downward presses. Let the final press initiate the release.
 
@@ -408,7 +408,7 @@ Stillness.
 
 **Drop Elbow → Check/Crane FLOW → Teep → Tree [5] → Warrior III [5] → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Lunge → Revolved Panther FLOW → Panther FLOW → Butterfly Palm → Crane FLOW → Horse [5]**
 
-**Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse FLOW → Reverse Stance → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse [5] + Down Presses**
+**Third Journey: Horse [5] → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse FLOW → Reverse Stance → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse [5] + Down Presses**
 
 **Bow/Fold [3] → Natural FLOW → Commencement FLOW → Natural**
 

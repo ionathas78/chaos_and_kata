@@ -140,9 +140,19 @@ This begins the first mirrored journey.
 
 ## 4. First Journey
 
-**Breath:** Exhale through the Dropping Elbow. Inhale during the withdrawing check and rise back into Crane; exhale through the Teep. After Tree [5], inhale as Tree closes and the body lengthens into Warrior III. After Warrior III [5], exhale gradually through the long controlled descent into Panther. Maintain continuous breathing through Panther → Plank and the ground sequence, with a stronger exhale for Knee-to-Elbow. Inhale through the lunge and rotational recovery as space permits; exhale through the Butterfly Palm, then inhale into the rising Crane.
+**Breath:** Exhale through the Teep, inhale through its recoil into Crane, then exhale through the Dropping Elbow. Inhale during the withdrawing check and rise back onto the original support leg. After Tree [5], inhale as Tree closes and the body lengthens into Warrior III. After Warrior III [5], exhale gradually through the long controlled descent into Panther. Maintain continuous breathing through Panther → Plank and the ground sequence, with a stronger exhale for Knee-to-Elbow. Inhale through the lunge and rotational recovery as space permits; exhale through the Butterfly Palm, then inhale into the rising Crane.
 
-From Crane, let the raised foot plant forward as the body dips into the landing. Coordinate the weight acceptance with a descending close-range strike:
+From Crane, drive the floating leg straight forward:
+
+**Thrust Kick / Teep SNAP**
+
+Retract completely into Crane without putting the foot down:
+
+**Crane / Thai Check FLOW**
+
+Do not settle. The recoil is the loading structure for the next action.
+
+Let the raised foot plant forward as the body dips into the landing. Coordinate the weight acceptance with a descending close-range strike:
 
 **Dropping Elbow SNAP**
 
@@ -150,13 +160,7 @@ Withdraw from the strike under control. Let the hands form a receiving block/che
 
 **Crane / Thai Check FLOW**
 
-Do not stop in the returning Crane. It is the rising phase of the same action.
-
-Drive the floating leg straight forward:
-
-**Thrust Kick / Teep SNAP**
-
-Retract completely through Crane without putting the foot down.
+The Teep and Dropping Elbow form one Muay Thai phrase: the raised knee releases into the kick, recoils into Crane, then the plant releases the body into the descending elbow before the original root is reclaimed.
 
 Open the hip and hands together:
 
@@ -172,7 +176,7 @@ From Warrior III, keep the same leg rooted and the other foot airborne. Bend dee
 
 **Panther FLOW**
 
-There is no touchdown between the returning Crane, Teep, Tree, Warrior III, and the descent into Panther. Panther is the first point at which the free foot returns to the floor.
+After the Dropping Elbow recovery, there is no touchdown between the returning Crane, Tree, Warrior III, and the descent into Panther. Panther is the first point at which the free foot returns to the floor.
 
 Shift backward under control, lengthening the forward leg as the hands receive.
 
@@ -210,21 +214,23 @@ The first journey has now created the beginning of the second.
 
 ## 5. Second Journey
 
-**Breath:** Mirror the first journey. Exhale through the Dropping Elbow, inhale through the withdrawing check and rising Crane, exhale through the Teep. After Tree [5], inhale into the Tree-to-Warrior III extension. After Warrior III [5], exhale gradually through Warrior III → Panther. Keep the breath moving through Panther → Plank and the ground work, with a stronger exhale on Knee-to-Elbow. Inhale through the lunge and recovery where comfortable; exhale through Butterfly Palm. Inhale through the final Crane FLOW and let the breath continue naturally as the landing establishes Horse.
+**Breath:** Mirror the first journey. Exhale through the Teep, inhale through its recoil into Crane, then exhale through the Dropping Elbow. Inhale through the withdrawing check and recovery onto the original support leg. After Tree [5], inhale into the Tree-to-Warrior III extension. After Warrior III [5], exhale gradually through Warrior III → Panther. Keep the breath moving through Panther → Plank and the ground work, with a stronger exhale on Knee-to-Elbow. Inhale through the lunge and recovery where comfortable; exhale through Butterfly Palm. Inhale through the final Crane FLOW and let the breath continue naturally as the landing establishes Horse.
 
-From Opposite Crane, plant the raised foot forward while dipping into the landing:
+From Opposite Crane, drive the floating leg straight forward:
+
+**Opposite Thrust Kick / Teep SNAP**
+
+Retract completely into Crane without putting the foot down:
+
+**Opposite Crane / Thai Check FLOW**
+
+Without settling, let the raised foot plant forward while the body dips into the landing:
 
 **Opposite Dropping Elbow SNAP**
 
 Withdraw under control with the receiving block/check. Shift the center back onto the original support leg and gather the forward knee:
 
 **Opposite Crane / Thai Check FLOW**
-
-Without stopping:
-
-**Thrust Kick / Teep SNAP**
-
-Retract completely through Crane without putting the foot down.
 
 Open the hip and hands together:
 
@@ -238,7 +244,7 @@ From Warrior III, keep the standing leg as the root and the opposite foot airbor
 
 **Opposite Panther FLOW**
 
-As on the first side, there is no touchdown from the returning Crane through Teep, Tree, Warrior III, and the descent into Panther.
+As on the first side, after the Dropping Elbow recovery there is no touchdown from the returning Crane through Tree, Warrior III, and the descent into Panther.
 
 Shift backward under control as the hands receive.
 
@@ -276,13 +282,13 @@ This final Crane is a transition rather than another hold. Plant the gathered le
 
 ### Mirrored Journey Pattern
 
-**PANTHER FLOW → BUTTERFLY PALM → CRANE [3] → DROP ELBOW → CHECK/CRANE FLOW → TEEP → TREE [5] → WARRIOR III [5] → PANTHER FLOW → KNUCKLE PLANK [5] → KNEE [3] → KNUCKLE PLANK [3] → LUNGE → REVOLVED PANTHER FLOW → PANTHER FLOW → BUTTERFLY PALM → OPPOSITE CRANE [3]**
+**PANTHER FLOW → BUTTERFLY PALM → CRANE [3] → TEEP → CRANE FLOW → DROP ELBOW → CHECK/CRANE FLOW → TREE [5] → WARRIOR III [5] → PANTHER FLOW → KNUCKLE PLANK [5] → KNEE [3] → KNUCKLE PLANK [3] → LUNGE → REVOLVED PANTHER FLOW → PANTHER FLOW → BUTTERFLY PALM → OPPOSITE CRANE [3]**
 
-**DROP ELBOW → CHECK/CRANE FLOW → TEEP → TREE [5] → WARRIOR III [5] → PANTHER FLOW → KNUCKLE PLANK [5] → KNEE [3] → KNUCKLE PLANK [3] → LUNGE → REVOLVED PANTHER FLOW → PANTHER FLOW → BUTTERFLY PALM → CRANE FLOW → HORSE [5]**
+**TEEP → CRANE FLOW → DROP ELBOW → CHECK/CRANE FLOW → TREE [5] → WARRIOR III [5] → PANTHER FLOW → KNUCKLE PLANK [5] → KNEE [3] → KNUCKLE PLANK [3] → LUNGE → REVOLVED PANTHER FLOW → PANTHER FLOW → BUTTERFLY PALM → CRANE FLOW → HORSE [5]**
 
 > **Mirror journeys, not exercises.**
 
-The Crane phrase is movement rather than portraiture: rise, dip to strike, withdraw and rise again, then release the gathered leg into the thrust kick. After the returning Crane, the free foot remains airborne through Teep, Tree, Warrior III, and the controlled descent until Panther finally receives it.
+The Crane phrase is movement rather than portraiture: rise, kick from the gathered leg, recoil into Crane, dive through the planted Dropping Elbow, then withdraw and rise again. After that elbow recovery, the free foot remains airborne through Tree, Warrior III, and the controlled descent until Panther finally receives it.
 
 Symmetry belongs to the complete journey. Each side travels through balance, extension, descent, ground contact, rotation, recovery, Panther loading, and the Butterfly Palm rise before the other side answers it or Earth returns to root.
 
@@ -404,9 +410,9 @@ Stillness.
 
 **Cloud Hands → Panther FLOW → Butterfly Palm → Crane [3]**
 
-**Drop Elbow → Check/Crane FLOW → Teep → Tree [5] → Warrior III [5] → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Lunge → Revolved Panther FLOW → Panther FLOW → Butterfly Palm → Opposite Crane [3]**
+**Teep → Crane FLOW → Drop Elbow → Check/Crane FLOW → Tree [5] → Warrior III [5] → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Lunge → Revolved Panther FLOW → Panther FLOW → Butterfly Palm → Opposite Crane [3]**
 
-**Drop Elbow → Check/Crane FLOW → Teep → Tree [5] → Warrior III [5] → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Lunge → Revolved Panther FLOW → Panther FLOW → Butterfly Palm → Crane FLOW → Horse [5]**
+**Teep → Crane FLOW → Drop Elbow → Check/Crane FLOW → Tree [5] → Warrior III [5] → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Lunge → Revolved Panther FLOW → Panther FLOW → Butterfly Palm → Crane FLOW → Horse [5]**
 
 **Third Journey: Horse [5] → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse FLOW → Reverse Stance → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse [5] + Down Presses**
 

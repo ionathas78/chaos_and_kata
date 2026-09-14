@@ -1,4 +1,4 @@
-# THE TURNING WALL
+# THE TURNING WALL: ZWEIHÄNDER
 
 **Bastard Sword Strength Kata**
 

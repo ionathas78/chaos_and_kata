@@ -110,19 +110,13 @@ This is one journey through four vectors, not the same combination repeated four
 
 ---
 
-## 3. Cloud Hands → First Panther
+## 3. First Panther
 
-**Breath:** Let Cloud Hands restore a smooth, even rhythm. Inhale through the broad receiving circle and gathering action. Exhale while sinking through the lateral ward into Panther. Inhale to load the compressed Panther structure; exhale through the rising elbow. Let the guard recovery breathe naturally, then exhale through the Teep and inhale through its recoil into Crane.
+**Breath:** Let the Horse release directly into the low transition. Inhale to load the compressed Panther structure; exhale through the rising elbow. Let the guard recovery breathe naturally, then exhale through the Teep and inhale through its recoil into Crane.
 
-Immediately soften Horse into **Cloud Hands**.
+Release the final Horse without standing fully out of the root. Transfer the weight and sink directly into:
 
-**Right → Center → Left → Center**
-
-Keep the legs loaded throughout the transfer.
-
-Allow the circle to broaden while sinking.
-
-**Lateral Ward SNAP → Panther FLOW**
+**Panther FLOW**
 
 Do not settle. Panther is a low, actively loaded structure in motion.
 
@@ -278,7 +272,7 @@ This final Crane is a transition rather than another hold. Plant the gathered le
 
 > **Mirror journeys, not exercises.**
 
-The new Panther phrase is a transformation rather than a string of poses: Panther's compressed spring drives the rising elbow, the elbow's recovery becomes Muay Thai guard, the guard releases the Teep, and the Teep's recoil becomes Crane. From Crane, the free foot remains airborne through Tree, Warrior III, and the controlled descent until Panther finally receives it.
+The Panther phrase is a transformation rather than a string of poses: Panther's compressed spring drives the rising elbow, the elbow's recovery becomes Muay Thai guard, the guard releases the Teep, and the Teep's recoil becomes Crane. From Crane, the free foot remains airborne through Tree, Warrior III, and the controlled descent until Panther finally receives it.
 
 Symmetry belongs to the complete journey. Each side travels through compression, upward force, distance creation, balance, extension, descent, ground contact, rotation, and recovery before the other side answers it or Earth returns to root.
 
@@ -366,15 +360,19 @@ The journey leaves Horse through a direct kick-and-punch attack, answers a low c
 
 ## 7. Return to Root
 
-**Breath:** Exhale through each active downward press without forcing the rhythm. Exhale into the closing fold. After the fold hold, inhale through the slow unfolding and the gathering/rising hands. During Tai Chi Commencement, allow the breath to turn naturally and exhale as the arms sink. Finish in Natural with unforced breathing.
+**Breath:** Let Cloud Hands restore smooth, even breathing after the percussive Third Journey. Keep the breath continuous through the lateral transfers. Exhale through the closing fold. After the fold hold, inhale through the slow unfolding and gathering/rising hands. During Tai Chi Commencement, allow the breath to turn naturally and exhale as the arms sink. Finish in Natural with unforced breathing.
 
 The **Horse [5]** created by the Third Journey is Earth's final strength statement. Do not add a second Horse hold.
 
-During that same final Horse, use active downward presses. Let the final press initiate the release.
+Soften the final Horse directly into:
 
-Gather toward center.
+**Cloud Hands FLOW**
 
-**Bow → Deep Forward Fold [3]**
+**Right → Center → Left → Center**
+
+Let the weight transfer remain rooted but gradually reduce the force of the movement. Allow the final center to narrow the stance and gather toward Natural rather than launching another attack.
+
+**Natural FLOW → Bow → Deep Forward Fold [3]**
 
 The opening fold leads into Earth. The closing fold leads out of Earth.
 
@@ -398,15 +396,15 @@ Stillness.
 
 **A → Left Elbow → B → 180° Back Sweep → C → Right Elbow → D → Horse [3]**
 
-**Cloud Hands → Panther FLOW → Rising Elbow → Muay Thai Guard → Teep → Crane [3]**
+**Panther FLOW → Rising Elbow → Muay Thai Guard → Teep → Crane [3]**
 
-**Tree [5] → Warrior III [5] → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Lunge → Revolved Panther FLOW → Panther FLOW → Rising Elbow → Guard → Teep → Opposite Crane [3]**
+**Tree [5] → Warrior III [5] → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Lunge → Revolved Panther FLOW → Panther FLOW → Rising Elbow → Muay Thai Guard → Teep → Opposite Crane [3]**
 
-**Tree [5] → Warrior III [5] → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Lunge → Revolved Panther FLOW → Panther FLOW → Rising Elbow → Guard → Teep → Crane FLOW → Horse [5]**
+**Tree [5] → Warrior III [5] → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Lunge → Revolved Panther FLOW → Panther FLOW → Rising Elbow → Muay Thai Guard → Teep → Crane FLOW → Horse [5]**
 
-**Third Journey: Horse [5] → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse FLOW → Reverse Stance → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse [5] + Down Presses**
+**Third Journey: Horse [5] → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse FLOW → Reverse Stance → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse [5]**
 
-**Bow/Fold [3] → Natural FLOW → Commencement FLOW → Natural**
+**Cloud Hands FLOW → Natural FLOW → Bow/Fold [3] → Natural FLOW → Commencement FLOW → Natural**
 
 ---
 

@@ -42,7 +42,7 @@ Earth uses a deliberately controlled approximately 180° rear sweep to reverse f
 
 ### Panther FLOW / Leopard-inspired low structure
 
-**Used in:** Cloud Hands transition, both long journeys, ground transitions
+**Used in:** Four Corners exit, both long journeys, ground transitions
 
 Earth's Panther is intentionally **Panther/Leopard-inflected**, not presented as one canonical stance from a single lineage. The useful vocabulary is low loaded geometry, angular entry, hip/waist rotation, elbows and knees, low-line attack, compression and extension, and springing out of the legs.
 
@@ -159,7 +159,7 @@ From the low lateral root, the weight shifts onto one leg while the other foot f
   https://karate.groups.stanford.edu/resources/kihon/kicks
 
 - KarateForums discussion — *My Top 10 Applications for Nami-Gaeshi*, including kick/sweep avoidance and shin-block/check interpretations  
-  https://karateforums.com/topic/44639-my-top-10-applications-for-nami-gaeshi/
+  https://karateforums.com/topic/44639/my-top-10-applications-for-nami-gaeshi/
 
 ### Hooking Elbow → Ground Punch
 
@@ -180,9 +180,9 @@ The comparison is useful for seeing returning-wave movements embedded among clos
 
 ### Cloud Hands
 
-**Used in:** Horse → Panther transition
+**Used in:** Return to Root, immediately after Third Journey
 
-Earth uses Cloud Hands as a continuous lateral weight-transfer phrase that softens the preceding Horse structure, restores circular motion, and broadens into the lateral ward before sinking into Panther.
+Earth uses Cloud Hands as a continuous lateral weight-transfer cooldown after the final percussive Shotokan phrase. It softens the concluding Horse without abandoning martial movement, restores circular motion and smooth breathing, and gradually narrows the structure toward Natural before the closing fold and Commencement.
 
 **Reference still to be selected.** Add a demonstration after we have watched it and confirmed that its weight transfer is useful for our version.
 

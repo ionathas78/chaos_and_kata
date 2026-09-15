@@ -36,38 +36,65 @@ Earth uses a deliberately controlled approximately 180° rear sweep to reverse f
 - UK Shaolin — *Kung Fu back sweep | Hou Sao Tui | Shaolin Kung Fu*  
   https://www.youtube.com/watch?v=yN9UUZAt8xE
 
-### Double Butterfly Palm / Dip Cheung
+---
 
-**Used in:** Panther → Crane transitions
+## Panther / Leopard Vocabulary
 
-The name and general double-palm vocabulary are drawn from southern Chinese martial arts. Our Earth version is an over/under double palm driven forward from Panther, with the strike transferring the center directly onto the forward leg so Crane can rise without recoil.
+### Panther FLOW / Leopard-inspired low structure
 
-- Wing Chun Origins — discussion of Gulao Pin Sun Wing Chun hand sets, including **Dip Cheung (Double Butterfly Palm)**  
-  https://wingchunorigins.org/post/the-rise-of-gulao-pin-sun-wing-chun/
+**Used in:** Cloud Hands transition, both long journeys, ground transitions
 
-- Northern Shaolin Kung Fu and Tai Chi Academy — Hung Gar curriculum listing **Wu Dip Jueng Kuen / Butterfly Palm Set**  
-  https://northernshaolinacademy.com/new/NsaHungGarCurriculum.asp
+Earth's Panther is intentionally **Panther/Leopard-inflected**, not presented as one canonical stance from a single lineage. The useful vocabulary is low loaded geometry, angular entry, hip/waist rotation, elbows and knees, low-line attack, compression and extension, and springing out of the legs.
 
-**Project note:** These sources establish Butterfly Palm vocabulary, but they are not demonstrations of Earth's exact over/under Panther transition. That linkage is our choreography.
+Because Panther/Leopard practice varies considerably by lineage, no single video should be treated as defining Earth's Panther. References should be labeled by lineage and used for specific mechanical ideas rather than as proof of one universal Panther form.
+
+### Panther Rising Elbow
+
+**Used in:** Panther → Muay Thai Guard → Teep transitions
+
+Earth uses Panther's low compressed geometry as the launch structure for a rising elbow. The legs and hips drive the body upward while the elbow travels on a compact ascending line. The movement begins with Panther/Leopard-inflected compression and springing mechanics, then resolves into an upright Muay Thai guard.
+
+There is no claim that **Panther Rising Elbow** is a canonical named Panther technique. It is project terminology for a hybrid transition whose launch is Panther-inflected and whose elbow mechanics are informed by Muay Thai **Sok Ngat / upward elbow**.
+
+- YOKKAO — *How to Throw a Right Uppercut Elbow | Muay Thai Fundamentals*  
+  https://www.youtube.com/watch?v=phOXoJeOf7Q
+
+- Fight Encyclopedia — *Standard Sok Ngat / Uppercut Elbow*  
+  https://fightencyclopedia.com/techniques/strike/elbow-strike/uppercut-elbow/sok-ngat/standard-sok-ngat
+
+**Earth phrase:**
+
+**Panther FLOW → Panther Rising Elbow SNAP → Muay Thai Guard FLOW → Teep SNAP → recoil to Crane / Thai Check**
+
+The important mechanical idea is that Panther does not rise and then throw the elbow. **The elbow is how Panther rises.** The recovery creates the guard, the guard provides the platform for the Teep, and the Teep recoil creates Crane.
 
 ---
 
 ## Muay Thai
 
-### Thai Check / raised-knee guard
+### Sok Ngat / Uppercut or Rising Elbow
 
-**Used in:** Crane / Thai Check
+**Used in:** Panther Rising Elbow
 
-Earth borrows the raised-knee defensive structure as the martial foundation of Crane. The support leg stays alive rather than locked, the knee gathers high, and the hands remain in a functional guard.
+Sok Ngat supplies the clearest real-world reference for the compact upward elbow action used when Earth rises out of Panther. Study the coordinated leg and hip drive and the upward elbow path rather than copying a complete Muay Thai combination.
 
-- Muay Thai Bible — *Shin Block / Check*  
-  https://muaythaibible.com/th/techniques/shin-block-check
+- YOKKAO — *How to Throw a Right Uppercut Elbow | Muay Thai Fundamentals*  
+  https://www.youtube.com/watch?v=phOXoJeOf7Q
+
+- Fight Encyclopedia — *Standard Sok Ngat / Uppercut Elbow*  
+  https://fightencyclopedia.com/techniques/strike/elbow-strike/uppercut-elbow/sok-ngat/standard-sok-ngat
+
+### Muay Thai Guard
+
+**Used in:** Rising Elbow → Teep transition
+
+The rising elbow resolves into an upright guarded structure rather than a static pose. The guard is a FLOW landmark that organizes the body for the Teep.
 
 ### Teep / Front Push Kick
 
-**Used in:** First and Second Journeys
+**Used in:** Panther-to-Crane transitions
 
-From Crane, the raised leg extends directly into the teep and recoils back into the raised-knee structure without touching down.
+From the upright Muay Thai guard, the lead knee gathers and the foot drives forward to manage distance. The kick retracts completely and its recoil is captured as Crane / Thai Check rather than immediately returning the foot to the floor.
 
 - Muay Thai Basics — *The Teep or Front Push Kick*  
   https://www.youtube.com/watch?v=epJCYeLRVmg
@@ -78,28 +105,16 @@ From Crane, the raised leg extends directly into the teep and recoils back into 
 - Evolve MMA — *3 Muay Thai Counters You Need To Know*  
   https://evolve-mma.com/blog/3-muay-thai-counters-you-need-to-know/
 
-The Evolve reference is useful for the authentic **check → same-leg teep without first putting the foot down** relationship.
+The Evolve reference is useful for the authentic **check → same-leg teep without first putting the foot down** relationship. Earth reverses the emphasis by letting the completed Teep recoil become the raised-knee Crane structure.
 
-### Dropping / Downward Elbow — Sok Sap
+### Thai Check / raised-knee guard
 
-**Used in:** First and Second Journeys
+**Used in:** Crane / Thai Check
 
-Earth uses the raised-knee structure and teep recoil to load a forward plant and descending elbow. The body drops with the strike rather than merely swinging the forearm downward.
+Earth borrows the raised-knee defensive structure as the martial foundation of Crane. The support leg stays alive rather than locked, the knee gathers high, and the hands remain in a functional guard.
 
-- Fight Encyclopedia — *Downward Elbow / Chopping Elbow / Sok Sap*  
-  https://fightencyclopedia.com/videos/7262/strike/elbow-strike/downward-elbow/chopping-elbow/sok-sap
-
-- Supa Phat — *Muay Thai Elbow Techniques Explained*, section on **Downward Elbow (Sok Sap)**  
-  https://www.supa-phat.com/blogs/the-fighters-corner/muay-thai-elbow-techniques
-
-- Downward Elbow — analysis of Jonathan Haggerty's shifting footwork, raised-knee threats, and downward elbows  
-  https://downwardelbow.com/2021/05/14/shifting-footwork-downward-elbows-and-handtraps/
-
-**Earth phrase:**
-
-**Crane [3] → Teep SNAP → recoil to Crane FLOW → plant + Dropping Elbow SNAP → withdraw/check → Crane FLOW → Tree [5]**
-
-The Haggerty material is especially useful for the idea of a raised-knee threat feeding a downward-elbow entry. Earth's complete sequence is original choreography rather than a copied Muay Thai combination.
+- Muay Thai Bible — *Shin Block / Check*  
+  https://muaythaibible.com/th/techniques/shin-block-check
 
 ---
 
@@ -178,18 +193,6 @@ Earth uses Cloud Hands as a continuous lateral weight-transfer phrase that softe
 Earth borrows the familiar rising-and-sinking arm action as the final controlled release back into Natural stance.
 
 **Reference still to be selected and vetted.**
-
----
-
-## Panther / Leopard Vocabulary
-
-### Panther FLOW / Leopard-inspired low structure
-
-**Used in:** Cloud Hands transition, both long journeys, ground transitions
-
-Earth's Panther is intentionally **Panther/Leopard-inflected**, not presented as one canonical stance from a single lineage. The useful vocabulary is low loaded geometry, angular entry, hip/waist rotation, elbows and knees, low-line attack, compression and extension, and springing out of the legs.
-
-Because Panther/Leopard practice varies considerably by lineage, no single video should be treated as defining Earth's Panther. Future references should be labeled by lineage and used for specific mechanical ideas rather than as proof of one universal Panther form.
 
 ---
 

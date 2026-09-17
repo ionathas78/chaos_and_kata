@@ -42,17 +42,25 @@ Collect the second cut high before the face. Turn toward center and settle into 
 
 ## 4. Hold the Near Perimeter
 
-Keep the left foot planted as the axis. Walk the right foot around through a half-circle:
+Keep the left foot planted as the axis. Let the right foot travel around it through the rising forehand and overhead descending backhand.
 
-**Rising forehand → overhead descending backhand → horizontal forehand**
+As the sword becomes the horizontal forehand, withdraw the right foot and return to a broad centered stance.
+
+Do not stop the blade. Carry its momentum into one circling backhand and one circling forehand, passing continuously around the shoulders and over the crown.
+
+**Rising forehand → descending backhand → retreating horizontal forehand → circling backhand → circling forehand**
 
 Collect high before the face and transfer the weight.
 
-Keep the right foot planted. Walk the left foot around through the opposite half-circle:
+Keep the right foot planted as the axis. Let the left foot travel around it through the rising backhand and overhead descending forehand.
 
-**Rising backhand → overhead descending forehand → horizontal backhand**
+As the sword becomes the horizontal backhand, withdraw the left foot and re-center.
 
-Allow the planted foot to pivot naturally with the knee.
+Continue into one circling forehand and one circling backhand.
+
+**Rising backhand → descending forehand → retreating horizontal backhand → circling forehand → circling backhand**
+
+Let the planted foot pivot naturally with the knee. Keep the grip easy, the elbows soft, and the hands moving whenever they pass behind the head.
 
 ## 5. Shift the Wall
 
@@ -74,33 +82,35 @@ Establish the right-foot axis:
 
 Let the final horizontal cut rise naturally into high guard.
 
-Pass forward behind one relaxed vertical or slightly diagonal chop. Allow it to settle into long point.
+Advance the left foot a short distance with a relaxed descending forehand. Let the right foot gather into a moderate stance.
 
-Extend one measured thrust.
+Keep the point moving from the end of the cut and ready a thrust over the right arm. Step a little to the right with the right foot as the thrust extends, then let the left foot accompany it.
 
-Recover the pommel toward the right shoulder. Turn through a passing step, allowing the recovery to become an overhead loop and descending cut toward the rear.
+Withdraw the point only far enough to recover structure.
 
-Settle into long point and thrust again.
+Keep the right foot as the turning axis. Pass the left foot around it while the sword makes one continuous circling backhand. Let the blade's circle draw the body around to face the rear.
 
-**Chop → point → thrust → shoulder → turn and chop → point → thrust**
+As the feet settle, allow the circling backhand to return as a descending forehand toward the rear. Extend the second thrust from the settled stance.
 
-Exhale through each thrust without locking the elbows.
+**Forehand → right-line thrust → circling backhand / turn → rear forehand → thrust**
+
+Exhale through each thrust without locking the elbows. The sword creates the turn; do not turn first and drag the blade after you.
 
 ## 7. The Narrow Gate
 
-Recover from the rear thrust while turning toward the original front. Let the sword settle forward and slightly right.
+Recover from the rear thrust into a point-forward guard. Turn toward the original front with both hands still on the hilt and the blade covering the line.
 
-Release the left hand from the pommel and place it around the middle third of the blade. Draw the hilt toward the right ribs while keeping the point forward.
+Once you face the front, release the left hand from the pommel and place it around the middle third of the blade. Draw the hilt toward the right ribs while keeping the point forward.
 
-Step diagonally left. Raise the sword between your hands into a compact left-side cover. Let the cover turn immediately into a thrust.
+Step diagonally left into a compact True Cross cover. Let the cover become the thrust without a separate chamber.
 
-Recover only far enough to regain structure.
+Withdraw the point into the compact guard and gather the feet beneath you before changing lines.
 
-Shift diagonally right into the opposite cover. Turn the point through center and thrust again.
+Step diagonally right into the corresponding Bastard Cross cover. Let it become the second thrust.
 
-**Shorten → left cover / thrust → right cover / thrust**
+**Recover and turn → shorten → left cross / thrust → gather → right cross / thrust**
 
-Keep the blade-hand wrist straight. The hilt hand establishes the structure; the blade hand steers the point.
+Keep the blade-hand wrist straight. The hilt hand establishes the structure; the blade hand steers the point. Change the grip only after the turn is complete.
 
 ## 8. Reclaim the Measure
 
@@ -138,7 +148,13 @@ Hold for one quiet breath.
 
 ## Memory Line
 
-**Enter → Open → Cross → Ward Left → Ward Right → Shift → Ward Again → Front and Rear → Shorten → Left Gate → Right Gate → Lengthen → Hawk → Quarter → Rake → Cleave → Restore**
+**Enter → Open → Cross → Ward Left → Spiral → Ward Right → Spiral → Shift → Ward Again → Front and Rear → Shorten → Left Gate → Gather → Right Gate → Lengthen → Hawk → Quarter → Rake → Cleave → Restore**
+
+## Movement References
+
+- [Ton Puey — Figueiredo Rule XII: front and rear](https://www.youtube.com/watch?v=2Ro6x03BuIg) — 1:07.
+- [Fiore's True Cross guard](https://learnfiore.org/wp-content/uploads/Fiore-Armored-Sword-1.pdf#page=10) — single illustrated page.
+- [Fiore's True Cross cover and thrust](https://learnfiore.org/wp-content/uploads/Fiore-Armored-Sword-1.pdf#page=15) — two illustrated pages.
 
 ## Practice Notes
 

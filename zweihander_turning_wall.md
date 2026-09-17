@@ -46,9 +46,7 @@ Keep the left foot planted as the axis. Let the right foot travel around it thro
 
 As the sword becomes the horizontal forehand, withdraw the right foot and return to a broad centered stance.
 
-Do not stop the blade. Carry its momentum into one circling backhand and one circling forehand, passing continuously around the shoulders and over the crown.
-
-**Rising forehand → descending backhand → retreating horizontal forehand → circling backhand → circling forehand**
+**Rising forehand → descending backhand → retreating horizontal forehand**
 
 Collect high before the face and transfer the weight.
 
@@ -56,17 +54,29 @@ Keep the right foot planted as the axis. Let the left foot travel around it thro
 
 As the sword becomes the horizontal backhand, withdraw the left foot and re-center.
 
-Continue into one circling forehand and one circling backhand.
+**Rising backhand → descending forehand → retreating horizontal backhand**
 
-**Rising backhand → descending forehand → retreating horizontal backhand → circling forehand → circling backhand**
+Let the planted foot pivot naturally with the knee.
 
-Let the planted foot pivot naturally with the knee. Keep the grip easy, the elbows soft, and the hands moving whenever they pass behind the head.
+## 5. Turn the Wheel
 
-## 5. Shift the Wall
+Let the final horizontal backhand rise around the right shoulder rather than stopping in guard.
 
-Let the final backhand rise around the shoulder into a broad lateral clearing cut.
+With the feet broad, carry the sword through one circling forehand and one circling backhand. Let the first circle remain close enough to cover the body; let the second open to full measure.
 
-Sidestep across the rear edge of the center while the sword maintains the perimeter.
+As the backhand rises, step laterally across the rear edge of the protected center. Let the traveling step become another circling forehand and circling backhand on the new line.
+
+Collect the last backhand high before the face.
+
+**Close forehand circle → wide backhand circle → lateral step / forehand circle → backhand circle**
+
+The sword does not stop between circles. Let the hips and rib cage follow the blade while the feet pivot beneath the knees. The hands may travel behind the head but never pause or reverse there.
+
+Inhale through the first pair. Exhale through the traveling pair.
+
+## 6. Shift the Wall
+
+Let the final backhand open into a broad lateral clearing cut as you settle on the new line.
 
 Establish the left-foot axis again:
 
@@ -78,7 +88,7 @@ Establish the right-foot axis:
 
 **Rising backhand → overhead descending forehand → horizontal backhand**
 
-## 6. Front and Rear
+## 7. Front and Rear
 
 Let the final horizontal cut rise naturally into high guard.
 
@@ -96,7 +106,7 @@ As the feet settle, allow the circling backhand to return as a descending foreha
 
 Exhale through each thrust without locking the elbows. The sword creates the turn; do not turn first and drag the blade after you.
 
-## 7. The Narrow Gate
+## 8. The Narrow Gate
 
 Recover from the rear thrust into a point-forward guard. Turn toward the original front with both hands still on the hilt and the blade covering the line.
 
@@ -112,7 +122,7 @@ Step diagonally right into the corresponding Bastard Cross cover. Let it become 
 
 Keep the blade-hand wrist straight. The hilt hand establishes the structure; the blade hand steers the point. Change the grip only after the turn is complete.
 
-## 8. Reclaim the Measure
+## 9. Reclaim the Measure
 
 Withdraw the second thrust while stepping backward. Keep the point forward until the body has cleared close measure.
 
@@ -122,7 +132,7 @@ Release the blade hand and return it to the pommel. Let the changing grip draw t
 
 Continue over the crown. The rising cut becomes the descending hawk without interruption.
 
-## 9. Hawk–Quarter–Rake
+## 10. Hawk–Quarter–Rake
 
 Step with the descending hawk.
 
@@ -136,7 +146,7 @@ Let the rake pass over the crown and resolve into one controlled descending clea
 
 Exhale through the final cleave. Do not mirror the passage.
 
-## 10. Restore the Ground
+## 11. Restore the Ground
 
 Let the cleave curve outward at the bottom.
 
@@ -148,10 +158,12 @@ Hold for one quiet breath.
 
 ## Memory Line
 
-**Enter → Open → Cross → Ward Left → Spiral → Ward Right → Spiral → Shift → Ward Again → Front and Rear → Shorten → Left Gate → Gather → Right Gate → Lengthen → Hawk → Quarter → Rake → Cleave → Restore**
+**Enter → Open → Cross → Ward Left → Ward Right → Turn the Wheel → Shift → Ward Again → Front and Rear → Shorten → Left Gate → Gather → Right Gate → Lengthen → Hawk → Quarter → Rake → Cleave → Restore**
 
 ## Movement References
 
+- [Ton Puey — overview of the Iberian montante](https://ageaeditora.com/en/an-overview-of-the-iberian-montante/) — historical rules as connected movement vocabulary.
+- [Figueiredo — composed Rule XIII, Guarding a Cloak](https://oakeshott.org/wp-content/uploads/2016/10/Figueiredo_Montante_Translation_Myers_and_Hick_v2.pdf#page=15) — the source for the circling-cut passage.
 - [Ton Puey — Figueiredo Rule XII: front and rear](https://www.youtube.com/watch?v=2Ro6x03BuIg) — 1:07.
 - [Fiore's True Cross guard](https://learnfiore.org/wp-content/uploads/Fiore-Armored-Sword-1.pdf#page=10) — single illustrated page.
 - [Fiore's True Cross cover and thrust](https://learnfiore.org/wp-content/uploads/Fiore-Armored-Sword-1.pdf#page=15) — two illustrated pages.

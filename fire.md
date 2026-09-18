@@ -108,21 +108,39 @@ The three actions are one wheel:
 
 ## 4. Thrown Spark
 
-**Breath:** Inhale through the recoil and weight transfer. Exhale through the kick. Let the retraction gather naturally and exhale again as the landing and hand strike resolve together.
+**Breath:** Keep the breath moving throughout the orbit. Inhale naturally through the recoil and descending half of the circle. Begin exhaling as the body rises, and let the exhale sharpen through the kick. Let the retraction gather naturally and exhale again as the landing and hand strike resolve together.
 
 Let the penetrating right palm recoil across the chest toward the left shoulder. Shift the weight onto the forward right leg just long enough to free the rear leg.
 
-The left leg sweeps through a controlled outside crescent kick at knee, thigh, or waist height:
+As the right forearm crosses the upper chest, fold the left forearm across the lower ribs or abdomen. Draw both elbows comfortably inward to create a compact control frame around the core:
 
-**Left Outside Crescent Kick SNAP**
+**Compact Crossed Ember Guard FLOW**
 
-The kick follows rotation already created by the recoiling palm. It does not begin a separate kicking phrase.
+Keep the arms close as the knees and hips soften. Incline the torso toward the left-front corner, then circle the ribs, shoulders, and head down across the forward line, through the right side, and back upward. The pelvis remains the hub while the breastbone traces the rim:
 
-Retract the leg cleanly. Plant it into the new line as the torso continues turning. The landing creates a Left Bow structure and throws the right arm outward:
+**Full Coiling Flame Evasion FLOW**
+
+This is a complete torso orbit around the waist, not a blind change of facing. Let the pelvis, knees, and feet turn or adjust enough to keep the joints free; do not plant the feet and grind the circle from the lumbar spine. The head follows the spine, and the arms remain compact enough to connect and control the rotating torso.
+
+For a reduced-amplitude practice, trace the same pathway with a shallower incline. Preserve the full circle and its continuous force path rather than cutting it into a left bend and right bend.
+
+As the torso rises through the right side, let the same spiral draw the left knee toward the centerline. Do not finish the orbit and manufacture a separate chamber.
+
+The left leg sweeps from inside to outside in a controlled reverse crescent kick at knee, thigh, or waist height:
+
+**Left Reverse / Outside Crescent Kick SNAP**
+
+The kick is the outward flare of rotation already created by the recoiling palm and waist orbit. It does not begin a separate kicking phrase.
+
+Retract the leg cleanly rather than allowing the arc to drop it. Plant it into the new line. The landing creates a Left Bow structure and releases the upper-body compression by throwing the right arm outward:
 
 **Right Diagonal Backfist / Splitting Palm SNAP → Left Bow FLOW**
 
-The landing and hand strike resolve together. Keep the eyes ahead of the turn. This is a thrown spark, not a blind spin.
+The landing and hand strike resolve together. Keep the eyes oriented generally forward through the orbit and reacquire the line before the kick reaches full extension.
+
+### Thrown Spark Pattern
+
+**RIGHT-PALM RECOIL → COMPACT GUARD → FULL WAIST ORBIT → RISE + LEFT CHAMBER → LEFT REVERSE CRESCENT → RETRACT → LAND + RIGHT DIAGONAL STRIKE**
 
 ---
 
@@ -304,7 +322,7 @@ Because breath retention can raise blood pressure, keep the breath moving throug
 
 **Right Gwa → Left Sow → Right Chop**
 
-**Recoil → Left Crescent Kick → Land + Right Diagonal Strike**
+**Recoil + Compact Guard → Full Coiling Flame Evasion → Left Reverse Crescent Kick → Land + Right Diagonal Strike**
 
 **High Capture → Pull → Right Palm → Turning Elbow → Low Capture → Left Rising Palm**
 

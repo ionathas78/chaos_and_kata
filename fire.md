@@ -364,13 +364,13 @@ Every arc earns its amplitude through force generation, defense, reach, loading,
 
 The previous technique's recoil creates the next technique's chamber. No reset is neutral.
 
-**Fire balances globally and mirrors locally.**
+**Fire mirrors in flashes.**
 
-Maintain bilateral training balance across the complete form. Both sides should receive comparable work in stance loading, rotation, striking, pulling, kicking, and stabilization. Do not confuse asymmetrical sequencing with asymmetrical training.
+Maintain bilateral training balance through immediate right-left reversals of individual techniques or short, tightly linked sets. Fire may sweep and kick to one side, then flicker directly into the same sweep and kick on the other. The sudden reversal is part of its movement character: quick, reactive, and propagating rather than hydraulic.
 
-Confine adjacent, visibly mirrored choreography to a single technique or a short, tightly linked set. Avoid performing a long sequence on one side and then repeating that entire sequence in full on the other. Distribute its physiological counterpart elsewhere in the form, where it may return at a different level, direction, range, rhythm, or tactical function.
+Do not build a long phrase on one side and then repeat that entire phrase on the other. That expresses symmetry in blocks and gives the form a more deliberate, inexorable intention. When a mirrored unit begins growing into a sustained sequence, end the mirror and let its recoil ignite something new.
 
-Fire's unit of symmetry is small, while its field of balance is the whole kata. Dancing flame may flare back across its own path, but it does not retrace that path step for step.
+Fire's unit of symmetry is small and immediate. It keeps the workout balanced by changing sides frequently, not by storing an entire opposite-side sequence for later.
 
 **Arrival loads departure.**
 

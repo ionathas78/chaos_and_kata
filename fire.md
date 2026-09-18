@@ -364,6 +364,10 @@ Every arc earns its amplitude through force generation, defense, reach, loading,
 
 The previous technique's recoil creates the next technique's chamber. No reset is neutral.
 
+**Fire echoes; it does not recite.**
+
+Confine direct mirroring to a single technique or a short, tightly linked set. Avoid long sequences performed on one side and then repeated in full on the other. When an action returns across the body, change its level, direction, range, rhythm, or function so the recurrence feels like propagation rather than recitation. Dancing flame may flare back across its own path, but it does not retrace that path step for step.
+
 **Arrival loads departure.**
 
 The endpoint of every technique should chamber, preload, orient, balance, or position the body for what follows.

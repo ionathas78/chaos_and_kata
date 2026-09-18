@@ -364,9 +364,13 @@ Every arc earns its amplitude through force generation, defense, reach, loading,
 
 The previous technique's recoil creates the next technique's chamber. No reset is neutral.
 
-**Fire echoes; it does not recite.**
+**Fire balances globally and mirrors locally.**
 
-Confine direct mirroring to a single technique or a short, tightly linked set. Avoid long sequences performed on one side and then repeated in full on the other. When an action returns across the body, change its level, direction, range, rhythm, or function so the recurrence feels like propagation rather than recitation. Dancing flame may flare back across its own path, but it does not retrace that path step for step.
+Maintain bilateral training balance across the complete form. Both sides should receive comparable work in stance loading, rotation, striking, pulling, kicking, and stabilization. Do not confuse asymmetrical sequencing with asymmetrical training.
+
+Confine adjacent, visibly mirrored choreography to a single technique or a short, tightly linked set. Avoid performing a long sequence on one side and then repeating that entire sequence in full on the other. Distribute its physiological counterpart elsewhere in the form, where it may return at a different level, direction, range, rhythm, or tactical function.
+
+Fire's unit of symmetry is small, while its field of balance is the whole kata. Dancing flame may flare back across its own path, but it does not retrace that path step for step.
 
 **Arrival loads departure.**
 

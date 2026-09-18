@@ -364,13 +364,13 @@ Every arc earns its amplitude through force generation, defense, reach, loading,
 
 The previous technique's recoil creates the next technique's chamber. No reset is neutral.
 
-**Fire mirrors in flashes.**
+**Fire mirrors in short phrases.**
 
-Maintain bilateral training balance through immediate right-left reversals of individual techniques or short, tightly linked sets. Fire may sweep and kick to one side, then flicker directly into the same sweep and kick on the other. The sudden reversal is part of its movement character: quick, reactive, and propagating rather than hydraulic.
+Maintain bilateral training balance through paired right-left phrases built from a small number of tightly linked actions. Fire may kick, sweep, and rise on one side, then answer with the same short sequence on the other. The sequence should be large enough to create a coherent burst of movement, but brief enough that its mirror feels like a quick answering flare.
 
-Do not build a long phrase on one side and then repeat that entire phrase on the other. That expresses symmetry in blocks and gives the form a more deliberate, inexorable intention. When a mirrored unit begins growing into a sustained sequence, end the mirror and let its recoil ignite something new.
+Do not build a long, developed passage on one side and then repeat that entire passage on the other after substantial separation. That expresses symmetry in blocks and gives the form a more deliberate, inexorable intention. When a mirrored phrase begins growing into a sustained section, end the mirror and let its recoil ignite something new.
 
-Fire's unit of symmetry is small and immediate. It keeps the workout balanced by changing sides frequently, not by storing an entire opposite-side sequence for later.
+Fire's unit of symmetry is the short sequence rather than the single technique or the extended section. It keeps the workout balanced through frequent, compact mirrored phrases.
 
 **Arrival loads departure.**
 

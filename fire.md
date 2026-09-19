@@ -269,9 +269,9 @@ Increase speed gently through the phrase. Resolve the Tiger pounce without locki
 
 Do not stop after the Tiger pull.
 
-Release the claws as both hands circle down, outward, and upward. Let the arms form a large alternating wheel that clears the front and sides:
+Release the claws as both hands drop beside the hips, sweep backward and outward, and rise along the sides. Let the arms form a large reverse wheel that continues over the upper line without stopping behind the head:
 
-**Double-Arm Wheel FLOW → Flame Crown FLOW**
+**Reverse Double-Arm Wheel FLOW → Flame Crown FLOW**
 
 As the hands reach the upper line, open briefly into the wide Flame Crown. This is not a pose. The expansion immediately folds inward.
 
@@ -339,7 +339,7 @@ Because breath retention can raise blood pressure, keep the breath moving throug
 
 **Turn + Left Sweep → Right Elbow → Left Palm → Reverse + Right Sweep → Left Split → Double Tiger-Claw Pounce → Twin Rake + Pull**
 
-**Double-Arm Wheel → Flame Crown → Crossed Ember Guard → Release Breath → Outward Guard → Natural**
+**Reverse Double-Arm Wheel → Flame Crown → Crossed Ember Guard → Release Breath → Outward Guard → Natural**
 
 ---
 

@@ -216,7 +216,7 @@ The descending right hand is already the rotational chamber for Running Fire.
 
 ## 8. Running Fire
 
-**Breath:** Keep the rhythm martial and continuous. Use short exhales through sweeps, elbows, palms, and splitting strikes. Do not race the breath as the phrase accelerates.
+**Breath:** Keep the rhythm martial and continuous. Use short exhales through the sweeps, elbow, palms, splitting strike, and Tiger pounce. Let the raking pull gather the next inhale without racing the breath as the phrase accelerates.
 
 Use the planted right foot as a pivot.
 
@@ -236,9 +236,15 @@ Step toward the original forward line and release:
 
 **Left Splitting Palm SNAP**
 
-Take one final advancing step. The right arm rises and falls in the last and largest splitting strike of the form:
+Let the left splitting palm rebound toward the ribs. Take one final advancing step and compress both elbows beside the body. Form broad Tiger Claws and drive both palms forward at staggered chest and shoulder height as the step settles into a Right Bow:
 
-**Right Splitting Palm SNAP**
+**Double Tiger-Claw Pounce SNAP → Right Bow FLOW**
+
+Close the fingers against imagined resistance and rake both claws down and back toward the ribs. Let the elbows draw behind the palms without shrugging the shoulders:
+
+**Twin Rake + Pull FLOW**
+
+The pounce expands suddenly from the compact chamber. The raking pull trains the forearms and upper back while gathering the arms to load the closing wheel.
 
 The sequence revisits established vocabulary, but each recurrence has a different job:
 
@@ -246,13 +252,14 @@ The sequence revisits established vocabulary, but each recurrence has a differen
 - the elbow resolves compressed range;
 - the palm creates distance;
 - the reverse sweep clears the return path;
-- the splitting strikes carry the fire home.
+- the left splitting strike carries the fire home;
+- the Tiger pounce consumes the final distance and gathers fuel for the closing wheel.
 
-Increase speed gently through the phrase, then resolve the final strike cleanly without locking the arm.
+Increase speed gently through the phrase. Resolve the Tiger pounce without locking the elbows, then make the raking pull strong and controlled rather than jerking the shoulders backward.
 
 ### Running Fire Pattern
 
-**TURN + LEFT SWEEP → RIGHT ELBOW → LEFT PALM → REVERSE + RIGHT SWEEP → LEFT SPLIT → RIGHT SPLIT**
+**TURN + LEFT SWEEP → RIGHT ELBOW → LEFT PALM → REVERSE + RIGHT SWEEP → LEFT SPLIT → DOUBLE TIGER-CLAW POUNCE → TWIN RAKE + PULL**
 
 ---
 
@@ -260,9 +267,9 @@ Increase speed gently through the phrase, then resolve the final strike cleanly 
 
 **Breath:** Inhale as the arms wheel upward and the body opens. Exhale as the crown folds inward and the stance narrows. Take one final controlled Dragon Bellows breath in the crossed guard, then return to ordinary breathing.
 
-Do not stop the final splitting strike at the hip.
+Do not stop after the Tiger pull.
 
-Let it travel behind and upward as the opposite arm rises. Both arms form a large alternating wheel that clears the front and sides:
+Release the claws as both hands circle down, outward, and upward. Let the arms form a large alternating wheel that clears the front and sides:
 
 **Double-Arm Wheel FLOW → Flame Crown FLOW**
 
@@ -330,7 +337,7 @@ Because breath retention can raise blood pressure, keep the breath moving throug
 
 **Right Crane FLOW → Right Front Kick → Land + Left Rising Forearm**
 
-**Turn + Left Sweep → Right Elbow → Left Palm → Reverse + Right Sweep → Left Split → Right Split**
+**Turn + Left Sweep → Right Elbow → Left Palm → Reverse + Right Sweep → Left Split → Double Tiger-Claw Pounce → Twin Rake + Pull**
 
 **Double-Arm Wheel → Flame Crown → Crossed Ember Guard → Release Breath → Outward Guard → Natural**
 
@@ -346,6 +353,7 @@ The form is synthetic rather than a reproduction of any inherited curriculum:
 - **Capoeira** supplies selective turning and recovery logic, especially the principle that landing or recovery already begins the next action.
 - **White Crane** supplies the brief one-leg chamber, opening and closing accents, and sudden close-to-open acceleration.
 - **Eagle Claw** supplies consuming captures, rakes, and pulls that keep the non-striking hand active.
+- **Tiger-style mechanics** supply the final two-handed pounce and heavy raking pull: sudden forward consumption followed by forceful gathering through the forearms and upper back.
 - **Changquan** informs spatial composition, rhythm contrast, extended lines, and legible changes of facing.
 
 The governing synthesis is:

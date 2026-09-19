@@ -28,13 +28,17 @@ Inhale while gathering, coiling, receiving, or rising. Exhale through strikes, k
 
 ## 1. Banked Ember
 
-**Breath:** The held structure contains three controlled Dragon Bellows breaths. Inhale through the nose into the abdomen and lower ribs. Exhale audibly through the mouth while gently firming the trunk. Keep the throat open and never bear down or retain the breath.
+**Breath:** Begin in Mountain Pose. Exhale into the forward fold. Inhale through the controlled unfolding and opening arms, then exhale as the body settles into Horse. The held structure contains three controlled Dragon Bellows breaths. Inhale through the nose into the abdomen and lower ribs. Exhale audibly through the mouth while gently firming the trunk. Keep the throat open and never bear down or retain the breath.
 
 Begin in:
 
-**Natural**
+**Mountain Pose**
 
-Inhale as the arms rise forward and open overhead, stopping short of uncomfortable shoulder range.
+Exhale as the hips hinge into:
+
+**Standing Forward Fold FLOW**
+
+Inhale as the body unfolds under control and the arms rise forward and open overhead, stopping short of uncomfortable shoulder range.
 
 Step the left foot outward and begin sinking. Exhale as the arms circle down and cross over the lower ribs, right forearm outside left. Complete the descent into a moderate Horse structure:
 
@@ -284,9 +288,21 @@ As the stance settles evenly, bring both arms down outside the body in a forcefu
 
 The wheel is traveling defensive work rather than an in-place flourish. It withdraws from the close range created by the Tiger pounce, clears the pursuit line, and rebuilds a stable guard at distance. If the form calls for an in-place evasion instead, use the Coiling Flame Evasion rather than removing the wheel's footwork.
 
-Straighten gradually. Draw the left foot into Natural and let the hands descend:
+Straighten gradually and draw the left foot in:
 
-**Natural**
+**Mountain Pose FLOW**
+
+Inhale through an Upward Salute, then exhale from the hips into:
+
+**Standing Forward Fold FLOW**
+
+From the fold, complete one **Sun Salutation A** in your established expression:
+
+**Half Lift → Plank → Chaturanga → Upward-Facing Dog → Downward-Facing Dog → Step Forward → Half Lift → Forward Fold → Upward Salute → Mountain Pose**
+
+Let the transitions remain continuous. The salutation receives the heat of the form and carries it through one final rising cycle.
+
+**Mountain Pose**
 
 Remain still for two ordinary, unforced breaths.
 
@@ -324,7 +340,7 @@ Because breath retention can raise blood pressure, keep the breath moving throug
 
 # Memory Skeleton
 
-**Natural → Arms Rise → Horse + Crossed Ember Guard [3 Dragon Bellows]**
+**Mountain Pose → Forward Fold FLOW → Arms Rise → Horse + Crossed Ember Guard [3 Dragon Bellows]**
 
 **Coil → Right Split → Left Split → Right Rise**
 
@@ -340,7 +356,7 @@ Because breath retention can raise blood pressure, keep the breath moving throug
 
 **Left Tiger Swat → Right Tiger-Palm → Right Tiger Swat → Left Tiger-Palm → Twin Chamber → Double Pounce → Twin Rake + Pull**
 
-**Right–Left–Right Retreating Reverse Double-Arm Wheel → Shallow Horse + Twin Downward Snap → Natural**
+**Right–Left–Right Retreating Reverse Double-Arm Wheel → Shallow Horse + Twin Downward Snap → Mountain Pose → Forward Fold → Sun Salutation A → Mountain Pose**
 
 ---
 

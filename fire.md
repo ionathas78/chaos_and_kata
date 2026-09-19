@@ -126,11 +126,11 @@ For a reduced-amplitude practice, trace the same pathway with a shallower inclin
 
 As the torso rises through the right side, let the same spiral draw the left knee toward the centerline. Do not finish the orbit and manufacture a separate chamber.
 
-The left leg sweeps from inside to outside in a controlled reverse crescent kick at knee, thigh, or waist height:
+The left leg sweeps from the left outside line inward across the front of the body in a controlled forward crescent kick at knee, thigh, or waist height. Let the inside edge of the foot describe the arc without forcing the hip:
 
-**Left Reverse / Outside Crescent Kick SNAP**
+**Left Inward / Forward Crescent Kick SNAP**
 
-The kick is the outward flare of rotation already created by the recoiling palm and waist orbit. It does not begin a separate kicking phrase.
+The kick is the released flare of rotation already created by the recoiling palm and waist orbit. It does not begin a separate kicking phrase.
 
 Retract the leg cleanly rather than allowing the arc to drop it. Plant it into the new line. The landing creates a Left Bow structure and releases the upper-body compression by throwing the right arm outward:
 
@@ -140,7 +140,7 @@ The landing and hand strike resolve together. Keep the eyes oriented generally f
 
 ### Thrown Spark Pattern
 
-**RIGHT-PALM RECOIL → COMPACT GUARD → FULL WAIST ORBIT → RISE + LEFT CHAMBER → LEFT REVERSE CRESCENT → RETRACT → LAND + RIGHT DIAGONAL STRIKE**
+**RIGHT-PALM RECOIL → COMPACT GUARD → FULL WAIST ORBIT → RISE + LEFT CHAMBER → LEFT INWARD CRESCENT → RETRACT → LAND + RIGHT DIAGONAL STRIKE**
 
 ---
 
@@ -168,120 +168,121 @@ This creates bilateral push-pull work without photocopying the first half:
 
 ---
 
-## 6. Falling Cinder
+## 6. Falling Cinder, Leaping Flame
 
-**Breath:** Inhale as the rising hand continues over the crown. Exhale gradually through the chop and controlled descent. Inhale through the rebound and rising drive without holding the breath at the bottom.
+**Breath:** Inhale as the rising hand continues over the crown. Exhale through the descending forearm and controlled lunge. Let the low sweep gather the next inhale. Exhale through the rising backhand and jump kick, breathe during the landing, and repeat the same pattern on the opposite side. Never retain the breath to power the jump.
 
-The rising left hand continues over the crown and becomes a diagonal descending chop.
+The rising left hand continues over the crown and becomes a diagonal descending forearm or chop. Step deeply enough for the technique to create a controlled left Low Lunge:
 
-Step deeply into the chop, allowing the technique to create a controlled Low Lunge:
+**Left Descending Forearm SNAP → Left Low Lunge FLOW**
 
-**Left Descending Chop SNAP → Low Lunge FLOW**
+Sweep the right hand low across the knee line. Let that crossing action coil the waist for the opposite hand rather than remaining at the bottom:
 
-The right hand sweeps low across the knee line while the left protects the head and shoulder.
+**Right Low Sweep FLOW → Left Cross-Rising Backhand SNAP**
 
-Do not remain at the bottom.
+The rising left backhand and left hip become one turning column. Rise over the left leg as the right knee lifts into a brief Crane-like chamber:
 
-Let the downward action rebound through the rear foot. Drive upward as the right hand rises in a backfist or forearm strike. The left hand draws back to guard:
+**Right-Knee Crane / Left-Leg Support FLOW**
 
-**Low Sweep FLOW → Right Rising Backfist SNAP**
+Compress slightly through the standing ankle, knee, and hip. Make a low vertical hop and snap the chambered right leg forward. The supporting foot needs only to leave the floor briefly:
 
-The falling cinder touches fuel. The descent becomes the source of the rise.
+**Right Jump Front Kick SNAP**
+
+Retract the kick before landing. Place the right foot forward into Right Bow. As the weight accepts the landing, drive the right forearm diagonally downward and let the bow deepen into a right Low Lunge:
+
+**Right Bow LAND → Right Descending Forearm SNAP → Right Low Lunge FLOW**
+
+The landing strike is already the beginning of the compact mirror. Sweep the left hand low, then use the crossing action to load the opposite rising backhand:
+
+**Left Low Sweep FLOW → Right Cross-Rising Backhand SNAP**
+
+Rise over the right leg as the left knee lifts:
+
+**Left-Knee Crane / Right-Leg Support FLOW**
+
+Release the mirrored low jump kick, retract it cleanly, and land forward:
+
+**Left Jump Front Kick SNAP → Left Bow LAND**
+
+Let the landing drive the left forearm diagonally downward as the stance deepens:
+
+**Left Descending Forearm SNAP → Left Low Lunge FLOW**
+
+The two halves mirror a short movement phrase rather than two long blocks:
+
+**LEFT DESCENT → RIGHT LOW SWEEP → LEFT RISE → RIGHT CRANE + JUMP KICK → RIGHT LANDING DESCENT**
+
+**RIGHT DESCENT → LEFT LOW SWEEP → RIGHT RISE → LEFT CRANE + JUMP KICK → LEFT LANDING DESCENT**
+
+For the grounded version, keep the supporting foot planted and perform the same chamber, front kick, retraction, landing, and descending forearm. Use the grounded version on a hard or uncertain surface, under fatigue, or whenever the knees, ankles, balance, or breath ask for it.
 
 ---
 
-## 7. Rising Tongue
+## 7. Tiger Takes the Flame
 
-**Breath:** Inhale through the rising chamber. Let the breath turn naturally during the brief balance capture. Exhale through the kick, inhale through its recoil, and exhale as the landing and rising forearm resolve.
+**Breath:** Keep the rhythm martial and continuous. Use short exhales through each swat and palm heel. Let the twin chamber gather an inhale, exhale through the pounce, and inhale naturally as the rake pulls toward the ribs.
 
-Continue the upward drive until the right knee rises into a Crane-like chamber. The right forearm guards high while the left hand protects the ribs:
+Rise from the left lunge and turn left. Form a broad Tiger Claw and drive the swat from the waist, outward and slightly downward, as the body settles into Left Bow:
 
-**Right Crane / Knee Chamber SNAP → FLOW**
+**Left Tiger-Claw Swat SNAP → Left Bow FLOW**
 
-The chamber is a brief loaded balance rather than a sustained hold. Do not let the standing hip collapse.
+Let the swat's recoil turn the waist into a right palm-heel strike. Keep the fingers curved and alive rather than driving with the fingertips:
 
-Extend a controlled right front kick:
+**Right Tiger-Palm SNAP**
 
-**Right Front Kick SNAP**
+Reverse through center and settle into Right Bow as the right claw clears the opposite line:
 
-Retract immediately while keeping the supporting knee soft.
+**Right Tiger-Claw Swat SNAP → Right Bow FLOW**
 
-Plant forward into a Right Bow structure. The kick's landing drives a rising left forearm through the center while the right hand descends across the body:
+Rebound immediately into the answering palm heel:
 
-**Landing + Left Rising Forearm SNAP → Right Bow FLOW**
+**Left Tiger-Palm SNAP**
 
-The descending right hand is already the rotational chamber for Running Fire.
+Draw both elbows sharply toward the ribs without shrugging. Keep both hands clawed:
 
----
+**Twin Claw Chamber SNAP**
 
-## 8. Running Fire
-
-**Breath:** Keep the rhythm martial and continuous. Use short exhales through the sweeps, elbow, palms, splitting strike, and Tiger pounce. Let the raking pull gather the next inhale without racing the breath as the phrase accelerates.
-
-Use the planted right foot as a pivot.
-
-Turn sharply right as the left arm sweeps broadly across the new line:
-
-**Left Sow / Broad Sweep SNAP**
-
-Its recoil delivers a compact right elbow, followed by an extending left palm:
-
-**Right Elbow SNAP → Left Palm SNAP**
-
-The left palm rebounds across the ribs and coils the torso in the opposite direction. Turn through center with a broad right forearm sweep:
-
-**Right Sweeping Forearm SNAP**
-
-Step toward the original forward line and release:
-
-**Left Splitting Palm SNAP**
-
-Let the left splitting palm rebound toward the ribs. Take one final advancing step and compress both elbows beside the body. Form broad Tiger Claws and drive both palms forward at staggered chest and shoulder height as the step settles into a Right Bow:
+Drive both palm heels forward together while remaining in Right Bow. The right palm naturally reaches several inches beyond the left because the right hip and shoulder lead. Both palms arrive on the same beat, with elbows softly bent:
 
 **Double Tiger-Claw Pounce SNAP → Right Bow FLOW**
 
-Close the fingers against imagined resistance and rake both claws down and back toward the ribs. Let the elbows draw behind the palms without shrugging the shoulders:
+Close the fingers against imagined resistance. Rake both claws down and slightly outward, then pull toward the ribs with the forearms and upper back:
 
 **Twin Rake + Pull FLOW**
 
-The pounce expands suddenly from the compact chamber. The raking pull trains the forearms and upper back while gathering the arms to load the closing wheel.
+The phrase mirrors two compact pairs, then escalates from alternating claws to both claws together:
 
-The sequence revisits established vocabulary, but each recurrence has a different job:
+**LEFT SWAT → RIGHT TIGER-PALM**
 
-- the first sweep changes facing;
-- the elbow resolves compressed range;
-- the palm creates distance;
-- the reverse sweep clears the return path;
-- the left splitting strike carries the fire home;
-- the Tiger pounce consumes the final distance and gathers fuel for the closing wheel.
+**RIGHT SWAT → LEFT TIGER-PALM**
 
-Increase speed gently through the phrase. Resolve the Tiger pounce without locking the elbows, then make the raking pull strong and controlled rather than jerking the shoulders backward.
-
-### Running Fire Pattern
-
-**TURN + LEFT SWEEP → RIGHT ELBOW → LEFT PALM → REVERSE + RIGHT SWEEP → LEFT SPLIT → DOUBLE TIGER-CLAW POUNCE → TWIN RAKE + PULL**
+**TWIN CHAMBER → DOUBLE POUNCE → TWIN RAKE + PULL**
 
 ---
 
-## 9. Crown and Bank the Flame
+## 8. Retreating Reverse Wheel
 
-**Breath:** Inhale as the arms wheel upward and the body opens. Exhale as the crown folds inward and the stance narrows. Take one final controlled Dragon Bellows breath in the crossed guard, then return to ordinary breathing.
+**Breath:** Let the rake gather an inhale. Keep breathing as the wheel travels backward. Exhale through the final downward snap, then return to ordinary breathing as the stance narrows.
 
-Do not stop after the Tiger pull.
+Do not stop after the Tiger pull. The pull shifts the weight away from the forward right foot and initiates a deliberate three-step withdrawal.
 
-Release the claws as both hands drop beside the hips, sweep backward and outward, and rise along the sides. Let the arms form a large reverse wheel that continues over the upper line without stopping behind the head:
+Release the claws as the **right foot retreats**. Let both hands drop beside the hips and begin sweeping backward:
 
-**Reverse Double-Arm Wheel FLOW → Flame Crown FLOW**
+**Right Retreating Step → Hands Drop and Sweep Back FLOW**
 
-As the hands reach the upper line, open briefly into the wide Flame Crown. This is not a pose. The expansion immediately folds inward.
+Let the **left foot retreat** as both arms travel backward, outward, and rise along the sides. The feet carry the body, the waist drives the shoulders, and the arms complete the wheel:
 
-Draw the rear foot beneath the body as both arms descend. Settle into a shallow Horse structure with the forearms crossed over the ribs:
+**Left Retreating Step → Reverse Double-Arm Wheel FLOW**
 
-**Crossed Ember Guard FLOW → Shallow Horse**
+Take a third **right retreating step**, opening the foot into a shallow Horse as the arms crest over the upper line. Do not pause with the hands behind the head:
 
-Take one final controlled Dragon Bellows breath. This is a release breath rather than another HOLD 3. On the exhale, uncross the arms and press the palms outward into a quiet guarding circle:
+**Right Retreating Step → Shallow Horse FLOW**
 
-**Outward Guard FLOW**
+As the stance settles evenly, bring both arms down outside the body in a forceful two-armed splitting snap:
+
+**Twin Downward Splitting Palms SNAP**
+
+The wheel is traveling defensive work rather than an in-place flourish. It withdraws from the close range created by the Tiger pounce, clears the pursuit line, and rebuilds a stable guard at distance. If the form calls for an in-place evasion instead, use the Coiling Flame Evasion rather than removing the wheel's footwork.
 
 Straighten gradually. Draw the left foot into Natural and let the hands descend:
 
@@ -329,17 +330,17 @@ Because breath retention can raise blood pressure, keep the breath moving throug
 
 **Right Gwa → Left Sow → Right Chop**
 
-**Recoil + Compact Guard → Full Coiling Flame Evasion → Left Reverse Crescent Kick → Land + Right Diagonal Strike**
+**Recoil + Compact Guard → Full Coiling Flame Evasion → Left Inward Crescent Kick → Land + Right Diagonal Strike**
 
 **High Capture → Pull → Right Palm → Turning Elbow → Low Capture → Left Rising Palm**
 
-**Left Descending Chop → Low Lunge → Low Sweep → Right Rising Backfist**
+**Left Descending Forearm + Lunge → Right Low Sweep → Left Rising Backhand → Right-Knee Crane → Right Jump Kick → Right Landing Descent**
 
-**Right Crane FLOW → Right Front Kick → Land + Left Rising Forearm**
+**Right Lunge → Left Low Sweep → Right Rising Backhand → Left-Knee Crane → Left Jump Kick → Left Landing Descent**
 
-**Turn + Left Sweep → Right Elbow → Left Palm → Reverse + Right Sweep → Left Split → Double Tiger-Claw Pounce → Twin Rake + Pull**
+**Left Tiger Swat → Right Tiger-Palm → Right Tiger Swat → Left Tiger-Palm → Twin Chamber → Double Pounce → Twin Rake + Pull**
 
-**Reverse Double-Arm Wheel → Flame Crown → Crossed Ember Guard → Release Breath → Outward Guard → Natural**
+**Right–Left–Right Retreating Reverse Double-Arm Wheel → Shallow Horse + Twin Downward Snap → Natural**
 
 ---
 
@@ -353,12 +354,12 @@ The form is synthetic rather than a reproduction of any inherited curriculum:
 - **Capoeira** supplies selective turning and recovery logic, especially the principle that landing or recovery already begins the next action.
 - **White Crane** supplies the brief one-leg chamber, opening and closing accents, and sudden close-to-open acceleration.
 - **Eagle Claw** supplies consuming captures, rakes, and pulls that keep the non-striking hand active.
-- **Tiger-style mechanics** supply the final two-handed pounce and heavy raking pull: sudden forward consumption followed by forceful gathering through the forearms and upper back.
+- **Tiger-style mechanics** supply the closing swats, palm heels, two-handed pounce, and heavy raking pull: rooted clearing actions escalate into sudden forward consumption and forceful gathering through the forearms and upper back.
 - **Changquan** informs spatial composition, rhythm contrast, extended lines, and legible changes of facing.
 
 The governing synthesis is:
 
-> **Build Fire from Pigua's whip, Choy Li Fut's chain, Taekwondo's spark, and Capoeira's recovery. Let Changquan compose the stage, Crane shape a few bright edges, and Eagle give the flame something to catch.**
+> **Build Fire from Pigua's whip, Choy Li Fut's chain, Taekwondo's spark, and Capoeira's recovery. Let Changquan compose the stage, Crane shape a few bright edges, Eagle give the flame something to catch, and Tiger teach it to consume.**
 
 ---
 

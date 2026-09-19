@@ -20,9 +20,9 @@ Breath notes govern transitions, FLOW sequences, and force issuance. HOLD counts
 
 ## 1. Root
 
-**Breath:** Exhale into the fold. After the hold, inhale through the controlled unfolding and gathering action; exhale through the Double Palm Press and settling into Horse.
+**Breath:** Begin in Mountain Pose. Exhale into the fold. After the hold, inhale through the controlled unfolding and gathering action; exhale through the Double Palm Press and settling into Horse.
 
-**Natural → Bow → Deep Forward Fold [3]**
+**Mountain Pose → Standing Forward Fold [3]**
 
 Unfold under control. Gather the hands as the legs open.
 
@@ -360,7 +360,7 @@ The journey leaves Horse through a direct kick-and-punch attack, answers a low c
 
 ## 7. Return to Root
 
-**Breath:** Let Cloud Hands restore smooth, even breathing after the percussive Third Journey. Keep the breath continuous through the lateral transfers. Exhale through the closing fold. After the fold hold, inhale through the slow unfolding and gathering/rising hands. During Tai Chi Commencement, allow the breath to turn naturally and exhale as the arms sink. Finish in Natural with unforced breathing.
+**Breath:** Let Cloud Hands restore smooth, even breathing after the percussive Third Journey. Keep the breath continuous through the lateral transfers. Exhale through the closing fold. After the fold hold, move through one complete Sun Salutation A with the breath and finish in Mountain Pose with unforced breathing.
 
 The **Horse [5]** created by the Third Journey is Earth's final strength statement. Do not add a second Horse hold.
 
@@ -372,19 +372,17 @@ Soften the final Horse directly into:
 
 Let the weight transfer remain rooted but gradually reduce the force of the movement. Allow the final center to narrow the stance and gather toward Natural rather than launching another attack.
 
-**Natural FLOW → Bow → Deep Forward Fold [3]**
+**Mountain Pose FLOW → Standing Forward Fold [3]**
 
-The opening fold leads into Earth. The closing fold leads out of Earth.
+The opening fold leads into Earth. The closing fold begins the return to the yogic current beneath the form.
 
-Unfold slowly under muscular control. Pass deliberately through upright Natural Stance as FLOW rather than stopping there.
+From the fold, complete one **Sun Salutation A** in your established expression:
 
-The hands travel:
+**Half Lift → Plank → Chaturanga → Upward-Facing Dog → Downward-Facing Dog → Step Forward → Half Lift → Forward Fold → Upward Salute → Mountain Pose**
 
-**Down → Gather → Rise**
+Let the transitions remain muscularly controlled. Earth steps rather than throws the feet, and the final rise grows from the ground.
 
-Let both arms float forward into a **Tai Chi Commencement FLOW**. At the natural height of the movement, allow the arms to sink smoothly back to the sides.
-
-**Natural**
+**Mountain Pose**
 
 Stillness.
 
@@ -392,7 +390,7 @@ Stillness.
 
 # Memory Skeleton
 
-**Bow → Fold [3] → Horse [3]**
+**Mountain Pose → Forward Fold [3] → Horse [3]**
 
 **A → Left Elbow → B → 180° Back Sweep → C → Right Elbow → D → Horse [3]**
 
@@ -404,7 +402,7 @@ Stillness.
 
 **Third Journey: Horse [5] → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse FLOW → Reverse Stance → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse [5]**
 
-**Cloud Hands FLOW → Natural FLOW → Bow/Fold [3] → Natural FLOW → Commencement FLOW → Natural**
+**Cloud Hands FLOW → Mountain Pose → Forward Fold [3] → Sun Salutation A → Mountain Pose**
 
 ---
 

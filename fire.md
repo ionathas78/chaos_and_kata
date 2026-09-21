@@ -180,15 +180,15 @@ The rising left hand continues over the crown and becomes a diagonal descending 
 
 **Left Descending Forearm SNAP → Left Low Lunge FLOW**
 
-Sweep the right hand low across the knee line. Let that crossing action coil the waist for the opposite hand rather than remaining at the bottom:
+Sweep the right hand low across the knee line. Let the sweep rebound upward as the weight retreats from the forward left leg onto the rear right leg:
 
-**Right Low Sweep FLOW → Left Cross-Rising Backhand SNAP**
+**Right Low Sweep FLOW → Right Rising Backhand SNAP**
 
-The rising left backhand and left hip become one turning column. Rise over the left leg as the right knee lifts into a brief Crane-like chamber:
+The right rising backhand and right hip become one turning column. Settle over the right leg as the forward left knee lifts into a brief Crane-like chamber:
 
-**Right-Knee Crane / Left-Leg Support FLOW**
+**Left-Knee Crane / Right-Leg Support FLOW**
 
-Compress slightly through the standing ankle, knee, and hip. Make a low vertical hop and snap the chambered right leg forward. The supporting foot needs only to leave the floor briefly:
+Drive the chambered left knee upward to initiate the jump. Spring from the rear right leg; once the body is airborne, extend that former supporting leg into the kick:
 
 **Right Jump Front Kick SNAP**
 
@@ -196,15 +196,15 @@ Retract the kick before landing. Place the right foot forward into Right Bow. As
 
 **Right Bow LAND → Right Descending Forearm SNAP → Right Low Lunge FLOW**
 
-The landing strike is already the beginning of the compact mirror. Sweep the left hand low, then use the crossing action to load the opposite rising backhand:
+The landing strike is already the beginning of the compact mirror. Sweep the left hand low and let it rebound upward as the weight retreats onto the rear left leg:
 
-**Left Low Sweep FLOW → Right Cross-Rising Backhand SNAP**
+**Left Low Sweep FLOW → Left Rising Backhand SNAP**
 
-Rise over the right leg as the left knee lifts:
+Settle over the left leg as the forward right knee lifts:
 
-**Left-Knee Crane / Right-Leg Support FLOW**
+**Right-Knee Crane / Left-Leg Support FLOW**
 
-Release the mirrored low jump kick, retract it cleanly, and land forward:
+Drive the chambered right knee upward, spring from the rear left leg, and extend that left leg once airborne. Retract it cleanly and land forward:
 
 **Left Jump Front Kick SNAP → Left Bow LAND**
 
@@ -214,11 +214,11 @@ Let the landing drive the left forearm diagonally downward as the stance deepens
 
 The two halves mirror a short movement phrase rather than two long blocks:
 
-**LEFT DESCENT → RIGHT LOW SWEEP → LEFT RISE → RIGHT CRANE + JUMP KICK → RIGHT LANDING DESCENT**
+**LEFT DESCENT → RIGHT LOW SWEEP + RIGHT RISE → LEFT-KNEE CRANE → RIGHT JUMP KICK → RIGHT LANDING DESCENT**
 
-**RIGHT DESCENT → LEFT LOW SWEEP → RIGHT RISE → LEFT CRANE + JUMP KICK → LEFT LANDING DESCENT**
+**RIGHT DESCENT → LEFT LOW SWEEP + LEFT RISE → RIGHT-KNEE CRANE → LEFT JUMP KICK → LEFT LANDING DESCENT**
 
-For the grounded version, keep the supporting foot planted and perform the same chamber, front kick, retraction, landing, and descending forearm. Use the grounded version on a hard or uncertain surface, under fatigue, or whenever the knees, ankles, balance, or breath ask for it.
+For a non-jumping study pass, lower the chambered front foot to receive the weight, then send the rear leg through as a controlled step-through front kick. This adds a beat but preserves which leg kicks and which side receives the landing descent.
 
 ---
 
@@ -350,9 +350,9 @@ Because breath retention can raise blood pressure, keep the breath moving throug
 
 **High Capture → Pull → Right Palm → Turning Elbow → Low Capture → Left Rising Palm**
 
-**Left Descending Forearm + Lunge → Right Low Sweep → Left Rising Backhand → Right-Knee Crane → Right Jump Kick → Right Landing Descent**
+**Left Descending Forearm + Lunge → Right Low Sweep + Right Rising Backhand → Left-Knee Crane → Right Jump Kick → Right Landing Descent**
 
-**Right Lunge → Left Low Sweep → Right Rising Backhand → Left-Knee Crane → Left Jump Kick → Left Landing Descent**
+**Right Lunge → Left Low Sweep + Left Rising Backhand → Right-Knee Crane → Left Jump Kick → Left Landing Descent**
 
 **Left Tiger Swat → Right Tiger-Palm → Right Tiger Swat → Left Tiger-Palm → Twin Chamber → Double Pounce → Twin Rake + Pull**
 

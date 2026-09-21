@@ -266,7 +266,7 @@ The phrase mirrors two compact pairs, then escalates from alternating claws to b
 
 ## 8. Retreating Reverse Wheel
 
-**Breath:** Let the rake gather an inhale. Keep breathing as the wheel travels backward. Exhale through the final downward snap, then return to ordinary breathing as the stance narrows.
+**Breath:** Let the rake gather an inhale. Keep breathing as the wheel travels backward. Exhale through the final downward snap and let its rebound draw the next breath for the kicking coda.
 
 Do not stop after the Tiger pull. The pull shifts the weight away from the forward right foot and initiates a deliberate three-step withdrawal.
 
@@ -287,6 +287,50 @@ As the stance settles evenly, bring both arms down outside the body in a forcefu
 **Twin Downward Splitting Palms SNAP**
 
 The wheel is traveling defensive work rather than an in-place flourish. It withdraws from the close range created by the Tiger pounce, clears the pursuit line, and rebuilds a stable guard at distance. If the form calls for an in-place evasion instead, use the Coiling Flame Evasion rather than removing the wheel's footwork.
+
+---
+
+## 9. Reignition
+
+**Breath:** Let compact exhales accompany the kicks. Draw breath through each rechamber, landing, and change of facing. Keep the rhythm continuous rather than holding the breath through the turning kicks.
+
+Let the Twin Downward Snap rebound into a compact Taekwondo fighting guard. Shift onto the left leg and release:
+
+**Right Roundhouse Kick SNAP**
+
+Land the right foot forward on the original line. Use that landing to load the rear left leg. Turn through the right support and drive the left heel backward along the original attacking line:
+
+**Left Rear-Leg Turning Back Kick SNAP**
+
+Let the left kicking leg land through. The landing completes the change of facing: the body now faces the reverse line with the right leg forward.
+
+Shift the weight onto the rear left leg. Lift the forward right heel up the new line, cut it downward, and land on the same foot:
+
+**Reverse-Line Right Forward Axe Kick SNAP → Right Forward Stance FLOW**
+
+The reverse-facing axe kick gives the change of direction an immediate purpose. Continue with the mirrored triplet on that line:
+
+**Left Roundhouse Kick SNAP**
+
+Land the left foot forward. Turn through it and drive the rear right heel backward along the reverse line:
+
+**Right Rear-Leg Turning Back Kick SNAP**
+
+Land the right leg through. The second turning kick returns the body to the original facing with the left leg forward.
+
+Shift onto the rear right leg and finish with:
+
+**Home-Line Left Forward Axe Kick SNAP → Left Forward Stance FLOW**
+
+The complete coda is a compact mirrored pair of three-kick phrases:
+
+**RIGHT ROUNDHOUSE → LEFT TURNING BACK KICK → REVERSE-LINE RIGHT AXE KICK**
+
+**LEFT ROUNDHOUSE → RIGHT TURNING BACK KICK → HOME-LINE LEFT AXE KICK**
+
+The turning back kicks carry the form between opposing lines. The forward axe kicks attack immediately after each reversal, so neither change of facing becomes empty travel.
+
+### Return to Mountain
 
 Straighten gradually and draw the left foot in:
 
@@ -356,7 +400,11 @@ Because breath retention can raise blood pressure, keep the breath moving throug
 
 **Left Tiger Swat → Right Tiger-Palm → Right Tiger Swat → Left Tiger-Palm → Twin Chamber → Double Pounce → Twin Rake + Pull**
 
-**Right–Left–Right Retreating Reverse Double-Arm Wheel → Shallow Horse + Twin Downward Snap → Mountain Pose → Forward Fold → Sun Salutation A → Mountain Pose**
+**Right–Left–Right Retreating Reverse Double-Arm Wheel → Shallow Horse + Twin Downward Snap**
+
+**Right Roundhouse → Left Turning Back Kick → Reverse-Line Right Axe → Left Roundhouse → Right Turning Back Kick → Home-Line Left Axe**
+
+**Mountain Pose → Forward Fold → Sun Salutation A → Mountain Pose**
 
 ---
 
@@ -366,7 +414,7 @@ The form is synthetic rather than a reproduction of any inherited curriculum:
 
 - **Piguaquan / Piguazhang** supplies long-range whipping power, alternating rise and fall, splitting actions, and rebound chambers.
 - **Choy Li Fut** supplies the circular combination grammar, waist-driven links, and gwa–sow–chop family.
-- **Taekwondo** supplies clean kicking chambers, extension, retraction, and crisp lower-body punctuation.
+- **Taekwondo** supplies clean kicking chambers, extension, retraction, crisp lower-body punctuation, and the final roundhouse–turning-back-kick–axe-kick combinations.
 - **Capoeira** supplies selective turning and recovery logic, especially the principle that landing or recovery already begins the next action.
 - **White Crane** supplies the brief one-leg chamber, opening and closing accents, and sudden close-to-open acceleration.
 - **Eagle Claw** supplies consuming captures, rakes, and pulls that keep the non-striking hand active.

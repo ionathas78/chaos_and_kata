@@ -360,7 +360,7 @@ The journey leaves Horse through a direct kick-and-punch attack, answers a low c
 
 ## 7. Return to Root
 
-**Breath:** Let Cloud Hands restore smooth, even breathing after the percussive Third Journey. Keep the breath continuous through the lateral transfers. Exhale through the closing fold. After the fold hold, move through one complete Sun Salutation A with the breath and finish in Mountain Pose with unforced breathing.
+**Breath:** Let Cloud Hands restore smooth, even breathing after the percussive Third Journey. Keep the breath continuous through the lateral transfers. Exhale through the closing fold. After the fold hold, inhale as the body unfolds into Upward Salute, then exhale as the arms lower into Mountain Pose.
 
 The **Horse [5]** created by the Third Journey is Earth's final strength statement. Do not add a second Horse hold.
 
@@ -376,11 +376,11 @@ Let the weight transfer remain rooted but gradually reduce the force of the move
 
 The opening fold leads into Earth. The closing fold begins the return to the yogic current beneath the form.
 
-From the fold, complete one **Sun Salutation A** in your established expression:
+Inhale as the body unfolds under control and the arms rise overhead into:
 
-**Half Lift → Plank → Chaturanga → Upward-Facing Dog → Downward-Facing Dog → Step Forward → Half Lift → Forward Fold → Upward Salute → Mountain Pose**
+**Upward Salute FLOW**
 
-Let the transitions remain muscularly controlled. Earth steps rather than throws the feet, and the final rise grows from the ground.
+Exhale as the arms lower and the body settles into:
 
 **Mountain Pose**
 
@@ -402,7 +402,7 @@ Stillness.
 
 **Third Journey: Horse [5] → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse FLOW → Reverse Stance → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse [5]**
 
-**Cloud Hands FLOW → Mountain Pose → Forward Fold [3] → Sun Salutation A → Mountain Pose**
+**Cloud Hands FLOW → Mountain Pose → Forward Fold [3] → Upward Salute → Mountain Pose**
 
 ---
 

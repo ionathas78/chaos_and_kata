@@ -342,7 +342,7 @@ Exhale from the hips into:
 
 Inhale as the body unfolds under control and the arms rise overhead into:
 
-**Upward Salute FLOW**
+**Sun Salutation (single pose) FLOW**
 
 Exhale as the arms lower and the body settles into:
 
@@ -404,7 +404,7 @@ Because breath retention can raise blood pressure, keep the breath moving throug
 
 **Right Roundhouse → Left Turning Back Kick → Reverse-Line Right Axe → Left Roundhouse → Right Turning Back Kick → Home-Line Left Axe**
 
-**Mountain Pose → Forward Fold → Upward Salute → Mountain Pose**
+**Mountain Pose → Forward Fold → Sun Salutation (single pose) → Mountain Pose**
 
 ---
 

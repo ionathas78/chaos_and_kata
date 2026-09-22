@@ -360,7 +360,7 @@ The journey leaves Horse through a direct kick-and-punch attack, answers a low c
 
 ## 7. Return to Root
 
-**Breath:** Let Cloud Hands restore smooth, even breathing after the percussive Third Journey. Keep the breath continuous through the lateral transfers. Exhale through the closing fold. After the fold hold, inhale as the body unfolds into Upward Salute, then exhale as the arms lower into Mountain Pose.
+**Breath:** Let Cloud Hands restore smooth, even breathing after the percussive Third Journey. Keep the breath continuous through the lateral transfers. Exhale through the closing fold. After the fold hold, inhale as the body unfolds into Sun Salutation (single pose), then exhale as the arms lower into Mountain Pose.
 
 The **Horse [5]** created by the Third Journey is Earth's final strength statement. Do not add a second Horse hold.
 
@@ -378,7 +378,7 @@ The opening fold leads into Earth. The closing fold begins the return to the yog
 
 Inhale as the body unfolds under control and the arms rise overhead into:
 
-**Upward Salute FLOW**
+**Sun Salutation (single pose) FLOW**
 
 Exhale as the arms lower and the body settles into:
 
@@ -402,7 +402,7 @@ Stillness.
 
 **Third Journey: Horse [5] → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse FLOW → Reverse Stance → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse [5]**
 
-**Cloud Hands FLOW → Mountain Pose → Forward Fold [3] → Upward Salute → Mountain Pose**
+**Cloud Hands FLOW → Mountain Pose → Forward Fold [3] → Sun Salutation (single pose) → Mountain Pose**
 
 ---
 

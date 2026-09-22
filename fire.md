@@ -336,15 +336,15 @@ Straighten gradually and draw the left foot in:
 
 **Mountain Pose FLOW**
 
-Inhale through an Upward Salute, then exhale from the hips into:
+Exhale from the hips into:
 
 **Standing Forward Fold FLOW**
 
-From the fold, complete one **Sun Salutation A** in your established expression:
+Inhale as the body unfolds under control and the arms rise overhead into:
 
-**Half Lift → Plank → Chaturanga → Upward-Facing Dog → Downward-Facing Dog → Step Forward → Half Lift → Forward Fold → Upward Salute → Mountain Pose**
+**Upward Salute FLOW**
 
-Let the transitions remain continuous. The salutation receives the heat of the form and carries it through one final rising cycle.
+Exhale as the arms lower and the body settles into:
 
 **Mountain Pose**
 
@@ -404,7 +404,7 @@ Because breath retention can raise blood pressure, keep the breath moving throug
 
 **Right Roundhouse → Left Turning Back Kick → Reverse-Line Right Axe → Left Roundhouse → Right Turning Back Kick → Home-Line Left Axe**
 
-**Mountain Pose → Forward Fold → Sun Salutation A → Mountain Pose**
+**Mountain Pose → Forward Fold → Upward Salute → Mountain Pose**
 
 ---
 

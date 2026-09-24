@@ -8,7 +8,7 @@
 - **SNAP** — reserved for long point, measured thrusts, and the terminal cleave.
 - **HOLD** — brief structural ownership, never a hard joint stop.
 
-The hands may pass behind the head during an overhead wheel, but they never stop, reverse, snap, or abruptly catch the trainer there. Breathe continuously; inhale through gathering and recovery, and exhale through thrusts and the terminal cleave.
+The hands may pass behind the head during an overhead wheel, but they never stop, reverse, snap, or abruptly catch the trainer there. Breathe continuously; inhale through gathering and recovery, and exhale through thrusts, the terminal cleave, and turning denials.
 
 ## 1. Enter the Ground
 
@@ -146,9 +146,31 @@ Let the rake pass over the crown and resolve into one controlled descending clea
 
 Exhale through the final cleave. Do not mirror the passage.
 
-## 11. Restore the Ground
+## 11. Flanking Fence
 
-Let the cleave curve outward at the bottom.
+Let the terminal cleave curve outward at the bottom and recover into the first standard cut.
+
+Answer across the other line. If the first cut rises, let the second fall; if the first falls, let the second rise.
+
+Do not arrest the answering cut. Let its recovery continue into an overhead wheel while the hips gather beneath it.
+
+As the wheel opens, send the sword through a horizontal denial and pivot right 90 or 180 degrees to face the new line.
+
+**Forehand → backhand / gather → horizontal backhand / pivot right**
+
+Repeat from the new facing toward the opposite flank:
+
+**Backhand → forehand / gather → horizontal forehand / pivot left**
+
+Continue alternating right and left without a fixed count. The cut heights may reverse whenever the blade's existing position calls for it; the answering cut still determines the side of the horizontal denial.
+
+Inhale through the opening pair. Exhale through the horizontal cut and pivot.
+
+When the point begins to wander, complete the current right-left pair at reduced measure and move directly into the closing circle.
+
+## 12. Restore the Ground
+
+Let the final turning cut curve outward at the end.
 
 Complete one slow enclosing circle around the protected side. Collect the sword high before the face.
 
@@ -158,7 +180,7 @@ Hold for one quiet breath.
 
 ## Memory Line
 
-**Enter → Open → Cross → Ward Left → Ward Right → Turn the Wheel → Shift → Ward Again → Front and Rear → Shorten → Left Gate → Gather → Right Gate → Lengthen → Hawk → Quarter → Rake → Cleave → Restore**
+**Enter → Open → Cross → Ward Left → Ward Right → Turn the Wheel → Shift → Ward Again → Front and Rear → Shorten → Left Gate → Gather → Right Gate → Lengthen → Hawk → Quarter → Rake → Cleave → Fence Right → Fence Left → Restore**
 
 ## Movement References
 
@@ -175,4 +197,5 @@ Hold for one quiet breath.
 - Let the hips and rib cage turn with the blade rather than wrenching the shoulders independently.
 - Stop a pass when a shoulder begins to shrug, elbows flare unpredictably, wrists collapse, or the blade plane wanders.
 - Sharp pain, catching, instability, sudden weakness, or numbness ends the session.
+- Use Flanking Fence as a self-limiting wind-down: when point control first loosens, finish the current right-left pair at reduced measure and restore the ground.
 - Practice the revised sequence as one slow pass before restoring the two-pass conditioning structure.

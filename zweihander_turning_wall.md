@@ -12,7 +12,13 @@ The hands may pass behind the head during an overhead wheel, but they never stop
 
 ## 1. Enter the Ground
 
-Begin left foot forward, sword low on the right.
+Stand tall with the feet comfortable beneath you and the sword held in an easy two-handed forward guard.
+
+Inhale and lengthen through the crown. Exhale into a forward fold with the knees soft, allowing the sword to descend in front of you under control.
+
+Inhale and rise through the forward guard.
+
+Step the left foot forward and let the sword settle low on the right.
 
 Advance with two abbreviated rising cuts:
 
@@ -172,15 +178,19 @@ When the point begins to wander, complete the current right-left pair at reduced
 
 Let the final turning cut curve outward at the end.
 
-Complete one slow enclosing circle around the protected side. Collect the sword high before the face.
+Complete one slow enclosing forehand circle, then one slow enclosing backhand circle. Let each circle become smaller and easier. Collect the sword in an easy forward guard.
 
-Lower it into the original low, point-forward guard.
+Keeping the knees and hips unlocked, turn the trunk slowly to the right, return through center, turn to the left, and return. Let the feet pivot enough for the knees to follow the turn. Keep the elbows easy and the point under control.
 
-Hold for one quiet breath.
+Exhale into a forward fold, allowing the sword to descend in front of you.
+
+Inhale and rise into a sword sun salutation: both hands remain on the hilt as the sword lifts overhead and slightly forward. Keep the elbows soft and the shoulders away from the ears.
+
+Lower the sword through forward guard and hold for one quiet breath.
 
 ## Memory Line
 
-**Enter → Open → Cross → Ward Left → Ward Right → Turn the Wheel → Shift → Ward Again → Front and Rear → Shorten → Left Gate → Gather → Right Gate → Lengthen → Hawk → Quarter → Rake → Cleave → Fence Right → Fence Left → Restore**
+**Guard → Fold → Enter → Open → Cross → Ward Left → Ward Right → Turn the Wheel → Shift → Ward Again → Front and Rear → Shorten → Left Gate → Gather → Right Gate → Lengthen → Hawk → Quarter → Rake → Cleave → Fence Right → Fence Left → Shrink the Circles → Turn Right → Turn Left → Fold → Salute → Guard**
 
 ## Movement References
 
@@ -195,6 +205,7 @@ Hold for one quiet breath.
 - Use a synthetic bastard-sword trainer with sufficient clear space in every direction.
 - Keep the grip easy through circles; firm it only briefly at point control.
 - Let the hips and rib cage turn with the blade rather than wrenching the shoulders independently.
+- Treat the closing trunk turns as reminders rather than forced stretches; keep the feet free enough for the knees to follow.
 - Stop a pass when a shoulder begins to shrug, elbows flare unpredictably, wrists collapse, or the blade plane wanders.
 - Sharp pain, catching, instability, sudden weakness, or numbness ends the session.
 - Use Flanking Fence as a self-limiting wind-down: when point control first loosens, finish the current right-left pair at reduced measure and restore the ground.

@@ -42,6 +42,15 @@ Repeat the entire Warrior/vinyasa phrase on the opposite side:
 8. Upward Dog — 5 breaths
 9. Lunge — 5 breaths
 
+## Three-Point Balance Option
+
+During each mirrored Warrior/vinyasa phrase, the Downward Dog and Plank holds can be expanded with a short three-point variation:
+
+- **Three-Point Downward Dog:** from Downward Dog, lift the mirrored leg and reach the mirrored arm back toward it for **3 counts**. Return to neutral Downward Dog and hold the original pose for **5 breaths**.
+- **Three-Point Plank:** from Plank, lift the mirrored leg for **3 counts**. Return to neutral Plank and hold the original pose for **5 breaths**.
+
+Mirror the lifted/reaching side with the rest of that side's Warrior phrase.
+
 ## Floor Sequence
 
 1. Hero — 5 breaths

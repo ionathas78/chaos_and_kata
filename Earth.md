@@ -112,7 +112,7 @@ This is one journey through four vectors, not the same combination repeated four
 
 ## 3. First Panther
 
-**Breath:** Let the Horse release directly into the low transition. Inhale to load the compressed Panther structure; exhale through the rising elbow. Let the guard recovery breathe naturally, then exhale through the Teep and inhale through its recoil into Crane.
+**Breath:** Let the Horse release directly into the low transition. Keep the breath moving through Panther's compact attack, using short exhales for the low crescent kick and Leopard strike. Inhale naturally as the body retreats into the raised-leg Thai Check, exhale through the lead jab, then exhale through the same-leg Teep and inhale through its recoil into Crane.
 
 Release the final Horse without standing fully out of the root. Transfer the weight and sink directly into:
 
@@ -120,23 +120,27 @@ Release the final Horse without standing fully out of the root. Transfer the wei
 
 Do not settle. Panther is a low, actively loaded structure in motion.
 
-From the compressed Panther structure, drive through the legs and hips while the elbow rises on a compact upward line. Let the Panther launch geometry become the strike rather than standing first and striking second:
+Attack directly from the compressed Panther structure:
 
-**Panther Rising Elbow SNAP**
+**Low Inward Crescent Kick SNAP → Diagonal Leopard Strike SNAP**
 
-Recover the elbow into a compact upright guard as the rise completes:
+As the imagined counterattack arrives, give ground and lift the lead leg into:
 
-**Muay Thai Guard FLOW**
+**Muay Thai / Thai Check FLOW**
 
-From the guard, gather the lead knee and drive the foot straight forward:
+Keep the checking leg airborne. From the one-legged defensive structure, issue a compact lead-hand interruption:
 
-**Thrust Kick / Teep SNAP**
+**Lead Jab SNAP**
 
-Retract completely without touching down. Let the recoil itself become the raised-knee structure:
+Without touching the raised foot down, let the check become the chamber for:
+
+**Same-Leg Thrust Kick / Teep SNAP**
+
+Retract completely without touching down. Let the recoil itself become:
 
 **Crane / Thai Check SNAP → HOLD 3**
 
-The rising elbow begins in Panther mechanics and resolves into Muay Thai geometry. The Teep then creates distance and its recoil creates Crane.
+Panther now attacks before yielding the range. The retreating Thai Check is the handoff into Muay Thai: the raised leg stays airborne through the jab, becomes the Teep chamber, and recoils directly into Crane.
 
 This begins the first mirrored journey.
 
@@ -144,7 +148,7 @@ This begins the first mirrored journey.
 
 ## 4. First Journey
 
-**Breath:** From Crane [3], breathe naturally as the hip opens into Tree. After Tree [5], inhale as Tree closes and the body lengthens into Warrior III. After Warrior III [5], exhale gradually through the long controlled descent into Panther. Maintain continuous breathing through Panther → Plank and the ground sequence, with a stronger exhale for Knee-to-Elbow. Inhale through the lunge and rotational recovery as space permits. In the returning Panther, inhale to load, exhale through the rising elbow, recover naturally into guard, exhale through the Teep, then inhale through its recoil into the opposite Crane.
+**Breath:** From Crane [3], breathe naturally as the hip opens into Tree. After Tree [5], inhale as Tree closes and the body lengthens into Warrior III. After Warrior III [5], exhale gradually through the long controlled descent into Panther. Maintain continuous breathing through Panther → Plank and the ground sequence, with a stronger exhale for Knee-to-Elbow. Inhale through the lunge and rotational recovery as space permits. In the returning Panther, keep the breath moving through the Panther attack, inhale into the retreating Thai Check, exhale through the lead jab, then exhale through the Teep, then inhale through its recoil into the opposite Crane.
 
 From Crane, open the hip and hands together:
 
@@ -184,17 +188,17 @@ Unwind the rotation under control into neutral Panther geometry:
 
 **Revolved Panther FLOW → Panther FLOW**
 
-The reset Panther restores the compressed low structure. Drive through the legs and hips and let that compression uncurl through:
+The reset Panther restores the compressed low structure. Attack from it:
 
-**Panther Rising Elbow SNAP**
+**Low Inward Crescent Kick SNAP → Diagonal Leopard Strike SNAP**
 
-Recover directly into:
+Give ground into:
 
-**Muay Thai Guard FLOW**
+**Muay Thai / Thai Check FLOW**
 
-Gather the lead knee and issue:
+Keep the checking leg airborne and issue:
 
-**Thrust Kick / Teep SNAP**
+**Lead Jab SNAP → Same-Leg Thrust Kick / Teep SNAP**
 
 Recoil completely without touchdown. Capture the returning leg as:
 
@@ -206,7 +210,7 @@ The first journey has now created the beginning of the second.
 
 ## 5. Second Journey
 
-**Breath:** Mirror the first journey. Breathe naturally as Crane opens into Tree. After Tree [5], inhale into the Tree-to-Warrior III extension. After Warrior III [5], exhale gradually through Warrior III → Panther. Keep the breath moving through Panther → Plank and the ground work, with a stronger exhale on Knee-to-Elbow. Inhale through the lunge and recovery where comfortable. In the returning Panther, inhale to load, exhale through the rising elbow, recover naturally into guard, exhale through the Teep, and inhale through the final Crane FLOW as the landing establishes Horse.
+**Breath:** Mirror the first journey. Breathe naturally as Crane opens into Tree. After Tree [5], inhale into the Tree-to-Warrior III extension. After Warrior III [5], exhale gradually through Warrior III → Panther. Keep the breath moving through Panther → Plank and the ground work, with a stronger exhale on Knee-to-Elbow. Inhale through the lunge and recovery where comfortable. In the returning Panther, keep the breath moving through the Panther attack, inhale into the retreating Thai Check, exhale through the lead jab, then exhale through the Teep, and inhale through the final Crane FLOW as the landing establishes Horse.
 
 From Opposite Crane, open the hip and hands together:
 
@@ -244,17 +248,17 @@ Unwind:
 
 **Revolved Panther FLOW → Panther FLOW**
 
-From the reset Panther, drive through the legs and hips:
+From the reset Panther, attack directly:
 
-**Panther Rising Elbow SNAP**
+**Low Inward Crescent Kick SNAP → Diagonal Leopard Strike SNAP**
 
-Recover directly into:
+Give ground into:
 
-**Muay Thai Guard FLOW**
+**Muay Thai / Thai Check FLOW**
 
-Gather the lead knee and issue:
+Keep the checking leg airborne:
 
-**Thrust Kick / Teep SNAP**
+**Lead Jab SNAP → Same-Leg Thrust Kick / Teep SNAP**
 
 Recoil completely without touchdown:
 
@@ -266,13 +270,13 @@ This final Crane is a transition rather than another hold. Plant the gathered le
 
 ### Mirrored Journey Pattern
 
-**PANTHER FLOW → RISING ELBOW → MUAY THAI GUARD → TEEP → CRANE [3] → TREE [5] → WARRIOR III [5] → PANTHER FLOW → KNUCKLE PLANK [5] → KNEE [3] → KNUCKLE PLANK [3] → LUNGE → REVOLVED PANTHER FLOW → PANTHER FLOW → RISING ELBOW → MUAY THAI GUARD → TEEP → OPPOSITE CRANE [3]**
+**PANTHER FLOW → LOW CRESCENT KICK → LEOPARD STRIKE → THAI CHECK → LEAD JAB → SAME-LEG TEEP → CRANE [3] → TREE [5] → WARRIOR III [5] → PANTHER FLOW → KNUCKLE PLANK [5] → KNEE [3] → KNUCKLE PLANK [3] → LUNGE → REVOLVED PANTHER FLOW → PANTHER FLOW → LOW CRESCENT KICK → LEOPARD STRIKE → THAI CHECK → LEAD JAB → SAME-LEG TEEP → OPPOSITE CRANE [3]**
 
-**TREE [5] → WARRIOR III [5] → PANTHER FLOW → KNUCKLE PLANK [5] → KNEE [3] → KNUCKLE PLANK [3] → LUNGE → REVOLVED PANTHER FLOW → PANTHER FLOW → RISING ELBOW → MUAY THAI GUARD → TEEP → CRANE FLOW → HORSE [5]**
+**TREE [5] → WARRIOR III [5] → PANTHER FLOW → KNUCKLE PLANK [5] → KNEE [3] → KNUCKLE PLANK [3] → LUNGE → REVOLVED PANTHER FLOW → PANTHER FLOW → LOW CRESCENT KICK → LEOPARD STRIKE → THAI CHECK → LEAD JAB → SAME-LEG TEEP → CRANE FLOW → HORSE [5]**
 
 > **Mirror journeys, not exercises.**
 
-The Panther phrase is a transformation rather than a string of poses: Panther's compressed spring drives the rising elbow, the elbow's recovery becomes Muay Thai guard, the guard releases the Teep, and the Teep's recoil becomes Crane. From Crane, the free foot remains airborne through Tree, Warrior III, and the controlled descent until Panther finally receives it.
+The Panther phrase is a transformation rather than a string of poses: Panther attacks from its compressed structure with a low crescent kick and Leopard strike, then yields into a raised-leg Thai Check. The checking leg remains airborne while the lead jab interrupts the advance, becomes the chamber for the same-leg Teep, and recoils into Crane. From Crane, the free foot remains airborne through Tree, Warrior III, and the controlled descent until Panther finally receives it.
 
 Symmetry belongs to the complete journey. Each side travels through compression, upward force, distance creation, balance, extension, descent, ground contact, rotation, and recovery before the other side answers it or Earth returns to root.
 
@@ -394,11 +398,11 @@ Stillness.
 
 **A → Left Elbow → B → 180° Back Sweep → C → Right Elbow → D → Horse [3]**
 
-**Panther FLOW → Rising Elbow → Muay Thai Guard → Teep → Crane [3]**
+**Panther FLOW → Low Crescent Kick → Leopard Strike → Thai Check → Lead Jab → Same-Leg Teep → Crane [3]**
 
-**Tree [5] → Warrior III [5] → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Lunge → Revolved Panther FLOW → Panther FLOW → Rising Elbow → Muay Thai Guard → Teep → Opposite Crane [3]**
+**Tree [5] → Warrior III [5] → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Lunge → Revolved Panther FLOW → Panther FLOW → Low Crescent Kick → Leopard Strike → Thai Check → Lead Jab → Same-Leg Teep → Opposite Crane [3]**
 
-**Tree [5] → Warrior III [5] → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Lunge → Revolved Panther FLOW → Panther FLOW → Rising Elbow → Muay Thai Guard → Teep → Crane FLOW → Horse [5]**
+**Tree [5] → Warrior III [5] → Panther FLOW → Knuckle Plank [5] → Knee [3] → Knuckle Plank [3] → Lunge → Revolved Panther FLOW → Panther FLOW → Low Crescent Kick → Leopard Strike → Thai Check → Lead Jab → Same-Leg Teep → Crane FLOW → Horse [5]**
 
 **Third Journey: Horse [5] → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse FLOW → Reverse Stance → Kick → Punch → Reverse Punch → Nami-gaeshi → Elbow Hook → Ground Punch → Horse [5]**
 

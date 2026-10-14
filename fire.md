@@ -148,263 +148,328 @@ The landing and hand strike resolve together. Keep the eyes oriented generally f
 
 ---
 
-## 5. Catch and Consume
+## 5. Catch and Consume — Crane Capture
 
-**Breath:** Inhale as the first strike opens into the receiving action. Exhale through the pull and palm. Breathe naturally through the elbow turn, then exhale through the low pull and rising strike.
+**Breath:** Inhale as each Crane hand receives. Exhale through the catch, pull, advance, and final claw. Let the reversal draw the next inhale without pausing between sides.
 
-Open the right striking hand into an outward parry. The left hand reaches beneath it, closes around an imagined wrist, and pulls toward the left hip.
+The right diagonal strike from Thrown Spark softens into a receiving Crane hand:
 
-Sink through the pull into a wide lateral structure. The right hand erupts along the opened line:
+**Right Crane-Hand Block FLOW**
 
-**High Capture + Pull FLOW → Right Palm SNAP**
+The left hand closes around the imagined wrist and pulls toward the left hip:
 
-The right palm folds immediately into a compact elbow as the range collapses. Let the elbow turn the entire body toward the rear line:
+**Left Catch → Left Pull FLOW**
 
-**Right Turning Elbow SNAP**
+Advance with the right foot as the right hand hooks inward toward the neck or upper gate:
 
-As the turn finishes, the right hand descends into a low capture or rake. Pull toward the right hip while the left hand rises through the center:
+**Right Advance + Right Crane-Claw Capture SNAP → Right Bow FLOW**
 
-**Low Capture + Pull FLOW → Left Rising Palm SNAP**
+Do not reset. Let the completed capture create the opposite receiving line:
 
-This creates bilateral push-pull work without photocopying the first half:
+**Left Crane-Hand Block FLOW → Right Catch → Right Pull FLOW**
 
-**HIGH CAPTURE → PULL → PALM → TURNING ELBOW → LOW CAPTURE → RISING PALM**
+Advance with the left foot and complete the mirror:
+
+**Left Advance + Left Crane-Claw Capture SNAP → Left Bow FLOW**
+
+The advance reverses the footing during each capture. The phrase mirrors one compact Crane action rather than repeating a long block:
+
+**RIGHT BLOCK → LEFT CATCH + PULL → RIGHT ADVANCE + CAPTURE**
+
+**LEFT BLOCK → RIGHT CATCH + PULL → LEFT ADVANCE + CAPTURE**
 
 ---
 
 ## 6. Falling Cinder, Leaping Flame
 
-**Breath:** Inhale as the rising hand continues over the crown. Exhale through the descending forearm and controlled lunge. Let the low sweep gather the next inhale. Exhale through the rising backhand and jump kick, breathe during the landing, and repeat the same pattern on the opposite side. Never retain the breath to power the jump.
+**Breath:** Inhale as the final Crane capture opens over the crown. Exhale through the descending forearm and controlled lunge. Let the low sweep gather the next inhale. Exhale through the rising backhand and jump kick. Never retain the breath to power the jump.
 
-The rising left hand continues over the crown and becomes a diagonal descending forearm or chop. Step deeply enough for the technique to create a controlled left Low Lunge:
+Let the left hand continue over the crown and fall diagonally as the body descends:
 
 **Left Descending Forearm SNAP → Left Low Lunge FLOW**
 
-Sweep the right hand low across the knee line. Let the sweep rebound upward as the weight retreats from the forward left leg onto the rear right leg:
+Sweep the right hand low across the knee line. Let the sweep rebound upward while the weight retreats from the forward left leg onto the rear right leg:
 
 **Right Low Sweep FLOW → Right Rising Backhand SNAP**
 
-The right rising backhand and right hip become one turning column. Settle over the right leg as the forward left knee lifts into a brief Crane-like chamber:
+The backhand and hip become one turning column. Settle fully over the right leg and lift the forward left knee:
 
 **Left-Knee Crane / Right-Leg Support FLOW**
 
-Drive the chambered left knee upward to initiate the jump. Spring from the rear right leg; once the body is airborne, extend that former supporting leg into the kick:
+Drive the chambered left knee upward to initiate the jump. Spring from the supporting right leg and, once airborne, extend that former support leg:
 
 **Right Jump Front Kick SNAP**
 
-Retract the kick before landing. Place the right foot forward into Right Bow. As the weight accepts the landing, drive the right forearm diagonally downward and let the bow deepen into a right Low Lunge:
+Retract before landing. Place the right foot forward and receive the landing in:
 
-**Right Bow LAND → Right Descending Forearm SNAP → Right Low Lunge FLOW**
+**Right Bow LAND**
 
-The landing strike is already the beginning of the compact mirror. Sweep the left hand low and let it rebound upward as the weight retreats onto the rear left leg:
+There is no landing strike and no long mirrored block here. The landing becomes the doorway into Capoeira.
 
-**Left Low Sweep FLOW → Left Rising Backhand SNAP**
+For a non-jumping study pass, lower the chambered left foot to receive the weight, then send the right leg through as a controlled step-through front kick.
 
-Settle over the left leg as the forward right knee lifts:
+### Falling Cinder Pattern
 
-**Right-Knee Crane / Left-Leg Support FLOW**
-
-Drive the chambered right knee upward, spring from the rear left leg, and extend that left leg once airborne. Retract it cleanly and land forward:
-
-**Left Jump Front Kick SNAP → Left Bow LAND**
-
-Let the landing drive the left forearm diagonally downward as the stance deepens:
-
-**Left Descending Forearm SNAP → Left Low Lunge FLOW**
-
-The two halves mirror a short movement phrase rather than two long blocks:
-
-**LEFT DESCENT → RIGHT LOW SWEEP + RIGHT RISE → LEFT-KNEE CRANE → RIGHT JUMP KICK → RIGHT LANDING DESCENT**
-
-**RIGHT DESCENT → LEFT LOW SWEEP + LEFT RISE → RIGHT-KNEE CRANE → LEFT JUMP KICK → LEFT LANDING DESCENT**
-
-For a non-jumping study pass, lower the chambered front foot to receive the weight, then send the rear leg through as a controlled step-through front kick. This adds a beat but preserves which leg kicks and which side receives the landing descent.
+**LEFT DESCENT → RIGHT LOW SWEEP + RIGHT RISE → LEFT-KNEE CRANE → RIGHT JUMP KICK → RIGHT BOW**
 
 ---
 
-## 7. Tiger Takes the Flame
+## 7. Brushfire Drive — Capoeira
 
-**Breath:** Keep the rhythm martial and continuous. Use short exhales through each swat and palm heel. Let the twin chamber gather an inhale, exhale through the pounce, and inhale naturally as the rake pulls toward the ribs.
+**Breath:** Keep the breath continuous. Exhale through each low retreat and Bênção. Let the recoil into ginga restore an ordinary rhythm.
 
-Rise from the left lunge and turn left. Form a broad Tiger Claw and drive the swat from the waist, outward and slightly downward, as the body settles into Left Bow:
+From Right Bow, let the body retreat low into:
 
-**Left Tiger-Claw Swat SNAP → Left Bow FLOW**
+**Left-Supported Esquiva Recuada FLOW**
 
-Let the swat's recoil turn the waist into a right palm-heel strike. Keep the fingers curved and alive rather than driving with the fingertips:
+The descending knee may graze or approach the floor. Raise the defensive elbow, allow a small bow of the head, and keep the eyes engaged forward. The free hand may touch the ground briefly if balance requires it.
 
-**Right Tiger-Palm SNAP**
+Use the loaded retreat to drive forward and plant for:
 
-Reverse through center and settle into Right Bow as the right claw clears the opposite line:
+**Right Standing Bênção SNAP**
 
-**Right Tiger-Claw Swat SNAP → Right Bow FLOW**
+Recoil directly into:
 
-Rebound immediately into the answering palm heel:
+**Ginga FLOW**
 
-**Left Tiger-Palm SNAP**
+Let ginga reverse the base and prepare the compact mirror:
 
-Draw both elbows sharply toward the ribs without shrugging. Keep both hands clawed:
+**Right-Supported Esquiva Recuada FLOW → Left Standing Bênção SNAP**
+
+Recover again into:
+
+**Ginga FLOW**
+
+Esquiva Recuada and Bênção form one intentional combination. Ginga separates and prepares the mirrored phrases. No transitional punch, palm, elbow, or ground kick is added to account for the footwork.
+
+### Brushfire Pattern
+
+**ESQUIVA RECUADA → RIGHT BÊNÇÃO → GINGA → ESQUIVA RECUADA → LEFT BÊNÇÃO → GINGA**
+
+---
+
+## 8. Turning Brand — Capoeira
+
+**Breath:** Breathe naturally through ginga. Exhale through the kick's release, then restore the breath while recovering the base. Do not brace through the turn.
+
+Continue the ginga until the left leg leads and the right leg is free behind:
+
+**Ginga FLOW → Right Armada SNAP**
+
+Spot the forward line before releasing the leg. Let the arms participate in rotation, guard, and balance rather than carrying a separate strike. Keep the kicking height low enough to preserve posture and a clean recovery.
+
+Return completely to:
+
+**Ginga FLOW**
+
+Let the ginga reverse the base. Repeat the movement on the opposite side:
+
+**Left Armada SNAP → Ginga FLOW**
+
+There are no opening circular strikes and no palm strikes on the landings. The Armada receives complete attention, and ginga is sufficient movement between the two sides.
+
+### Turning Brand Pattern
+
+**GINGA → RIGHT ARMADA → GINGA → LEFT ARMADA → GINGA**
+
+---
+
+## 9. Blazing Advance — Northern Shaolin
+
+**Status:** Working passage; next technical review point.
+
+**Breath:** Keep the breath continuous through the advancing line. Use compact exhales through blocks, punches, and cutting strikes. Let each retreating circular guard gather the next inhale and reverse the base.
+
+Settle from the final ginga into a left lead. Let the arms circle into the first receiving action:
+
+**Left Whirling Block SNAP → Left Bow FLOW**
+
+Advance with the right foot and let the landing create:
+
+**Right Long Punch SNAP → Right Bow FLOW**
+
+Advance again:
+
+**Left Long Punch SNAP → Left Bow FLOW**
+
+Let the punch recoil load the opposite shoulder. Cut through the new line:
+
+**Right Cutting Hammerfist / Knife-Hand SNAP**
+
+Retreat with the left foot and let both arms circle through an active receiving guard:
+
+**Left Retreat + Double Circular Guard FLOW → Right Lead**
+
+Answer immediately with the compact mirror:
+
+**Right Whirling Block SNAP → Right Bow FLOW**
+
+**Left Advance + Left Long Punch SNAP → Left Bow FLOW**
+
+**Right Advance + Right Long Punch SNAP → Right Bow FLOW**
+
+**Left Cutting Hammerfist / Knife-Hand SNAP**
+
+**Right Retreat + Double Circular Guard FLOW → Left Lead**
+
+The guards are functional receiving and reorganization actions, not decorative arm circles.
+
+### Blazing Advance Pattern
+
+**LEFT WHIRL → RIGHT PUNCH → LEFT PUNCH → RIGHT CUT → RETREAT + DOUBLE GUARD**
+
+**RIGHT WHIRL → LEFT PUNCH → RIGHT PUNCH → LEFT CUT → RETREAT + DOUBLE GUARD**
+
+---
+
+## 10. Tiger Takes the Flame
+
+**Breath:** Use short exhales through the swats and palms. Let the twin chamber gather an inhale, exhale through the advancing pounce, and inhale naturally as the rake pulls toward the ribs.
+
+From the left lead, issue the first compact onslaught:
+
+**Left Tiger Swat SNAP → Right Tiger Palm SNAP → Left Tiger Palm SNAP + Advance**
+
+Reverse immediately:
+
+**Right Tiger Swat SNAP → Left Tiger Palm SNAP → Right Tiger Palm SNAP + Advance**
+
+Keep the fingers curved and alive without striking with the fingertips. The waist carries each swat, and the palm heels arrive through the line opened by the opposite claw.
+
+Draw both elbows sharply toward the ribs:
 
 **Twin Claw Chamber SNAP**
 
-Drive both palm heels forward together while remaining in Right Bow. The right palm naturally reaches several inches beyond the left because the right hip and shoulder lead. Both palms arrive on the same beat, with elbows softly bent:
+Advance and drive both palm heels together:
 
-**Double Tiger-Claw Pounce SNAP → Right Bow FLOW**
+**Double Tiger-Claw Pounce SNAP + Advance**
 
-Close the fingers against imagined resistance. Rake both claws down and slightly outward, then pull toward the ribs with the forearms and upper back:
+Close the fingers against imagined resistance. Rake both claws down and slightly outward, then pull toward the ribs using the forearms and upper back:
 
 **Twin Rake + Pull FLOW**
 
-The phrase mirrors two compact pairs, then escalates from alternating claws to both claws together:
+The right and left phrases create the onslaught. The pounce remains at the end as the culmination:
 
-**LEFT SWAT → RIGHT TIGER-PALM**
+**LEFT SWAT → RIGHT PALM → LEFT PALM + STEP**
 
-**RIGHT SWAT → LEFT TIGER-PALM**
+**RIGHT SWAT → LEFT PALM → RIGHT PALM + STEP**
 
-**TWIN CHAMBER → DOUBLE POUNCE → TWIN RAKE + PULL**
+**CHAMBER → POUNCE + STEP → RAKE + PULL**
 
 ---
 
-## 8. Retreating Reverse Wheel
+## 11. Retreating Reverse Wheel
 
-**Breath:** Let the rake gather an inhale. Keep breathing as the wheel travels backward. Exhale through the final downward snap and let its rebound draw the next breath for the kicking coda.
+**Breath:** Let the Tiger pull gather an inhale. Keep breathing while the wheel travels backward. Exhale through the final downward snap.
 
-Do not stop after the Tiger pull. The pull shifts the weight away from the forward right foot and initiates a deliberate three-step withdrawal.
+Do not stop after the Tiger rake. The pull initiates a deliberate three-step withdrawal.
 
-Release the claws as the **right foot retreats**. Let both hands drop beside the hips and begin sweeping backward:
+Release the claws as the right foot retreats. Let both hands drop beside the hips and sweep backward:
 
 **Right Retreating Step → Hands Drop and Sweep Back FLOW**
 
-Let the **left foot retreat** as both arms travel backward, outward, and rise along the sides. The feet carry the body, the waist drives the shoulders, and the arms complete the wheel:
+Let the left foot retreat as both arms travel backward, outward, and upward:
 
 **Left Retreating Step → Reverse Double-Arm Wheel FLOW**
 
-Take a third **right retreating step**, opening the foot into a shallow Horse as the arms crest over the upper line. Do not pause with the hands behind the head:
+Take a third right retreating step and open into a shallow Horse as the arms crest. Do not pause with the hands behind the head:
 
 **Right Retreating Step → Shallow Horse FLOW**
 
-As the stance settles evenly, bring both arms down outside the body in a forceful two-armed splitting snap:
+Bring both arms down outside the body in a forceful two-armed splitting action:
 
 **Twin Downward Splitting Palms SNAP**
 
-The wheel is traveling defensive work rather than an in-place flourish. It withdraws from the close range created by the Tiger pounce, clears the pursuit line, and rebuilds a stable guard at distance. If the form calls for an in-place evasion instead, use the Coiling Flame Evasion rather than removing the wheel's footwork.
+The wheel is traveling defensive work. Without the retreating steps it becomes an ornamental flourish rather than the intended transition.
 
 ---
 
-## 9. Reignition
+## 12. Reignition — Taekwondo Coda
 
-**Breath:** Let compact exhales accompany the kicks. Draw breath through each rechamber, landing, and change of facing. Keep the rhythm continuous rather than holding the breath through the turning kicks.
+**Breath:** Use compact exhales through the kicks. Draw breath through each rechamber, landing, and change of facing. Keep the rhythm continuous through the turns.
 
-Let the Twin Downward Snap rebound into a compact Taekwondo fighting guard. Shift onto the left leg and release:
+Let the downward snap rebound into a compact Taekwondo guard. Shift onto the left leg:
 
 **Right Roundhouse Kick SNAP**
 
-Land the right foot forward on the original line. Use that landing to load the rear left leg. Turn through the right support and drive the left heel backward along the original attacking line:
+Land the right foot forward and use that landing to load the rear left leg. Turn through the right support:
 
 **Left Rear-Leg Turning Back Kick SNAP**
 
-Let the left kicking leg land through. The landing completes the change of facing: the body now faces the reverse line with the right leg forward.
+Let the left leg land through, completing the change of facing. Attack the reverse line immediately:
 
-Shift the weight onto the rear left leg. Lift the forward right heel up the new line, cut it downward, and land on the same foot:
+**Reverse-Line Right Forward Axe Kick SNAP → Land Right**
 
-**Reverse-Line Right Forward Axe Kick SNAP → Right Forward Stance FLOW**
-
-The reverse-facing axe kick gives the change of direction an immediate purpose. Continue with the mirrored triplet on that line:
+Continue with the compact mirror:
 
 **Left Roundhouse Kick SNAP**
 
-Land the left foot forward. Turn through it and drive the rear right heel backward along the reverse line:
+Land forward, turn through the left support, and drive the rear right heel backward:
 
 **Right Rear-Leg Turning Back Kick SNAP**
 
-Land the right leg through. The second turning kick returns the body to the original facing with the left leg forward.
+Let the right leg land through and return the body toward the original line:
 
-Shift onto the rear right leg and finish with:
+**Home-Line Left Forward Axe Kick SNAP → Land Left**
 
-**Home-Line Left Forward Axe Kick SNAP → Left Forward Stance FLOW**
+Use the landing to chamber the left knee. Advance and spring from the left leg, extending the rear right leg once airborne:
 
-The complete coda is a compact mirrored pair of three-kick phrases:
+**Advancing Right Jump Front Kick SNAP → LAND**
 
-**RIGHT ROUNDHOUSE → LEFT TURNING BACK KICK → REVERSE-LINE RIGHT AXE KICK**
+### Reignition Pattern
 
-**LEFT ROUNDHOUSE → RIGHT TURNING BACK KICK → HOME-LINE LEFT AXE KICK**
+**RIGHT ROUNDHOUSE → LEFT TURNING BACK KICK → REVERSE-LINE RIGHT AXE**
 
-The turning back kicks carry the form between opposing lines. The forward axe kicks attack immediately after each reversal, so neither change of facing becomes empty travel.
+**LEFT ROUNDHOUSE → RIGHT TURNING BACK KICK → HOME-LINE LEFT AXE**
 
-### Return to Mountain
+**LEFT-KNEE CHAMBER → ADVANCING RIGHT JUMP KICK**
 
-Straighten gradually and draw the left foot in:
+---
+
+## 13. Contain the Fire
+
+**Breath:** Let the kick settle into ordinary breathing. Exhale into the fold. Inhale while unfolding into the upward-reaching pose, then exhale as the arms lower.
+
+Draw the feet together and return to:
 
 **Mountain Pose FLOW**
 
-Exhale from the hips into:
+Fold from the hips:
 
 **Standing Forward Fold FLOW**
 
-Inhale as the body unfolds under control and the arms rise overhead into:
+Unfold under control and raise the arms overhead into:
 
 **Sun Salutation (single pose) FLOW**
 
-Exhale as the arms lower and the body settles into:
+Lower the arms and settle into:
 
 **Mountain Pose**
 
 Remain still for two ordinary, unforced breaths.
 
-The fire is contained, not extinguished.
+**The fire is contained, not extinguished.**
 
 ---
 
 # Performance Rhythm
 
-Perform the complete form as one continuous journey. During early practice, two passes provide the intended session structure:
+Perform the complete form as one continuous journey. During early practice, one deliberate learning pass is sufficient. When the transitions remain clean, a second pass may provide the intended conditioning structure:
 
-1. **Kindling Pass** — moderate range and approximately half speed. Establish the force paths. Make every recovery visibly chamber the next action.
-2. **Burning Pass** — larger controlled arcs and stronger leg drive. Allow combinations to accelerate while preserving balance and deceleration.
+1. **Kindling Pass** — moderate range and approximately half speed. Establish footwork, force paths, and recoveries.
+2. **Burning Pass** — larger controlled arcs and stronger leg drive. Allow compact phrases to accelerate while preserving balance and deceleration.
 
-Approximate duration for two deliberate passes: **12–15 minutes**.
+Progress through deeper controlled positions, stronger muscular intent, larger safe arcs, cleaner force transfer, sharper rebounds, smoother propagation, and greater control under fatigue. Do not progress primarily by adding repetitions.
 
-Progress through:
+The arms remain relaxed enough to accelerate but never limp. Elbows stay softly unlocked. Kicks remain below the height at which balance, alignment, or retraction deteriorates.
 
-- deeper actively controlled positions;
-- stronger muscular intent;
-- larger safe arcs;
-- cleaner force transfer;
-- sharper rebounds;
-- smoother propagation;
-- more precise SNAP endpoints;
-- greater control under fatigue.
-
-Do not progress primarily by adding repetitions.
-
-The arms remain relaxed enough to accelerate but never limp. Elbows remain softly unlocked. The shoulders stay connected to the back. Kicks remain below the height at which balance, alignment, or retraction deteriorates.
-
-Because breath retention can raise blood pressure, keep the breath moving throughout the form. Dragon Bellows should be audible and intentional but never maximal. Stop the breathing sequence if it produces dizziness, unusual head pressure, visual disturbance, chest discomfort, or unusual shortness of breath.
+Keep the breath moving throughout the form. Dragon Bellows should be audible and intentional but never maximal. Stop the breathing sequence if it produces dizziness, unusual head pressure, visual disturbance, chest discomfort, or unusual shortness of breath.
 
 ---
 
-# Memory Skeleton
+# Memory Line
 
-**Mountain Pose → Forward Fold FLOW → Arms Rise → Horse + Crossed Ember Guard [3 Dragon Bellows]**
-
-**Coil → Right Split → Left Split → Right Rise**
-
-**Right Gwa → Left Sow → Right Chop**
-
-**Recoil + Compact Guard → Full Coiling Flame Evasion → Left Inward Crescent Kick → Land + Right Diagonal Strike**
-
-**High Capture → Pull → Right Palm → Turning Elbow → Low Capture → Left Rising Palm**
-
-**Left Descending Forearm + Lunge → Right Low Sweep + Right Rising Backhand → Left-Knee Crane → Right Jump Kick → Right Landing Descent**
-
-**Right Lunge → Left Low Sweep + Left Rising Backhand → Right-Knee Crane → Left Jump Kick → Left Landing Descent**
-
-**Left Tiger Swat → Right Tiger-Palm → Right Tiger Swat → Left Tiger-Palm → Twin Chamber → Double Pounce → Twin Rake + Pull**
-
-**Right–Left–Right Retreating Reverse Double-Arm Wheel → Shallow Horse + Twin Downward Snap**
-
-**Right Roundhouse → Left Turning Back Kick → Reverse-Line Right Axe → Left Roundhouse → Right Turning Back Kick → Home-Line Left Axe**
-
-**Mountain Pose → Forward Fold → Sun Salutation (single pose) → Mountain Pose**
+**Mountain → Fold → Crossed Ember Horse + Three Bellows → Split Right → Split Left → Rise → Gwa → Sow → Chop → Compact Guard → Full Orbit → Left Crescent → Right Crane Capture → Left Crane Capture → Left Descent → Right Sweep + Rise → Left-Knee Crane → Right Jump Kick → Esquiva–Right Bênção → Ginga → Esquiva–Left Bênção → Ginga → Right Armada → Ginga → Left Armada → Ginga → Shaolin Left → Shaolin Right → Tiger Left → Tiger Right → Chamber → Pounce → Rake → Retreating Wheel → Split Down → TKD Right → Reverse-Line Axe → TKD Left → Home-Line Axe → Advancing Jump Kick → Mountain → Fold → Salute → Mountain**
 
 ---
 
@@ -413,17 +478,17 @@ Because breath retention can raise blood pressure, keep the breath moving throug
 The form is synthetic rather than a reproduction of any inherited curriculum:
 
 - **Piguaquan / Piguazhang** supplies long-range whipping power, alternating rise and fall, splitting actions, and rebound chambers.
-- **Choy Li Fut** supplies the circular combination grammar, waist-driven links, and gwa–sow–chop family.
-- **Taekwondo** supplies clean kicking chambers, extension, retraction, crisp lower-body punctuation, and the final roundhouse–turning-back-kick–axe-kick combinations.
-- **Capoeira** supplies selective turning and recovery logic, especially the principle that landing or recovery already begins the next action.
-- **White Crane** supplies the brief one-leg chamber, opening and closing accents, and sudden close-to-open acceleration.
-- **Eagle Claw** supplies consuming captures, rakes, and pulls that keep the non-striking hand active.
-- **Tiger-style mechanics** supply the closing swats, palm heels, two-handed pounce, and heavy raking pull: rooted clearing actions escalate into sudden forward consumption and forceful gathering through the forearms and upper back.
-- **Changquan** informs spatial composition, rhythm contrast, extended lines, and legible changes of facing.
+- **Choy Li Fut** supplies circular combination grammar and the gwa–sow–chop family.
+- **White Crane** supplies the compact receiving, pulling, advancing capture, one-leg chamber, and bright close-to-open changes.
+- **Capoeira** supplies ginga as an active movement engine, Esquiva Recuada–Bênção combinations, the Armada, and recoveries that already prepare the next phrase.
+- **Northern Shaolin / Changquan** supplies the advancing long line, whirling guards, extended strikes, rhythm contrast, and legible changes of facing.
+- **Tiger-style mechanics** supply swats, palm heels, the advancing two-handed pounce, and the heavy raking pull.
+- **Taekwondo** supplies crisp chambers, extension and retraction, turning changes of facing, axe kicks, and the advancing jump-kick conclusion.
+- **Yoga** supplies the opening and closing current beneath the martial form.
 
-The governing synthesis is:
+The governing synthesis remains:
 
-> **Build Fire from Pigua's whip, Choy Li Fut's chain, Taekwondo's spark, and Capoeira's recovery. Let Changquan compose the stage, Crane shape a few bright edges, Eagle give the flame something to catch, and Tiger teach it to consume.**
+> **Build Fire from Pigua's whip, Choy Li Fut's chain, Capoeira's living rhythm, Shaolin's advancing flame, Tiger's onslaught, and Taekwondo's final sparks.**
 
 ---
 
@@ -439,15 +504,15 @@ The previous technique's recoil creates the next technique's chamber. No reset i
 
 **Fire mirrors in short phrases.**
 
-Maintain bilateral training balance through paired right-left phrases built from a small number of tightly linked actions. Fire may kick, sweep, and rise on one side, then answer with the same short sequence on the other. The sequence should be large enough to create a coherent burst of movement, but brief enough that its mirror feels like a quick answering flare.
-
-Do not build a long, developed passage on one side and then repeat that entire passage on the other after substantial separation. That expresses symmetry in blocks and gives the form a more deliberate, inexorable intention. When a mirrored phrase begins growing into a sustained section, end the mirror and let its recoil ignite something new.
-
-Fire's unit of symmetry is the short sequence rather than the single technique or the extended section. It keeps the workout balanced through frequent, compact mirrored phrases.
+Maintain bilateral training balance through paired right-left phrases built from a small number of tightly linked actions. Fire's unit of symmetry is the short sequence rather than the isolated technique or extended section.
 
 **Arrival loads departure.**
 
 The endpoint of every technique should chamber, preload, orient, balance, or position the body for what follows.
+
+**Capoeira carries its own transitions.**
+
+Use ginga between discrete Capoeira phrases, but not inside an intentionally connected combination such as Esquiva Recuada → Bênção. Ginga is movement vocabulary, not filler. Capoeira movement needs no incidental strike to justify its footwork.
 
 **The non-striking hand tends the fire.**
 
@@ -455,11 +520,11 @@ It guards, pulls, clears, captures, counterbalances, or chambers. It never decor
 
 **Kicks are thrown sparks.**
 
-A kick emerges from rotation or loading already present in the phrase. Its retraction and landing continue the same sentence.
+A kick emerges from rotation or loading already present in the phrase. Its retraction and landing continue the sentence.
 
 **Stillness is combustion under pressure.**
 
-Fire uses few holds. When it becomes still, the structure is visibly loaded and prepared to ignite.
+Fire uses few holds. When it becomes still, the structure is visibly loaded and ready to ignite.
 
 **Amplitude remains controlled.**
 
@@ -467,6 +532,141 @@ Relaxed does not mean limp. Avoid ballistic end-range traction, hard elbow locki
 
 **Fire must still read as Fire when performed slowly.**
 
-Elemental identity comes from the movement's mechanics: compression, acceleration, expansion, rebound, and propagation. It does not come from ornamental flame hands.
+Elemental identity comes from compression, acceleration, expansion, rebound, and propagation, not ornamental flame hands.
 
 Absolutely no martial jazz fire.
+
+---
+
+# Practice Guide
+
+**Purpose:** Build acceleration, rebound, propagation, rotational control, and fast short-unit symmetry through one continuous mixed-discipline form.
+
+**Fire rhythm:** COMPRESS → ACCELERATE → SNAP → REBOUND → REIGNITE. Keep the breath moving. FLOW carries force; SNAP resolves it; HOLD counts complete breaths.
+
+## 1. Banked Ember
+
+Mountain Pose → Standing Forward Fold FLOW → unfold  
+Step left → Crossed Ember Guard → Horse **HOLD 3 / Three Dragon Bellows**
+
+**Breath:** Exhale fold → inhale rise → exhale settle. Three controlled belly-and-lower-rib breaths; audible exhale, open throat, no bearing down.
+
+## 2. Splitting Flare
+
+Coil left → Right Splitting Palm **SNAP** → Right Bow  
+Rebound → Left Splitting Palm **SNAP** → Left Bow  
+Rebound → Right Rising Backfist **FLOW**
+
+**Breath:** Compact exhale through each split; inhale through rebounds.
+
+## 3. Wheel of Sparks
+
+Right Gwa **SNAP** → Left Sow **SNAP** → Right Chop / Penetrating Palm **SNAP** → Right Bow
+
+**Transition:** Right rise rolls into clearance; each recoil chambers the next arm.
+
+## 4. Thrown Spark
+
+Right palm recoils → Compact Crossed Ember Guard  
+Full Coiling Flame Evasion **FLOW** → rise + left chamber  
+Left Inward Crescent **SNAP** → retract → land Left Bow + Right Diagonal Strike **SNAP**
+
+**Safety:** Let feet and knees adjust with the orbit. Do not grind the lumbar spine or kick above clean retraction height.
+
+## 5. Catch and Consume
+
+Right Crane Block → Left Catch + Pull → Right Advance + Right Crane-Claw Capture → Right Bow  
+Left Crane Block → Right Catch + Pull → Left Advance + Left Crane-Claw Capture → Left Bow
+
+**Breath:** Inhale receive; exhale pull, advance, and capture.
+
+## 6. Falling Cinder, Leaping Flame
+
+Left Descending Forearm → Left Low Lunge  
+Right Low Sweep → Right Rising Backhand  
+Shift to right support → Left-Knee Crane  
+Spring right → Right Jump Front Kick → retract → land Right Bow
+
+**Transition:** No landing strike. Right Bow flows directly into the Capoeira retreat.
+
+## 7. Brushfire Drive
+
+Left-supported Esquiva Recuada → Right Bênção → Ginga  
+Right-supported Esquiva Recuada → Left Bênção → Ginga
+
+**Breath:** Exhale through retreat and kick; recover ordinary rhythm in ginga.
+
+**Safety:** Lower only as far as the knee and balance allow. Ground touch is optional. Esquiva–Bênção stays connected; ginga separates the mirrored phrases.
+
+## 8. Turning Brand
+
+Ginga → Right Armada → Ginga → Left Armada → Ginga
+
+**Breath:** Natural in ginga; exhale through kick release.
+
+**Safety:** Spot forward before release. Keep the kick low enough for posture and clean recovery. No added strikes.
+
+## 9. Blazing Advance — Northern Shaolin
+
+Left Whirling Block → Left Bow  
+Advance Right Long Punch → Right Bow  
+Advance Left Long Punch → Left Bow  
+Right Cutting Hammerfist / Knife-Hand  
+Retreat left → Double Circular Guard → Right Lead
+
+Mirror:
+
+Right Whirling Block → Right Bow  
+Advance Left Long Punch → Left Bow  
+Advance Right Long Punch → Right Bow  
+Left Cutting Hammerfist / Knife-Hand  
+Retreat right → Double Circular Guard → Left Lead
+
+**Breath:** Compact exhales on force resolutions; inhale through retreating circular guards.
+
+## 10. Tiger Takes the Flame
+
+Left Swat → Right Palm → Left Palm + step  
+Right Swat → Left Palm → Right Palm + step  
+Twin Chamber → Double Pounce + step → Twin Rake + pull
+
+**Breath:** Short exhales through attacks; inhale chamber; exhale pounce.
+
+## 11. Retreating Reverse Wheel
+
+Retreat right → hands drop and sweep back  
+Retreat left → Reverse Double-Arm Wheel  
+Retreat right → Shallow Horse  
+Twin Downward Splitting Palms **SNAP**
+
+**Safety:** Keep stepping. Do not pause with hands behind the head.
+
+## 12. Reignition — Taekwondo
+
+Right Roundhouse → Left Rear Turning Back Kick → Reverse-Line Right Forward Axe, land right  
+Left Roundhouse → Right Rear Turning Back Kick → Home-Line Left Forward Axe, land left  
+Left-knee chamber → Advancing Right Jump Front Kick → land
+
+**Breath:** Compact exhales through kicks; breathe through rechambers and turns.
+
+**Safety:** Spot before each turning kick. Reduce kick height before sacrificing balance, knee alignment, or retraction.
+
+## 13. Contain the Fire
+
+Mountain Pose → Standing Forward Fold → Sun Salutation (single pose) → Mountain Pose  
+Two ordinary breaths
+
+**Breath:** Exhale fold → inhale salute → exhale settle.
+
+## Memory Line
+
+**Mountain → Fold → Bellows → Split Right → Split Left → Rise → Gwa → Sow → Chop → Orbit → Crescent → Crane Right → Crane Left → Descend → Sweep → Rise → Crane → Jump → Esquiva–Bênção Right → Ginga → Esquiva–Bênção Left → Ginga → Armada Right → Ginga → Armada Left → Ginga → Shaolin Left → Shaolin Right → Tiger Left → Tiger Right → Pounce → Rake → Retreating Wheel → Split Down → TKD Right → Reverse Axe → TKD Left → Home Axe → Advancing Jump → Mountain → Fold → Salute → Mountain**
+
+## Essential Safety
+
+- Practice the full form slowly before adding speed or amplitude.
+- Keep Dragon Bellows controlled; never retain the breath, close the throat, or bear down.
+- Let the feet pivot during waist or turning actions so the knees follow the hips.
+- Keep kicks below the height at which posture, knee alignment, balance, or clean retraction deteriorates.
+- Use the non-jumping study version whenever the jump loses a controlled chamber or landing.
+- Stop a pass for sharp pain, catching, instability, sudden weakness, numbness, dizziness, unusual head pressure, visual disturbance, chest discomfort, or unusual shortness of breath.

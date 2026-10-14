@@ -441,3 +441,111 @@ Repeated geometry does not necessarily mean repeated training.
 Audit the complete phrase by:
 
 **Entry → Loading → Force Direction → Active Musculature → Capture → Exit**
+
+---
+
+# Practice Guide
+
+**Purpose:** Build rooted strength, balance, ground force, and controlled transitions through one continuous martial journey.
+
+**Stay loaded through transitions. HOLDs count breaths. FLOW coordinates breath. SNAP issues breath. Never hold the breath for stability or power.**
+
+## 1. Root
+
+Mountain Pose → Standing Forward Fold **[3]**  
+Unfold and gather → Double Palm Press **SNAP** → Horse **[3]**
+
+**Breath:** Exhale into fold → inhale unfolding → exhale press and settle.
+
+## 2. Four Corners
+
+**A:** Pak Sau / advance → Right Punch **SNAP** → Left Punch **SNAP**  
+Sidestep + hip rotation → Left Horizontal Elbow **SNAP**
+
+**B:** Pak Sau / advance → Punch **SNAP** → Punch **SNAP**  
+Look back: eyes → shoulders → hips  
+Shift + sink → hands receive ground → 180° Back Sweep **FLOW** → plant + rise
+
+**C:** Pak Sau / advance → Left Punch **SNAP** → Right Punch **SNAP**  
+Sidestep + hip rotation → Right Horizontal Elbow **SNAP**
+
+**D:** Pak Sau / advance → Punch **SNAP** → Punch **SNAP**  
+Circular receive → turn center → Outward Ward **SNAP** → Horse **[3]**
+
+**Breath:** Continuous. Short exhales on strikes and ward; inhale through receiving/preparation; exhale through controlled sweep. Do not hold breath in the low rotation.
+
+## 3. First Panther
+
+Horse releases low → Panther **FLOW**  
+Low Inward Crescent Kick **SNAP** → Diagonal Leopard Strike **SNAP**  
+Give ground → Thai Check **FLOW**  
+Keep checking leg airborne → Lead Jab **SNAP** → Same-Leg Teep **SNAP**  
+Recoil without touchdown → Crane / Thai Check **[3]**
+
+**Breath:** Short exhales on Panther attacks → inhale into Check → exhale Jab and Teep → inhale recoil.
+
+## 4. First Journey
+
+Crane → Tree **[5]**  
+No touchdown → Warrior III **FLOW [5]**  
+No touchdown → controlled descent → Panther **FLOW**
+
+Shift back → reverse forward → fists receive ground → Knuckle Plank **[5]**  
+Knee → Same-Side Elbow **[3]** → Knuckle Plank **[3]**
+
+Knee drives through → Lunge → Revolved Panther **FLOW** → Panther **FLOW**
+
+Low Crescent Kick **SNAP** → Leopard Strike **SNAP**  
+Give ground → Thai Check **FLOW**  
+Checking leg stays airborne → Lead Jab **SNAP** → Same-Leg Teep **SNAP**  
+Recoil without touchdown → Opposite Crane / Thai Check **[3]**
+
+**Breath:** Natural through balance work; inhale lengthening into Warrior III; exhale controlled descent; continuous through ground work; stronger exhale Knee-to-Elbow; inhale into Check; exhale Jab and Teep; inhale recoil.
+
+## 5. Second Journey
+
+Opposite Crane → Opposite Tree **[5]**  
+No touchdown → Opposite Warrior III **FLOW [5]**  
+No touchdown → controlled descent → Opposite Panther **FLOW**
+
+Shift back → reverse forward → fists receive ground → Knuckle Plank **[5]**  
+Knee → Same-Side Elbow **[3]** → Knuckle Plank **[3]**
+
+Knee drives through → Lunge → Opposite Revolved Panther **FLOW** → Panther **FLOW**
+
+Low Crescent Kick **SNAP** → Leopard Strike **SNAP**  
+Give ground → Thai Check **FLOW**  
+Checking leg stays airborne → Lead Jab **SNAP** → Same-Leg Teep **SNAP**  
+Recoil without touchdown → Crane / Thai Check **FLOW** → Horse **[5]**
+
+**Breath:** Mirror First Journey. Final Crane is transition only; inhale through recoil and continue into Horse.
+
+## 6. Third Journey
+
+Horse **[5]** → Mae Geri **SNAP**  
+Land into Oi Zuki **SNAP** → Gyaku Zuki **SNAP**  
+Kiba-dachi **FLOW** → Nami-gaeshi **FLOW**  
+Return foot → Hooking Elbow **SNAP** → Ground Punch **SNAP** → Horse **FLOW**
+
+Reverse Stance **FLOW** → Opposite Mae Geri **SNAP**  
+Land into Opposite Oi Zuki **SNAP** → Opposite Gyaku Zuki **SNAP**  
+Opposite Kiba-dachi **FLOW** → Opposite Nami-gaeshi **FLOW**  
+Return foot → Opposite Hooking Elbow **SNAP** → Opposite Ground Punch **SNAP** → Horse **[5]**
+
+**Breath:** Inhale through chambers/reversals; compact exhales on kicks and strikes; breathe continuously through Nami-gaeshi.
+
+## 7. Return to Root
+
+Horse softens → Cloud Hands **FLOW**  
+Right → Center → Left → Center  
+Narrow toward Mountain Pose → Standing Forward Fold **[3]**  
+Unfold → Sun Salutation, single pose **FLOW**  
+Arms lower → Mountain Pose → Stillness
+
+**Breath:** Smooth and even through Cloud Hands → exhale fold → inhale unfolding/salutation → exhale arms down.
+
+**Essential safety:** Control every descent and landing. Keep wrists neutral in Knuckle Plank. Let knees track naturally with pivots and stance changes. Never manufacture stability by holding the breath. Sharp pain, catching, instability, sudden weakness, dizziness, or numbness ends the pass.
+
+**Memory line:**  
+Root → Four Corners → Panther / Check / Jab / Teep → Crane → Tree → Warrior III → Panther → Plank → Revolved Panther → Panther / Check / Jab / Teep → Opposite Crane → mirror journey → Horse → Third Journey → Cloud Hands → Fold → Salute → Mountain
+

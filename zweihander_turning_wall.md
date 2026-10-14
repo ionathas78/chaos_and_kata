@@ -210,3 +210,122 @@ Lower the sword through forward guard and hold for one quiet breath.
 - Sharp pain, catching, instability, sudden weakness, or numbness ends the session.
 - Use Flanking Fence as a self-limiting wind-down: when point control first loosens, finish the current right-left pair at reduced measure and restore the ground.
 - Practice the revised sequence as one slow pass before restoring the two-pass conditioning structure.
+
+---
+
+# Practice Guide
+
+**Purpose:** Hold the center, answer changing lines, close and reclaim measure, deny the flanks.
+
+**Easy blade. Continuous circles. No hard stops behind the head.**  
+Inhale while gathering; exhale through thrusts, cleave, and turning denials.
+
+## 1. Enter the Ground
+
+Forward guard → forward fold → rise through guard  
+Left foot forward; sword low right  
+Abbreviated rising forehand → rising backhand  
+Advance → full rising forehand → collect high
+
+## 2. Open the Road
+
+Pass forward → rising backhand  
+Right-shoulder loop → diagonal-right pass → descending backhand  
+Opposite-shoulder loop → diagonal-left pass → descending forehand
+
+## 3. Reach the Cloak
+
+Step left → rising forehand  
+Following foot through → rising backhand  
+Collect high → turn center → broad stance
+
+## 4. Hold the Near Perimeter
+
+**Left-foot axis:**  
+Rising forehand → descending backhand → withdraw right foot with horizontal forehand
+
+Collect high → transfer weight
+
+**Right-foot axis:**  
+Rising backhand → descending forehand → withdraw left foot with horizontal backhand
+
+## 5. Turn the Wheel
+
+Final backhand rises around right shoulder  
+Close forehand circle → wide backhand circle  
+Lateral traveling step → forehand circle → backhand circle  
+Collect high
+
+## 6. Shift the Wall
+
+Broad lateral clearing cut → settle on new line
+
+**Left-foot axis:**  
+Rising forehand → descending backhand → horizontal forehand
+
+High transition
+
+**Right-foot axis:**  
+Rising backhand → descending forehand → horizontal backhand
+
+## 7. Front and Rear
+
+High guard → short advance → descending forehand  
+Step right → right-line thrust
+
+Recover point → right foot becomes axis  
+Left foot passes around → circling backhand draws the turn  
+Descending forehand toward rear → thrust
+
+## 8. The Narrow Gate
+
+Recover point-forward → turn to original front  
+Left hand moves to middle third of blade  
+Hilt to right ribs
+
+Diagonal left → True Cross → thrust  
+Withdraw → gather feet  
+Diagonal right → Bastard Cross → thrust
+
+## 9. Reclaim the Measure
+
+Withdraw thrust → step backward  
+Point guides outward left  
+Blade hand returns to pommel  
+Rising backhand → over crown → descending hawk
+
+## 10. Hawk–Quarter–Rake
+
+Step with hawk  
+Horizontal quarter cut → turn through open line  
+Rising rake → over crown → controlled descending cleave
+
+## 11. Flanking Fence
+
+Cleave curves outward → standard cut  
+Opposite-line answering cut → overhead wheel  
+Gather hips → horizontal denial → pivot right 90° or 180°
+
+**Forehand → backhand / gather → horizontal backhand / pivot right**
+
+From the new facing:
+
+**Backhand → forehand / gather → horizontal forehand / pivot left**
+
+Alternate right and left. Rising-first or falling-first according to the blade’s position.
+
+When point control loosens: finish the current right-left pair at reduced measure.
+
+## 12. Restore the Ground
+
+Final cut curves outward  
+Slow forehand circle → slow backhand circle  
+Shrink and soften both circles → forward guard
+
+Trunk right → center → trunk left → center  
+Forward fold  
+Rise → sword salute overhead and slightly forward  
+Lower through forward guard → one quiet breath
+
+**Memory line:**  
+Guard → Fold → Enter → Open → Cross → Ward Left → Ward Right → Wheel → Shift → Ward Again → Front and Rear → Shorten → Left Gate → Gather → Right Gate → Lengthen → Hawk → Quarter → Rake → Cleave → Fence Right → Fence Left → Shrink → Turn Right → Turn Left → Fold → Salute → Guard
